@@ -1,0 +1,300 @@
+{
+  "pairs": [
+    {
+      "pair_id": "pair_01_strong_match",
+      "expected_match_quality": "strong",
+      "resume": {
+        "name": "Al E. Gator",
+        "contact": {
+          "email": "annecarlson@gmail.com",
+          "phone": "727-555-0121",
+          "location": "Gainesville, FL"
+        },
+        "education": [
+          {
+            "degree": "Bachelor of Science",
+            "field": "Computer Science",
+            "institution": "University of Florida",
+            "location": "Gainesville, FL",
+            "graduation_date": "2023-05",
+            "gpa": 3.85
+          }
+        ],
+        "skills": [
+          "Java", "Python", "MySQL", "Git", "Unix", "C", "C++", "JavaScript",
+          "Swift", "Ruby on Rails", "OCaml", "Node.js", "HTML", "CSS",
+          "LaTeX", "MongoDB", "Microsoft Word", "Google Suite"
+        ],
+        "experience": [
+          {
+            "title": "Software Engineering Intern",
+            "company": "Google",
+            "location": "Mountain View, CA",
+            "start_date": "2021-06",
+            "end_date": "2021-08",
+            "duration_months": 2,
+            "bullets": [
+              "Launched Google+ Stories and contributed to story generation algorithm",
+              "Developed spam comment detection program using Google Prediction API",
+              "Conducted user experience testing in collaboration with 4-member design team"
+            ]
+          },
+          {
+            "title": "Product/Tech Intern",
+            "company": "Next Tech",
+            "location": "San Francisco, CA",
+            "start_date": "2020-05",
+            "end_date": "2020-08",
+            "duration_months": 3,
+            "bullets": [
+              "Developed metrics dashboards for AdWords and Outbrain marketing campaigns using Linux/Python/SQL",
+              "Created test cases for financial models and interactive calculators",
+              "Wrote requirements and oversaw creation of new site content in agile development cycles"
+            ]
+          },
+          {
+            "title": "Software Developer Intern",
+            "company": "University of Florida Hospital: Shands",
+            "location": "Gainesville, FL",
+            "start_date": "2019-06",
+            "end_date": "2019-08",
+            "duration_months": 2,
+            "bullets": [
+              "Designed Android mobile application game for stroke patient rehabilitation",
+              "Formalized application requirements after client interviews and machine testing",
+              "Developed application in 2 week sprints incorporating client feedback"
+            ]
+          },
+          {
+            "title": "Project: Productivity Tool (Software Engineering and Design Class)",
+            "company": "University of Florida",
+            "location": "Gainesville, FL",
+            "start_date": "2020-01",
+            "end_date": "present",
+            "duration_months": null,
+            "bullets": [
+              "Collaborates in team of 3 to design tool in OCaml and C++ for calendar management",
+              "Conducts weekly meetings to assess project progress and troubleshoot issues"
+            ]
+          }
+        ],
+        "total_experience_years_stated": null
+      },
+      "job_description": {
+        "title": "Software Engineer I",
+        "company": "Redwood Analytics",
+        "location": "Remote (US)",
+        "employment_type": "Full-time, entry-level",
+        "required_skills": [
+          "Python", "SQL", "Git", "JavaScript", "REST APIs"
+        ],
+        "preferred_skills": [
+          "Node.js", "MongoDB", "AWS", "Agile/Scrum experience"
+        ],
+        "required_experience_years": 0,
+        "preferred_experience_years": 1,
+        "required_education": {
+          "degree_level": "Bachelor's",
+          "field": "Computer Science or related field"
+        },
+        "description": "We're looking for an entry-level Software Engineer to join our data platform team. You'll build backend services in Python, write SQL queries against our data warehouse, and collaborate with a small agile team on new features. New grads with internship experience are encouraged to apply.",
+        "responsibilities": [
+          "Build and maintain backend services in Python",
+          "Write and optimize SQL queries",
+          "Participate in code review and agile ceremonies",
+          "Collaborate with product and design on new features"
+        ]
+      }
+    },
+    {
+      "pair_id": "pair_02_medium_match",
+      "expected_match_quality": "medium",
+      "resume": {
+        "name": "Albert Gator",
+        "contact": {
+          "email": "albertagator@ufl.edu",
+          "phone": "352-290-5678",
+          "location": "Gainesville, FL"
+        },
+        "education": [
+          {
+            "degree": "Bachelor of Business Administration",
+            "field": "Marketing",
+            "institution": "University of Florida, Warrington College of Business",
+            "location": "Gainesville, FL",
+            "graduation_date": "2023-05",
+            "gpa": 3.72
+          }
+        ],
+        "skills": [
+          "Google Analytics", "Google AdWords", "SEO optimization",
+          "Social Media Marketing", "WordPress", "Tableau", "Microsoft Excel",
+          "Conversational Spanish", "Conversational French"
+        ],
+        "experience": [
+          {
+            "title": "Marketing Assistant, Office of Admissions",
+            "company": "University of Florida",
+            "location": "Gainesville, FL",
+            "start_date": "2020-09",
+            "end_date": "present",
+            "duration_months": null,
+            "bullets": [
+              "Works with admission marketing team to create recruiting materials",
+              "Created 4 new web pages for the admissions office",
+              "Initiated the use of Google Analytics to track website traffic"
+            ]
+          },
+          {
+            "title": "Advertising Intern",
+            "company": "Company Name",
+            "location": "City, State",
+            "start_date": "2022-05",
+            "end_date": "2022-08",
+            "duration_months": 3,
+            "bullets": [
+              "Researched over 200 customers to determine customer experience",
+              "Liaison between Customer Experience Team and Advertising Team for 5 campaigns",
+              "Created graphical dashboards for customer satisfaction by global region"
+            ]
+          },
+          {
+            "title": "Marketing Intern",
+            "company": "Entrepreneurship Institute",
+            "location": "City, State",
+            "start_date": "2020-05",
+            "end_date": "2020-08",
+            "duration_months": 3,
+            "bullets": [
+              "Promoted programs and events through mixed media marketing",
+              "Utilized Google Analytics to reorganize website layout, 40% increase in time on site",
+              "Assisted in creation of comprehensive marketing plan for product launch",
+              "Received certification in Google Analytics and Google AdWords"
+            ]
+          }
+        ],
+        "total_experience_years_stated": null
+      },
+      "job_description": {
+        "title": "Marketing Coordinator",
+        "company": "Brightleaf Consumer Goods",
+        "location": "Orlando, FL",
+        "employment_type": "Full-time, entry-level",
+        "required_skills": [
+          "Google Analytics", "Social Media Marketing", "Content creation",
+          "Email marketing platforms (e.g. Mailchimp, Klaviyo)", "Excel"
+        ],
+        "preferred_skills": [
+          "SEO optimization", "Paid social advertising", "Adobe Creative Suite", "Tableau"
+        ],
+        "required_experience_years": 2,
+        "preferred_experience_years": 3,
+        "required_education": {
+          "degree_level": "Bachelor's",
+          "field": "Marketing, Communications, or related field"
+        },
+        "description": "Brightleaf is hiring a Marketing Coordinator to support campaign execution across email, social, and web channels. The ideal candidate has 2+ years of marketing experience, is comfortable with analytics tools, and has run email marketing campaigns end-to-end.",
+        "responsibilities": [
+          "Execute email marketing campaigns from brief to send",
+          "Manage and grow social media presence across platforms",
+          "Track and report on campaign performance using Google Analytics",
+          "Coordinate with design team on marketing collateral"
+        ]
+      }
+    },
+    {
+      "pair_id": "pair_03_weak_match",
+      "expected_match_quality": "weak",
+      "resume": {
+        "name": "Al E. Gator (Agricultural Sciences)",
+        "contact": {
+          "email": "rlphalange@gmail.com",
+          "phone": "352-555-0121",
+          "location": "Gainesville, FL"
+        },
+        "education": [
+          {
+            "degree": "Bachelor of Science",
+            "field": "Food and Resource Economics (Food and Agribusiness Marketing and Management)",
+            "institution": "University of Florida",
+            "location": "Gainesville, FL",
+            "graduation_date": "2023-05",
+            "gpa": 3.07
+          }
+        ],
+        "skills": [
+          "Operation of mid-sized wheel loader and tractor",
+          "Basic Spanish",
+          "Isolating/culturing bacterial, fungal, and nematode plant pathogens"
+        ],
+        "experience": [
+          {
+            "title": "Botanic Gardens Garden Manager/Intern Supervisor",
+            "company": "Kanapaha Botanical Gardens",
+            "location": "Gainesville, FL",
+            "start_date": "2022-09",
+            "end_date": "present",
+            "duration_months": null,
+            "bullets": [
+              "Supervises up to 10 interns and volunteers performing garden planting and maintenance",
+              "Maintains health and aesthetics of turf planting beds and nursery",
+              "Exposed to wide variety of woody and herbaceous plant cultivars"
+            ]
+          },
+          {
+            "title": "Intern",
+            "company": "Ruppert Landscape",
+            "location": "Orlando, FL",
+            "start_date": "2022-05",
+            "end_date": "2022-08",
+            "duration_months": 3,
+            "bullets": [
+              "Managed a 2-3 person crew responsible for maintenance of commercial landscape contracts",
+              "Communicated with clients to ensure health and aesthetics of turf and planting beds",
+              "Assisted in daily servicing of all power equipment used by crews"
+            ]
+          },
+          {
+            "title": "Horticulturist/Nursery Salesperson",
+            "company": "Rhoads Garden Center",
+            "location": "Orlando, FL",
+            "start_date": "2021-05",
+            "end_date": "2021-08",
+            "duration_months": 3,
+            "bullets": [
+              "Consulted homeowners and landscape contractors on plant material selection",
+              "Diagnosed and treated plant pathological disorders and soil fertility issues",
+              "Installed landscapes and hardscape features"
+            ]
+          }
+        ],
+        "total_experience_years_stated": null
+      },
+      "job_description": {
+        "title": "Data Analyst",
+        "company": "Meridian Health Systems",
+        "location": "Tampa, FL",
+        "employment_type": "Full-time, entry-level",
+        "required_skills": [
+          "SQL", "Excel", "Python or R", "Data visualization (Tableau or Power BI)", "Statistics"
+        ],
+        "preferred_skills": [
+          "Healthcare data experience", "Power BI", "A/B testing"
+        ],
+        "required_experience_years": 1,
+        "preferred_experience_years": 2,
+        "required_education": {
+          "degree_level": "Bachelor's",
+          "field": "Data Science, Statistics, Economics, or related quantitative field"
+        },
+        "description": "We're seeking a Data Analyst to join our operations analytics team. You'll write SQL queries against patient operations data, build dashboards, and support data-driven decision making across departments.",
+        "responsibilities": [
+          "Write SQL queries to extract and analyze operational data",
+          "Build and maintain dashboards in Tableau or Power BI",
+          "Perform statistical analysis to support business decisions",
+          "Present findings to non-technical stakeholders"
+        ]
+      }
+    }
+  ]
+}
