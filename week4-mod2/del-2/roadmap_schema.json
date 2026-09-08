@@ -1,0 +1,117 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AI Career Roadmap Output",
+  "description": "Structured output contract for the AI Career Roadmap Generator v1. The LLM's response must be parsed into exactly this shape before the backend uses it - free text is never accepted directly.",
+  "type": "object",
+  "required": [
+    "career_summary",
+    "current_level",
+    "skill_gaps",
+    "roadmap",
+    "recommended_resources",
+    "resume_improvements"
+  ],
+  "properties": {
+    "career_summary": {
+      "type": "string",
+      "description": "Short narrative summary of the candidate's current standing relative to their stated career goal. Comes from Prompt A."
+    },
+    "current_level": {
+      "type": "string",
+      "enum": ["Entry-level", "Junior", "Mid-level", "Senior"],
+      "description": "Candidate's current level, determined by Prompt A from years of experience and required-skills-matched count."
+    },
+    "skill_gaps": {
+      "type": "array",
+      "description": "The candidate's missing skills, inherited directly from skill_gap_engine.py (Week 3) - not re-derived by the LLM.",
+      "items": {
+        "type": "object",
+        "required": ["skill", "priority", "reason"],
+        "properties": {
+          "skill": {
+            "type": "string",
+            "description": "Name of the missing skill."
+          },
+          "priority": {
+            "type": "string",
+            "enum": ["critical", "nice-to-have"],
+            "description": "Inherited directly from Week 3's Critical Gap / Nice-to-Have Gap categorization."
+          },
+          "reason": {
+            "type": "string",
+            "description": "Short explanation of why this skill matters for the target job. Comes from Prompt B, generated once per skill."
+          }
+        }
+      }
+    },
+    "roadmap": {
+      "type": "array",
+      "description": "Exactly 5 phases, in fixed order, from Prompt C.",
+      "minItems": 5,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["phase_number", "phase_name", "skills", "goal"],
+        "properties": {
+          "phase_number": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "phase_name": {
+            "type": "string",
+            "enum": [
+              "Fundamentals",
+              "Intermediate Skills",
+              "Advanced Skills",
+              "Projects",
+              "Job Preparation"
+            ]
+          },
+          "skills": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Skills assigned to this phase. Every skill here MUST also appear in skill_gaps - the LLM is not allowed to introduce skills outside that list."
+          },
+          "goal": {
+            "type": "string",
+            "description": "One-sentence description of what the candidate should be able to do by the end of this phase."
+          }
+        }
+      }
+    },
+    "recommended_resources": {
+      "type": "array",
+      "description": "Attached AFTER the roadmap is generated, by recommendation_engine.py matching against a verified resource database - never generated freely by the LLM, to prevent invented courses/URLs (Task 6).",
+      "items": {
+        "type": "object",
+        "required": ["skill", "resource_name", "resource_url", "resource_type"],
+        "properties": {
+          "skill": {
+            "type": "string",
+            "description": "Which skill (from skill_gaps) this resource addresses."
+          },
+          "resource_name": {
+            "type": "string"
+          },
+          "resource_url": {
+            "type": "string",
+            "format": "uri",
+            "description": "Must come from the verified resource database - never LLM-generated."
+          },
+          "resource_type": {
+            "type": "string",
+            "enum": ["course", "certification", "documentation", "book", "video", "practice"]
+          }
+        }
+      }
+    },
+    "resume_improvements": {
+      "type": "array",
+      "description": "Concrete, specific suggestions for improving the resume document itself (not skill gaps).",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

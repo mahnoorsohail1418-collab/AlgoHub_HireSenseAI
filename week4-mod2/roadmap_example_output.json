@@ -1,0 +1,66 @@
+{
+  "career_summary": "You have solid foundational CS skills and internship experience, but are missing a few required tools for the Software Engineer I role you're targeting. Closing these gaps would make you a strong candidate.",
+  "current_level": "Entry-level",
+  "skill_gaps": [
+    {
+      "skill": "REST APIs",
+      "priority": "critical",
+      "reason": "Almost every backend role expects you to build or consume REST APIs day-to-day, since it's the standard way services communicate."
+    },
+    {
+      "skill": "AWS",
+      "priority": "nice-to-have",
+      "reason": "Many companies host their infrastructure on AWS, so familiarity speeds up onboarding even though it's not always required for entry-level roles."
+    }
+  ],
+  "roadmap": [
+    {
+      "phase_number": 1,
+      "phase_name": "Fundamentals",
+      "skills": ["REST APIs"],
+      "goal": "Understand HTTP methods, status codes, and how to design a basic REST endpoint."
+    },
+    {
+      "phase_number": 2,
+      "phase_name": "Intermediate Skills",
+      "skills": ["AWS"],
+      "goal": "Deploy a simple service to a cloud provider and understand core AWS services (EC2, S3)."
+    },
+    {
+      "phase_number": 3,
+      "phase_name": "Advanced Skills",
+      "skills": [],
+      "goal": "No advanced-level gaps detected for this role."
+    },
+    {
+      "phase_number": 4,
+      "phase_name": "Projects",
+      "skills": ["REST APIs", "AWS"],
+      "goal": "Build and deploy one small full-stack project using a REST API hosted on AWS."
+    },
+    {
+      "phase_number": 5,
+      "phase_name": "Job Preparation",
+      "skills": [],
+      "goal": "Update resume and portfolio to reflect the new project, and practice explaining it in interviews."
+    }
+  ],
+  "recommended_resources": [
+    {
+      "skill": "REST APIs",
+      "resource_name": "REST API Design Best Practices",
+      "resource_url": "https://www.freecodecamp.org/news/rest-api-best-practices/",
+      "resource_type": "documentation"
+    },
+    {
+      "skill": "AWS",
+      "resource_name": "AWS Cloud Practitioner Essentials",
+      "resource_url": "https://aws.amazon.com/training/digital/aws-cloud-practitioner-essentials/",
+      "resource_type": "course"
+    }
+  ],
+  "resume_improvements": [
+    "Add a dedicated Projects section - your only project listed is a class assignment; a self-directed project would stand out more.",
+    "Quantify at least one bullet point in your internship descriptions with a number or metric."
+  ]
+}

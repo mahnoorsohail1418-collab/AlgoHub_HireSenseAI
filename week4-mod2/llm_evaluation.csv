@@ -1,0 +1,11 @@
+test_case,check,result,details
+Test 1: Invented skill name,no_invented_skills,PASS,No invented skills found.
+Test 1: Invented skill name,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Quantum Flux Programming'.
+Test 1: Invented skill name,all_resources_verified,PASS,All resource URLs are verified.
+Test 1: Invented skill name,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Quantum Flux Programming' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology."
+Test 2: Near-beginner targeting Senior role,no_invented_skills,PASS,No invented skills found.
+Test 2: Near-beginner targeting Senior role,phase_structure_correct,PASS,Phase structure correct.
+Test 2: Near-beginner targeting Senior role,all_resources_verified,PASS,All resource URLs are verified.
+Test 3: Normal case - skill leakage check,no_invented_skills,PASS,No invented skills found.
+Test 3: Normal case - skill leakage check,phase_structure_correct,PASS,Phase structure correct.
+Test 3: Normal case - skill leakage check,all_resources_verified,PASS,All resource URLs are verified.
