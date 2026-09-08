@@ -1,0 +1,26 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs_full",
+      "raw_sections": {
+        "personal_info": "Alex Chen\nalex.chen@email.com | (555) 123-4567 | Gainesville, FL\nlinkedin.com/in/alexchen | github.com/alexchen",
+        "education": "B.S. in Computer Science | University of Florida (Aug 2019 - May 2023)\nGPA: 3.8/4.0. Relevant Coursework: Data Structures, Algorithms, Databases",
+        "experience": "Software Engineering Intern | Google | June 2021 - August 2021\nLaunched Google+ Stories and contributed to story generation algorithm. Developed spam comment detection program using Google Prediction API. Technologies: Python, TensorFlow, SQL\n\nProduct/Tech Intern | Next Tech | May 2020 - August 2020\nDeveloped metrics dashboards for AdWords and Outbrain marketing campaigns using Linux/Python/SQL. Created test cases for financial models. Technologies: Python, SQL, Linux",
+        "skills": "Languages: Python, Java, C++\nFrameworks: React, Django, Flask\nTools: Git, Docker, AWS",
+        "projects": "Productivity Tool | Software Engineering and Design Class Project (Jan 2020 - Present)\nCollaborates in team of 3 to design tool in OCaml and C++ to facilitate efficient calendar management. Technologies: OCaml, C++. Link: github.com/agator/productivity-tool",
+        "certifications": "AWS Certified Solutions Architect - Associate, Amazon Web Services, 2023\nCertified Kubernetes Administrator (CKA), The Linux Foundation, Issued: March 2022"
+      }
+    },
+    {
+      "resume_id": "resume_02_marketing_no_certs",
+      "raw_sections": {
+        "personal_info": "Jordan Rivera\njordan.rivera@email.com, 555.987.6543, Orlando, FL\nlinkedin.com/in/jordanrivera",
+        "education": "University of Florida - B.A. in Marketing (2018-2022)\nDean's List all semesters. GPA: 3.6",
+        "experience": "Marketing Assistant, Office of Admissions - University of Florida (September 2020 - Present)\nWorks with admission marketing team to create recruiting materials. Initiated the use of Google Analytics to track website traffic. Tools: Google Analytics, WordPress\n\nAdvertising Intern, Company Name (May 2022 - August 2022)\nResearched over 200 customers to determine customer experience. Created graphical dashboards. Tools: Tableau, Excel",
+        "skills": "Python, SQL, Tableau, Excel, Google Analytics, Salesforce",
+        "projects": "",
+        "certifications": ""
+      }
+    }
+  ]
+}

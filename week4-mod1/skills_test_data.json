@@ -1,0 +1,20 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs_categorized",
+      "raw_skills_text": "Languages: Python, Java, C++\nFrameworks: React, Django, Flask\nTools: Git, Docker, AWS"
+    },
+    {
+      "resume_id": "resume_02_flat_list",
+      "raw_skills_text": "Python, SQL, Tableau, Excel, Google Analytics, Salesforce"
+    },
+    {
+      "resume_id": "resume_03_bulleted_flat",
+      "raw_skills_text": "\u2022 Event Planning\n\u2022 Budget Management\n\u2022 Vendor Negotiation\n\u2022 Client Communication"
+    },
+    {
+      "resume_id": "resume_04_mixed",
+      "raw_skills_text": "Languages: Python, JavaScript\n\u2022 Public Speaking"
+    }
+  ]
+}
