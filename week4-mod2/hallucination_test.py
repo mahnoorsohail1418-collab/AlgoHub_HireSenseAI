@@ -4,7 +4,7 @@ hallucination_test.py
 Week 4, Module 2, Task 6 - Hallucination Testing
 
 WHAT THIS DOES:
-Runs the REAL roadmap generator (not mock mode) against 3 deliberately
+Runs the REAL roadmap generator (not mock mode) against 6 deliberately
 tricky test cases, then checks the output for the specific hallucination
 risks named in the task doc:
   1. Does the AI invent skills that were never in the original gap list?
@@ -26,6 +26,7 @@ Results are written to llm_evaluation.csv.
 
 import csv
 import json
+import time
 
 from roadmap_generator import generate_roadmap, MOCK_MODE
 from resource_database import RESOURCE_DB
@@ -170,6 +171,85 @@ def test_3_normal_case_skill_leakage():
     return result, checks
 
 
+def test_4_plausible_sounding_fake_skill():
+    """
+    Variant of Test 1, but with a fake skill name that SOUNDS technically
+    legitimate (unlike 'Quantum Flux Programming', which is obviously
+    sci-fi). This checks whether the fix only works on obviously-fake
+    names or genuinely generalizes to more convincing fakes.
+    """
+    candidate_profile = {"name": "Test4", "skills": ["Python", "SQL"], "years_experience": 2}
+    ats_analysis = {"skills_score": 0.5, "final_score": 0.6}
+    skill_gaps = [
+        {"skill": "Distributed Vector Sharding", "priority": "critical"},  # made up, but plausible-sounding
+        {"skill": "SQL", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Backend Engineer", target_job="Backend Engineer", level="Intermediate")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "Distributed Vector Sharding")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "Distributed Vector Sharding")),
+    ]
+    return result, checks
+
+
+def test_5_boring_sounding_fake_skill():
+    """
+    Another Test 1 variant, using a deliberately mundane/boring fake skill
+    name instead of an exotic one. A model might be more tempted to
+    confidently fabricate a reason for something that sounds like ordinary,
+    unremarkable enterprise jargon.
+    """
+    candidate_profile = {"name": "Test5", "skills": ["Excel", "SQL"], "years_experience": 1}
+    ats_analysis = {"skills_score": 0.35, "final_score": 0.4}
+    skill_gaps = [
+        {"skill": "Batch Record Normalization", "priority": "nice-to-have"},  # made up, deliberately boring-sounding
+        {"skill": "SQL", "priority": "critical"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Data Analyst", target_job="Data Analyst", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "Batch Record Normalization")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "Batch Record Normalization")),
+    ]
+    return result, checks
+
+
+def test_6_fake_version_of_real_skill():
+    """
+    A different hallucination flavor: NOT a fully invented skill, but a
+    real, well-known technology paired with a version number that doesn't
+    exist. Tests whether the model fabricates plausible-sounding details
+    about a fake version of something real, which is an easier trap to
+    fall into than a fully made-up name.
+    """
+    candidate_profile = {"name": "Test6", "skills": ["JavaScript", "HTML", "CSS"], "years_experience": 1.5}
+    ats_analysis = {"skills_score": 0.45, "final_score": 0.5}
+    skill_gaps = [
+        {"skill": "React 25", "priority": "critical"},  # React is real, version 25 does not exist
+        {"skill": "JavaScript", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Frontend Engineer", target_job="Frontend Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "React 25")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "React 25")),
+    ]
+    return result, checks
+
+
 # ---------------------------------------------------------------------------
 # Runner
 # ---------------------------------------------------------------------------
@@ -185,6 +265,9 @@ def run_all_tests():
         ("Test 1: Invented skill name", test_1_invented_skill),
         ("Test 2: Near-beginner targeting Senior role", test_2_near_beginner_advanced_role),
         ("Test 3: Normal case - skill leakage check", test_3_normal_case_skill_leakage),
+        ("Test 4: Plausible-sounding fake skill", test_4_plausible_sounding_fake_skill),
+        ("Test 5: Boring-sounding fake skill", test_5_boring_sounding_fake_skill),
+        ("Test 6: Fake version of a real skill", test_6_fake_version_of_real_skill),
     ]
 
     csv_rows = []
@@ -192,7 +275,6 @@ def run_all_tests():
     for test_name, test_fn in tests:
         print(f"\n{'=' * 60}\n{test_name}\n{'=' * 60}")
         result, checks = test_fn()
-
         for check_name, passed, detail in checks:
             status = "PASS" if passed else "FAIL"
             print(f"  [{status}] {check_name}: {detail}")
@@ -205,7 +287,17 @@ def run_all_tests():
 
         print("\n  --- Skill gap explanations (read these yourself for tone/accuracy) ---")
         for gap in result["skill_gaps"]:
-            print(f"  * {gap['skill']} ({gap['priority']}): {gap['reason'][:200]}")
+            print(f"  * {gap['skill']} ({gap['priority']}): {gap['reason']}")
+
+        if not MOCK_MODE:
+            # FIX (found while running 6 test cases back-to-back): the free
+            # tier's per-minute quota (15 requests/min) gets exhausted partway
+            # through a full run, since each test makes ~4 API calls. A short
+            # pause between test cases spreads the calls out enough to avoid
+            # hitting the limit mid-run. Real-API tests are naturally slower
+            # because of this pause - that's expected, not a bug.
+            print("\n  (pausing 20s before next test to stay under the free-tier rate limit...)")
+            time.sleep(20)
 
     with open("llm_evaluation.csv", "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=["test_case", "check", "result", "details"])

@@ -9,3 +9,15 @@ Test 2: Near-beginner targeting Senior role,all_resources_verified,PASS,All reso
 Test 3: Normal case - skill leakage check,no_invented_skills,PASS,No invented skills found.
 Test 3: Normal case - skill leakage check,phase_structure_correct,PASS,Phase structure correct.
 Test 3: Normal case - skill leakage check,all_resources_verified,PASS,All resource URLs are verified.
+Test 4: Plausible-sounding fake skill,no_invented_skills,PASS,No invented skills found.
+Test 4: Plausible-sounding fake skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Distributed Vector Sharding'.
+Test 4: Plausible-sounding fake skill,all_resources_verified,PASS,All resource URLs are verified.
+Test 4: Plausible-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Distributed Vector Sharding' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology. While it combines standard technical terms like distributed systems and vector databases, there is no widely-known framework, library, or official standard bearing this exact name."
+Test 5: Boring-sounding fake skill,no_invented_skills,PASS,No invented skills found.
+Test 5: Boring-sounding fake skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Batch Record Normalization'.
+Test 5: Boring-sounding fake skill,all_resources_verified,PASS,All resource URLs are verified.
+Test 5: Boring-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Batch Record Normalization' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, but it appears to refer to standard data cleaning and standardization practices used to prepare raw datasets for analysis. In a Data Analyst role, ensuring data consistency across different batches or ingestion pipelines is essential for generating accurate and reliable insights."
+Test 6: Fake version of a real skill,no_invented_skills,PASS,No invented skills found.
+Test 6: Fake version of a real skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'React 25'.
+Test 6: Fake version of a real skill,all_resources_verified,PASS,All resource URLs are verified.
+Test 6: Fake version of a real skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'React 25' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, as React has not reached version 25. Therefore, it does not represent a real requirement for a Frontend Engineer role."
