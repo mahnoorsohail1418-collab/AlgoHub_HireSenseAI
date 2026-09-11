@@ -2,7 +2,7 @@ test_case,check,result,details
 Test 1: Invented skill name,no_invented_skills,PASS,No invented skills found.
 Test 1: Invented skill name,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Quantum Flux Programming'.
 Test 1: Invented skill name,all_resources_verified,PASS,All resource URLs are verified.
-Test 1: Invented skill name,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Quantum Flux Programming' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology."
+Test 1: Invented skill name,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Quantum Flux Programming' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, and there is no standard framework, documentation, or textbook associated with this exact term in software engineering."
 Test 2: Near-beginner targeting Senior role,no_invented_skills,PASS,No invented skills found.
 Test 2: Near-beginner targeting Senior role,phase_structure_correct,PASS,Phase structure correct.
 Test 2: Near-beginner targeting Senior role,all_resources_verified,PASS,All resource URLs are verified.
@@ -12,12 +12,26 @@ Test 3: Normal case - skill leakage check,all_resources_verified,PASS,All resour
 Test 4: Plausible-sounding fake skill,no_invented_skills,PASS,No invented skills found.
 Test 4: Plausible-sounding fake skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Distributed Vector Sharding'.
 Test 4: Plausible-sounding fake skill,all_resources_verified,PASS,All resource URLs are verified.
-Test 4: Plausible-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Distributed Vector Sharding' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology. While it combines standard technical terms like distributed systems and vector databases, there is no widely-known framework, library, or official standard bearing this exact name."
+Test 4: Plausible-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Distributed Vector Sharding' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology. While it combines standard technical terms related to databases and machine learning, there is no widely-known framework, textbook, or standard industry tool taught under this exact name."
 Test 5: Boring-sounding fake skill,no_invented_skills,PASS,No invented skills found.
 Test 5: Boring-sounding fake skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Batch Record Normalization'.
 Test 5: Boring-sounding fake skill,all_resources_verified,PASS,All resource URLs are verified.
-Test 5: Boring-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Batch Record Normalization' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, but it appears to refer to standard data cleaning and standardization practices used to prepare raw datasets for analysis. In a Data Analyst role, ensuring data consistency across different batches or ingestion pipelines is essential for generating accurate and reliable insights."
+Test 5: Boring-sounding fake skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Batch Record Normalization' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, but conceptually, standardizing data extracted in groups or batches ensures consistency across datasets. Without this, analysts risk skewing metrics and reporting inaccurate trends due to fragmented data formats."
 Test 6: Fake version of a real skill,no_invented_skills,PASS,No invented skills found.
 Test 6: Fake version of a real skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'React 25'.
 Test 6: Fake version of a real skill,all_resources_verified,PASS,All resource URLs are verified.
-Test 6: Fake version of a real skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'React 25' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, as React has not reached version 25. Therefore, it does not represent a real requirement for a Frontend Engineer role."
+Test 6: Fake version of a real skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'React 25' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, as React has not reached version 25. Therefore, it has no direct relevance to a Frontend Engineer role."
+Test 7: Multiple fake skills at once,no_invented_skills,PASS,No invented skills found.
+Test 7: Multiple fake skills at once,no_resources_for_fake_skill_1,PASS,Correctly recommended nothing for 'Recursive Latency Compression'.
+Test 7: Multiple fake skills at once,no_resources_for_fake_skill_2,PASS,Correctly recommended nothing for 'Adaptive Token Meshing'.
+Test 7: Multiple fake skills at once,all_resources_verified,PASS,All resource URLs are verified.
+Test 7: Multiple fake skills at once,no_confident_fabrication_fake_skill_1,PASS,"Model admitted uncertainty about 'Recursive Latency Compression' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill or technology, so I cannot explain its importance to a Backend Engineer role."
+Test 7: Multiple fake skills at once,no_confident_fabrication_fake_skill_2,PASS,"Model admitted uncertainty about 'Adaptive Token Meshing' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill or technology, so I cannot explain its importance to a Backend Engineer role."
+Test 8: Near-miss typo of a real skill,no_invented_skills,PASS,No invented skills found.
+Test 8: Near-miss typo of a real skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'Djnago'.
+Test 8: Near-miss typo of a real skill,all_resources_verified,PASS,All resource URLs are verified.
+Test 8: Near-miss typo of a real skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'Djnago' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology, though it appears to be a common typographical variation of the Django web framework. For a Backend Engineer, working with established Python web frameworks is essential for building robust server-side logic and managing database interactions efficiently."
+Test 9: Fake certification-sounding skill,no_invented_skills,PASS,No invented skills found.
+Test 9: Fake certification-sounding skill,no_resources_for_fake_skill,PASS,Correctly recommended nothing for 'CACP - Certified AI Cloud Practitioner'.
+Test 9: Fake certification-sounding skill,all_resources_verified,PASS,All resource URLs are verified.
+Test 9: Fake certification-sounding skill,no_confident_fabrication_for_fake_skill,PASS,"Model admitted uncertainty about 'CACP - Certified AI Cloud Practitioner' - good sign, but READ THE FULL TEXT YOURSELF: I don't recognize this as an established skill/technology. Therefore, I cannot provide a specific reason for why it matters for a Cloud Engineer role."
