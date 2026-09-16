@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HireSense AI — Candidate Screening</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wordmark">HireSense <span>AI</span></div>
+  <div class="topbar-sub">Candidate screening</div>
+</header>
+
+<main class="shell">
+
+  <!-- SIDEBAR -->
+  <section class="sidebar" aria-label="Resume upload">
+    <h1 class="sidebar-title">Screen your<br>candidate pool</h1>
+    <p class="sidebar-copy">Upload resumes in bulk. We'll parse each one, guess their target role, and rank them — no manual reading required.</p>
+
+    <div class="positions-panel">
+      <div class="positions-header">
+        <span class="field-label" style="margin:0;">Open positions</span>
+        <button type="button" id="add-position-toggle" class="folder-link" style="padding:0;">+ Add position</button>
+      </div>
+      <div id="positions-list" class="positions-list"></div>
+
+      <form id="add-position-form" class="add-position-form" hidden>
+        <input type="text" id="position-title" placeholder="Position title" required>
+        <input type="text" id="position-critical" placeholder="Required skills (comma-separated)">
+        <input type="text" id="position-nice" placeholder="Nice-to-have skills (comma-separated)">
+        <button type="submit" class="btn-secondary">Add</button>
+      </form>
+      <div id="position-error" class="error-box" hidden style="margin-top:8px;"></div>
+    </div>
+
+    <form id="analyze-form">
+      <label class="field-label" for="resume-input">Resumes</label>
+      <div id="dropzone" class="dropzone">
+        <input type="file" id="resume-input" name="resumes" accept=".pdf,.txt" multiple hidden>
+        <input type="file" id="folder-input" webkitdirectory directory multiple hidden>
+        <div class="dropzone-inner">
+          <span class="dropzone-title" id="dropzone-title">Drop PDFs or .txt files, or click to browse</span>
+          <span class="dropzone-sub">Multiple files supported · 8MB each</span>
+          <button type="button" id="folder-btn" class="folder-link">or select a whole folder</button>
+        </div>
+      </div>
+
+      <button type="submit" id="analyze-btn" class="btn-primary" disabled>Screen candidates</button>
+    </form>
+
+    <div id="status-log" class="status-log" hidden></div>
+    <div id="mock-notice" class="mock-notice" hidden>
+      Running without a Gemini API key — roadmap generation will show template responses instead of live AI output.
+    </div>
+    <div id="error-box" class="error-box" hidden></div>
+
+    <div class="sidebar-legend">
+      <div class="legend-row"><span class="legend-dot pending"></span> Pending review</div>
+      <div class="legend-row"><span class="legend-dot selected"></span> Selected</div>
+      <div class="legend-row"><span class="legend-dot rejected"></span> Rejected — roadmap sent</div>
+    </div>
+  </section>
+
+  <!-- RESULTS CANVAS -->
+  <section class="canvas" aria-label="Candidate results">
+
+    <div id="empty-state" class="empty-state">
+      <svg width="220" height="96" viewBox="0 0 220 96" fill="none" aria-hidden="true">
+        <rect x="10" y="14" width="200" height="10" rx="3" fill="#EDF1F3" stroke="#D7DEE3"/>
+        <rect x="10" y="34" width="160" height="10" rx="3" fill="#EDF1F3" stroke="#D7DEE3"/>
+        <rect x="10" y="54" width="180" height="10" rx="3" fill="#EDF1F3" stroke="#D7DEE3"/>
+        <rect x="10" y="74" width="90" height="10" rx="3" fill="#F7EDE0" stroke="#D9A441"/>
+      </svg>
+      <h2>No candidates yet</h2>
+      <p>Upload one or more resumes on the left to see a ranked shortlist with auto-detected roles and match scores.</p>
+    </div>
+
+    <div id="results" class="results" hidden>
+      <div class="results-header">
+        <h2 id="results-count">—</h2>
+        <span class="results-sub">Ranked by match score · click a role to override it</span>
+      </div>
+      <div class="table-wrap">
+        <table class="candidate-table">
+          <thead>
+            <tr>
+              <th>Candidate</th>
+              <th>Target role</th>
+              <th>Match</th>
+              <th>Gaps</th>
+              <th>Top Skills</th>
+              <th>Status</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="candidate-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+
+  </section>
+
+</main>
+
+<!-- REJECTION / ROADMAP MODAL -->
+<div id="modal-overlay" class="modal-overlay" hidden>
+  <div class="modal">
+    <button id="modal-close" class="modal-close" aria-label="Close">×</button>
+    <div id="modal-loading" class="modal-loading" hidden>
+      <div class="modal-loading-text">Generating personalized roadmap and rejection message…</div>
+    </div>
+    <div id="modal-body" class="modal-body" hidden></div>
+  </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
