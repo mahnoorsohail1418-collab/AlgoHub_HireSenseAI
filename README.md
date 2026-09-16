@@ -22,6 +22,7 @@ Most "AI resume screeners" either (a) do simple keyword matching dressed up as A
 
 ## Project Structure
 
+```
 AlgoHub_HireSenseAI/
 ├── weekly tasks_1/                  # Week 1 — PDF resume parser foundations
 │   ├── task1.docx ... task6/        #   incremental tasks building the pipeline
@@ -65,6 +66,7 @@ AlgoHub_HireSenseAI/
 │   └── static/  (script.js, style.css)
 ├── pictures_mvp/                    # Demo screenshots (1.png – 7.png)
 └── testing resumes/                 # Sample resumes used for testing (resume_01–05.pdf)
+```
 
 
 ## Weekly Progress
