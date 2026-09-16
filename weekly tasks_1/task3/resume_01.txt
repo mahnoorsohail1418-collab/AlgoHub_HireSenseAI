@@ -1,0 +1,677 @@
+1
+Digital Arts ........................................................................................................................................................ 3
+Project Experience/Computer Science .............................................................................................................. 4
+Engineering ....................................................................................................................................................... 5
+Education .......................................................................................................................................................... 6
+Pre-Health ......................................................................................................................................................... 7
+Public Service ................................................................................................................................................... 8
+Pre-Law ............................................................................................................................................................. 9
+Hospitality & Tourism .................................................................................................................................... 10
+Finance ............................................................................................................................................................ 11
+Communications & Journalism ....................................................................................................................... 12
+Marketing ........................................................................................................................................................ 13
+Agricultural Sciences ...................................................................................................................................... 14
+First Year ........................................................................................................................................................ 15
+Veteran ............................................................................................................................................................ 16
+Student Athlete ................................................................................................................................................ 17
+2
+Resume: Digital Arts
+Font: Verdana
+Allie Gator
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin
+EDUCATION
+Bachelor of Arts in Digital Arts June 2023
+University of Florida, Gainesville, FL
+PROFESSIONAL EXPERIENCE
+Graphic Designer August 2019 – Present
+Freelance Web & Graphic Design
+• consult with clients to address branding and marketing needs
+• desktop and mobile devices; create and design motion graphics
+Studio Co-Founder & Leader May 2020 – Present
+Design Awaken Arts, Gainesville, FL
+• Co-founded and successfully applied to the national Design for America network
+• Managed seven project teams while spearheading ideation and prototyping workshops
+• Oversaw and implemented outreach efforts, as a result, student members grew from 5-50
+• Planned professional development events and regional conferences
+Design Aide, Department of Applied Innovation, June 2021 – April 2022
+University of Florida, Gainesville, FL
+• Ran 3D printing workshops and training for groups of 15-30 participants
+• Designed posters, banners and managed social media platforms to promote upcoming events
+• Monitored studio space and assisted staff in need of fabrication, CAD, or design support
+UX Design Intern June 2021 – August 2021
+Amazon, Irvine, CA
+• Designed iOS and Android interfaces for popular productivity app
+• Collaborated with software engineers to execute and implement new designs
+• Worked with design consultants to create a more positive user experience
+UX Job Shadow Program Participant December 2020
+Amazon Design Department, Irvine, CA
+• Participated in UCI’s job shadow program, gaining exposure to the company culture, sitting in on
+design meetings and contributing feedback for upcoming design projects.
+Research Assistant October 2020 – December 2020
+Design for Innovation, Orlando, FL
+• Developed various prototype posture correcting mechanisms for pressure actuation devices
+• Built a system for retrofitting Aeron chairs with pressure actuators for human testing
+SKILLS
+Computer Design Softwares: Adobe Creative Suite, SolidWorks, Graphic Design, Rapid Prototyping,
+Sketching and Drafting, HTML/CSS, Mac OSX, Windows, Ubuntu
+Language: Conversational Spanish
+3
+Resume: Project Experience/Computer Science
+Font: Garamond
+AL E. GATOR
+annecarlson@gmail.com | 727-555-0121 | linkedin.com/in/anne.carlson
+EDUCATION
+Bachelor of Science in Computer Science May 2023
+University of Florida | Gainesville, FL GPA: 3.85/4.00
+SKILLS
+Programming Skills: Java (Beginner), Python, MySQL, Git, Unix, C, C++, JavaScript, Swift – iOS, Ruby on Rails, OCaml,
+Node.js, HTML, CSS, LaTeX, MongoDB
+Skills: Microsoft Word, Google Suite
+PROJECT EXPERIENCE
+Productivity Tool, Software Engineering and Design Class Project January 2020 – Present
+University of Florida | Gainesville, FL
+• Collaborates in team of 3 to design tool in OCaml and C++ to facilitate efficient calendar management for multiple
+users
+• Conducts weekly meetings to assess project progress and troubleshoot issues
+Access Database Development Project, Information Technology December 2020
+University of Florida | Gainesville, FL
+• Collaborated as team to plan, design and develop a donor tracking system to streamline the
+• donation process for a non-profit social organization
+• Met with organization to understand information needs and gather user requirements
+• Tasks include complex queries, forms and reports generation
+• Presented completed database to client
+INTERNSHIP EXPERIENCE
+Software Engineering Intern June 2021 – August 2021
+GOOGLE | Mountain View, CA
+• Launched Google+ Stories and contributed to story generation algorithm
+• Developed spam comment detection program using Google Prediction API
+• Conducted user experience testing in collaboration with 4-member design team
+Product/Tech Intern May 2020 – August 2020
+Next Tech | San Francisco, CA
+• Developed metrics dashboards for AdWords and Outbrain marketing campaigns and website blog using
+Linux/Python/SQL
+• Created test cases for financial models and interactive calculators
+• Wrote requirements and oversaw creation of new site content from start to finish in agile software development cycles
+Software Developer Intern June 2019 – August 2019
+University of Florida Hospital: Shands | Gainesville, FL
+• Designed Android mobile application game for stroke patient rehabilitation at Rehabilitation Robotics Lab
+• Formalized application requirements after client interviews, machine testing and stroke rehabilitation research
+• Developed application in 2 week sprints while incorporating client feedback with in-person tests
+4
+Resume: Engineering
+Font: Verdana
+ALBERT GATOR
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin
+EDUCATION
+Bachelor of Science in Industrial and Systems Engineering June 2023
+University of Florida, Gainesville, FL GPA: 3.83/4.0
+Study Abroad: Florence, Italy June 2019
+SKILLS
+Proficient in VBA, Microsoft Office, Oracle, VB.NET, RStudio, Arena, SolidWorks and Filemaker Pro
+PROFESSIONAL EXPERIENCE
+Industrial Engineering Professional Intern August 2022 – Present
+Walt Disney World | Lake Buena Vista, FL
+• Conducts data analysis and statistical modeling to provide planning, capacity utilization support,
+and efficiency solutions for the Resort and Transportation Operations
+• Leads a business analysis project that identified process improvements to annually save $2.8
+Million in transportation operational costs when implemented
+• Designed and Programmed 3 apps in Filemaker Pro to support operations during the opening of the
+Disney Skyliner and collected data through field studies to provide efficiency recommendations
+Customer Fulfillment, Supply Chain Co-Op May 2022 – August 2022
+GE Appliances: A Haier Company | Louisville, KY
+• Monitored inventory levels to ensure multi-family accounts received their orders on time. When
+needed worked with Warehousing and Transportation Teams to implement solutions to prevent
+backorders
+• Analyzed allocation issues within the 9 distribution centers and recommend alternative allocation
+strategies for specific situations to management as needed
+• Created tools using VBA to automatically generate reports detailing key fulfillment metrics and
+shared the metrics weekly with my accounts
+Materials Planner June 2021 – August 2021
+GE Appliances: A Haier Company | Louisville, KY
+• Participated in a two-day Kaizen event to implement preventative maintenance for Braider
+Machines
+• Wrote a Scrap Macro using VBA which sorted through 100,000 lines of raw data, to find the top 15
+reasons for the largest scrap reports
+• Implemented a color sensor to increase detection capability of splices and defects in wires. Used
+SolidWorks to mount the color sensor to the machine
+Leadership and Involvement
+Vice President of Scholarship January 2022 – Present
+Phi Sigma Rho, University of Florida | Gainesville, FL
+• Plans a diverse range of scholarship events to build an alumni foundation and expand networking
+opportunities for members
+• Appoints and manages activities of multiple chair positions to oversee event details and effective
+communication
+ExercIISE Committee August 2020 – May 2021
+University of Florida | Gainesville, FL
+• Utilized social media and Google Apps to create event pages to increase participation of members
+• Arranged and managed functions that promote athletics, such as 2 intramural teams with 20
+members and sporting events for our entire club
+5
+Resume: Education
+Font: Garamond
+AL E. GATOR
+annecarlson@gmail.com | 727-555-0121 | linkedin.com/in/anne.carlson
+EDUCATION
+Bachelor of Arts in Education May 2023
+Major: Elementary Education, k-12 GPA: 3.34/4.0
+University of Florida Gainesville, FL
+PROFESSIONAL EXPERIENCE
+Resident Assistant August 2020 – Present
+University of Florida: Office of Residential Life Gainesville, FL
+• Oversees 34 residents in a first year residence hall, directing students in need to appropriate campus resources and
+guiding all residents through the transition from high school to college
+• Coordinates and leads 20 programs per academic year, amounting to 40 programs total, to foster community on the
+floor and familiarity with campus organizations and services
+Student Teacher: First Grade English Language Learners Immersion Classroom January 2021 – June 2022
+Edison K-8 School Tampa, FL
+• Redesigned classroom activities under the Sheltered English Instruction model to benefit students of varied English
+language abilities and varied first languages, such as Arabic, Spanish, and Mandarin
+• Crafted intentional lesson plans and taught formal lessons in the subject areas of reading, writing, and math with the
+group of English Language Learners in mind to maximize success of all students in the classroom
+• Supervised small group activities and technology projects to ensure students stayed on task and displayed
+appropriate behavior, providing encouragement and taking disciplinary action when necessary
+•
+Summer Camp Counselor June 2019 – August 2019
+Camp Sunrise Boone, NC
+• Adapted camp activities such as soccer, swimming, and arts and crafts for 70 children age 3-21 with a wide range of
+mental and physical disabilities, to cater to their needs and promote participation and inclusion
+• Responded, in collaboration with trained professional staff, to situations requiring the use of PMT holds and CPR to
+prevent injury to campers and other counselors
+LEADERSHIP EXPERIENCE
+Volunteer September 2019 – Present
+Big Brothers Big Sisters Gainesville, FL
+• Organizes in-school activities to build healthy mentoring relationships with two third grade students, while also
+encouraging connections between the students and their classmates
+Freshman Orientation Leader June 2022 – August 2022
+University of Florida: Office of First Year Experience Gainesville, FL
+• Mentored small groups of 10-20 incoming first year and transfer students during seven, three-day orientation sessions,
+leading conversations on topics of identity, diversity, campus culture, and informed decision-making
+• Presented Boston College’s mission, policies, and programs to students and families both interpersonally and in group
+settings of 900+ to introduce them to campus life
+SKILLS
+Certifications: PMT, First Aid, CPR, EpiPen Injection Assistance, Seizure Training
+Language: Working Spanish Proficient
+6
+Resume: Pre-Health
+Font: Tahoma
+ALBERTA GATOR
+albertagator@gmail.com | (352) 222-2222 | www.linkedin.com/in/alberta-gator
+EDUCATION
+Bachelor of Science in Biological Sciences June 2023
+University of Florida—Gainesville, FL GPA: 3.92/4.0
+SKILLS
+Computer: Proficient in Microsoft Word, Excel, PowerPoint; SPSS; R
+Language: Fluent in Spanish; Conversational French
+RESEARCH EXPERIENCE
+Research Assistant August 2022 – Present
+University of Florida: Shands Hospital—Gainesville, FL
+• Performs literature reviews on primary articles to design surveys that gather demographic information of
+hundreds of clinic patients
+• Composed and presented posters on the efficiency of pharmacy clinics and the procedural scope of family
+medicine at the Institute for Clinical and Translational Science, and The Society of Teachers and Family Medicines
+Medical Student Education and Annual Spring Conferences to doctors, pharmacists, and medical students
+• Analyzes factors that increase specialization into family medicine of medical students in a research project
+through the Summer Undergraduate Research Program
+Summer Undergraduate Research Fellowship Scholar June 2021 – August 2021
+Department of Psychology and Social Behavior, University of Florida—Gainesville, FL
+• Conducted research involving understanding creativity in adolescents
+• Observed pictorial representations of words drawn by adolescents in China and in the United States and
+transferred coded data into SPSS
+• Presented poster to students and faculty members at the Summer Research Symposium
+SHADOWING EXPERIENCE
+Anesthesiologist Observer June 2022
+University of Florida: Shands Hospital (80 hours)
+• Improved bedside manner and patient interaction skills during the operation and post-operation, by observing
+how the
+• doctors interacted with patients
+• Observed integration between technological and procedural medical care
+• Completed HIPAA compliance training in order to respect trust of patient-doctor relationship
+Shadowing, Dr. Michael A. Ram, M.D., General Surgeon May 2020 – August 2021
+University of Florida: Shands Hospital (120 hours)
+• Shadowed Dr. Ram in the operating room, at his office hours and doing rounds on hospital floors
+• Listened to patients' heartbeats, gastrointestinal sounds, and checked vitals; read patient charts and wrote
+common orders for the nurses on the floor
+• Learned common sterility procedures, how to scrub into cases, and how to read radiographic images in the
+operating room
+PROFESSIONAL EXPERIENCE
+Student Assistant III September 2020 – Present
+Graduate School, University of Florida—Gainesville, FL
+• Managed reimbursements for the office using Microsoft Excel for the data entries
+• Designed flyers with Microsoft Word to promote information sessions and awareness campaigns
+• Formulated 3 portfolios for Office of Graduate Studies’ undergraduate programs
+7
+Resume: Public Service
+Font: Arial
+ALBERT GATOR
+annecarlson@gmail.com | 727-555-0121 | linkedin.com/in/anne.carlson
+EDUCATION
+Bachelor of Arts May 2023
+Major: Political Science Minor: French
+University of Delaware, Newark, DE
+INTERNSHIP EXPERIENCE
+Publicity & Fundraising Intern August 2022 – Present
+Gainesville City Council, Gainesville, FL
+• Manages a group of 25 volunteers assigned to the "street team," handing out flyers, speaking with
+voters, and securing candidate support
+• Handles fundraising efforts by engaging in 150 calls per shift at call center and discussing possible
+donations with registered democrats
+• Collaborates with campaign manager to staff fundraising events and publicize events
+Constituent Services Intern, District 9 May 2022 – August 2022
+House of Representatives, Washington, DC
+• Answered constituent mail, phone calls and in-person inquiries for Broward County
+• Directed U.S. Capitol tours for Florida constituents
+• Drafted media advisories, press releases and social media posts to effectively communicate with the
+constituency
+LEADERSHIP EXPERIENCE
+President January 2022 – Present
+University of Florida Democrats, Gainesville, FL
+• Leads a student group of 100 peers in educating the student population about politics through speaker
+series and getting out the vote events
+• Conducts weekly meetings to ensure continuity of the organization and member participation
+Volunteer Coordinator September 2021 – May 2022
+Gator Leadership Program, University of Florida, Gainesville, FL
+• Assisted in coordinating a variety of events (interactive workshops, conferences, guest speakers, cultural
+events, field trips) focusing on personal leadership development and application of the five practices of
+exemplary leadership
+• Created and presented a poster that represents personal journey of self-discovery
+• Participated in various community service programs, including Habitat for Humanity and Meals on Wheels
+Member March 2021
+Alternative Breaks Program, University of Florida, Gainesville, FL
+• Served as member of student-led team participating in immersive direct service project for community
+organization in central Georgia
+• Gained perspective from other participants and those served related to social justice issues
+SKILLS
+Computer: Adobe Photoshop, Final Cut Pro, Dreamweaver, Microsoft Office (PowerPoint, Excel, and Word)
+Social Media Management: Facebook, Twitter, LinkedIn, Tumblr
+Language: French (Conversant)
+8
+Resume: Pre-Law
+Font: Times New Roman
+Alberta Gator
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin
+EDUCATION
+Bachelor of Arts June 2023
+Majors: English and Political Science GPA: 3.56/4.00
+University of Florida, Gainesville, FL
+LEGAL EXPERIENCE
+Law Clerk June 2022 - August 2022
+Miami-Dade County District Attorney’s Office | Miami, FL
+• Wrote court motions and summaries of police reports from agencies for Deputy District Attorneys
+• Organized binders consisting of police reports and interview transcripts in order to prepare Deputy District
+Attorneys for witness testimonies during preliminary hearings
+• Attended training sessions conducted by Deputy District Attorneys and the District Attorney’s Professional
+Responsibility & Training Unit on topics such as jury trial preparation
+• Shadowed Deputy District Attorneys to observe and ask questions concerning hearings, and trials
+Legal Clinic Commissioner, Associated Students January 2021 - June 2022
+University of Florida | Gainesville, FL
+• Managed a budget of over $1,000 for booking event spaces and purchasing items for events and raffles
+• Corresponded with Administration and Associated Students Executives to work toward establishing a Legal
+Clinic to provide affordable legal assistance and resources for undergraduate students
+• Oversaw and delegated tasks to a team of 8 interns for commission
+PROFESSIONAL EXPERIENCE September 2021 - June 2023
+Career Ambassador, Career Connections Center
+University of Florida | Gainesville, FL
+• Educated students about the services provided by Division of Career Pathways during outreach events
+• Organized and moderated a panel of current students and recent alumni sharing experiences in pursuing career
+paths in law and politics for an audience of 30+ students
+• Critiqued resumes and cover letters for students during walk-in sessions
+D.C. Office Intern –District of Columbia Summer Program June 2021 - August 2021
+United States House of Representatives,Washington, D. C.
+• Composed Congressional Records honoring constituents for the Congresswoman to read on the House Floor
+• Created a legislative project by formulating a bill to combat pollution in the Inland Empire that was selected by
+the Congresswoman to be further developed by legislative staff
+• Crafted briefing memos for staffers concerning topics such as defense, foreign affairs, and voting rights
+• Corresponded with constituents while conducting tours of the United States Capitol Building
+• Logged constituent and agency letters, phone calls, and business cards in Fireside21 (constituent correspondent
+database)
+SKILLS
+Computer: Microsoft Office (Word, Excel, Powerpoint, Office 365), Adobe Acrobat, Canva
+Language: French (moderate proficiency)
+9
+Resume: Hospitality & Tourism
+Font: Times New Roman
+ALBERT GATOR
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin
+EDUCATION
+Bachelor of Science in Tourism, Hospitality, and Event Management May 2023
+Major: Tourism and Hospitality Management
+University of Florida, Gainesville, FL
+RELEVANT EXPERIENCE
+Event Intern, August 2021 – Present
+La Belle Fete Weddings & Events, Gainesville, FL
+• Communicates and presents unique ideas to clients with a budget of up to 3 million pesos
+• Assists event coordinators day-of and carried out delegated tasks at 6 events
+• Manages and updates overall list of tasks, details, and suppliers for all upcoming events
+Entertainment Intern May 2022 – August 2022
+Walt Disney World College Program, Orlando, FL
+• Demonstrated ability to manage multiple tasks and work well under pressure in a high-volume, fast-paced work
+environment
+• Collaborated all areas of entertainment to deliver seamless guest service and create memorable magic moments
+for guests visiting Animal Kingdom
+Choreographer and Dance May 2021 – August 2021
+Walt Disney World College Program, Orlando, FL
+• Participated in 7 competitions throughout 6 semesters on a high performance, results-driven team
+PROFESSIONAL EXPERIENCE
+Administrative Program Assistant August 2022 – Present
+University of Florida Rec. Sports, Gainesville, FL
+• Supervises 120+ current and soon to be Group Fitness Instructors by form of scheduling, programming, and
+completing all administrative tasks including participating in the hiring and onboarding process
+• Facilitates guided tours of all campus recreational facilities for all guests attending the EVOLVE symposium from
+universities around the nation and conducted a presentation on the facility in front of nearly 800 people
+INVOLVEMENT
+Vice President August 2021 – Present
+University of Florida: Society for Hospitality Administration, Gainesville, FL
+• Assists schedule and arrange industry speakers, organized a charity dinner and silent auction
+• fundraiser
+• Organizes tours for the University for VIP visitors
+Secretary April 2020 – April 2021
+University of Florida: Filipino Student Association, Gainesville, FL
+• Recorded attendance and evaluated guest feedback at all meetings and events to increase membership
+• Oversaw and organized monthly bonding activities for 33 members to strengthen the team relationships
+• Conducted Parliamentary procedures and elections for 10 executive board positions in a professional manner
+SKILLS
+SEO, Photoshope, Adobe Creative Suite, Google Drive Suite, Microsoft Office Suite, WordPress, MailChip, Trell
+10
+Resume: Finance
+Font: Calibri
+Albert (AL) Gator
+albertagator@gmail.com | (352) 222-2222 | www.linkedin.com/in/alberta-gatorPROFESSIONAL SUMMARY
+EDUCATION
+Bachelor of Business Administration in Finance June 2023
+University of Florida—Gainesville, FL GPA: 3.4/4.0
+Associate of Arts June 2021
+Santa Fe Community College—Gainesville, FL GPA 3.8/4.0
+RELEVANT EXPERIENCE
+Finance Intern July 2021 – Present
+Walt Disney World — Lake Buena Vista, FL
+• Presented an $11 million dollar Capital Authorization Request to enhance Wi-Fi across Walt Disney World
+Resorts, resulting in increased guest satisfaction scores
+• Conducts a Food & Beverage usage analysis among resorts and created a strategy to efficiently forecast and
+order products, reducing waste across hotels
+• Coordinates business planning for clients including the long-term plan, annual operating plan, and monthly
+forecasts
+Financial Services Intern May 2018 – June 2020
+London Mutual Credit Union — London, UK
+• Interacted with customers in relation to membership accounts in the largest Credit Union in Southeast England,
+consisting of over 25,000 members
+• Processed loan application requests and online applications, considering and assessing all applications and
+following up all overdue loan repayments
+• Maintained accurate records of all financial transactions up to 100,000 British pounds
+LEADERSHIP AND INVOLVEMENT EXPERIENCE
+Director of Mentee Development September 2021 – Present
+Business Undergraduate Mentorship Program — Gainesville, FL
+• Serves on the advisory board to enable the progress of 70 one-on-one relationships between mentors and
+mentees
+• Communicates with the program advisor to create content for four meetings per semester to provide mentees
+with an understanding of the program’s ideals such as academic success, career development, personal growth,
+leadership development, cultural awareness and diversity, and navigating university life
+Mentor September 2021 – Present
+Business Undergraduate Mentorship Program — Gainesville, FL
+• Develops a one-on-one relationship with a younger student, focusing on leadership and career development as
+well as personal growth
+• Assists mentees with collegiate academic plans, interview preparation, and involvement applications related to
+their personal strengths and passions
+SKILLS
+Microsoft Office Specialist Certification, Bloomberg Market Concepts Certification, Google Analytics
+11
+Resume: Communications & Journalism
+Font: Calibri Light
+ALBERTA GATOR
+rlphalange@gmail.com | 352-555-0121 | linkedin.com/in/leftphalange
+EDUCATION
+Bachelor of Science in Journalism May 2023
+University of Florida | Gainesville, FL
+Minor: Mass Communication Studies
+GPA: 3.9/4.0
+EXPERIENCE
+Editor in Chief, Columnist, August 2022 – Present
+The Really Independent Florida Crocodile | Gainesville, FL
+• Oversees production of weekly online and print campus newspaper
+• Implements marketing strategies to promote newspaper to target populations, increasing online readership by
+43%
+• Edits and creates 15-20 newspaper pages regularly on InDesign
+• Develops weekly satirical column focused on events within the University of Florida
+Copy Editor January 2020 – August 2022
+The Independent Florida Alligator | Gainesville, FL
+• Ensured accuracy of newspaper articles and compliance with AP Style guides
+• Created newspaper headlines and revised content across multiple platforms
+• Designed/proofed newspaper pages, developing skills in Adobe Creative Suites, Photoshop and InDesign
+Multiplatform Editing Intern May 2022 – August 2022
+The Washington Post | Washington, D.C.
+• Focused on accuracy and consistency of newspaper materials, including researching, writing, editing and
+proofreading print and web content
+• Researched photos on a variety of online databases and edited on Photoshop for publications
+INVOLVEMENT
+Social Chair August 2020 – Present
+University of Florida: Society of Professional Journalists | Gainesville, FL
+• Organizes monthly club socials to promote cohesiveness within the organization and increase student
+membership by 35%
+•
+Contributor August 2019 – May 2020
+Her Campus at the University of Florida |Gainesville, FL
+• Wrote bi-weekly online columns focused on popular culture and the student experience on campus
+SKILLS AND CERTIFICATIONS
+• Proficient in AP Style
+• Adobe Certified Expert (January 2019)
+• Google Analytics Certification (October 2018)
+• Hootsuite Platform Certification (April 2017)
+• Fluent in Russian, conversational in German
+12
+Resume: Marketing
+Font: Tahoma
+Albert Gator
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin
+EDUCATION
+Bachelor of Business Administration May 2023
+Major: Marketing GPA: 3.72/4.00
+University of Florida: Warrington College of Business, Gainesville, FL
+Osnabrück University May 2021 – August 2021
+UF Study Abroad Program, Osnabrück, Germany
+MARKETING EXPERIENCE
+Marketing Assistant, Office of Admissions September 2020 – Present
+University of Florida, Gainesville, FL
+• Works with admission marketing team to create materials used in recruiting high school students
+• Created 4 new web pages for the admissions office
+• Initiated the use of Google Analytics to track website traffic resulting in refreshed content for the site
+Advertising Intern May 2022 – August 2022
+Company Name, City, State
+• Researched over 200 customers to determine customer experience in terms of people, processes, and
+technology;
+• presented findings to senior executives
+• Liaison between Customer Experience Team and Advertising Team for 5 upcoming campaigns
+• Created graphical dashboards to enable quick assessment of customer satisfaction by global region
+• Recipient of “Summer 2016 Top Intern” award
+Marketing Intern May 2020 – August 2020
+Entrepreneurship Institute, City, State
+• Promoted the Entrepreneurship Institute programs, events, and competitions through use of mixed
+• media including banners, flyers, mail pieces, and innovative website design
+• Utilized Google Analytics to reorganize website layout resulting in 40% increase in time spent on the site
+• Assisted in creation of a comprehensive marketing plan for the launch of the new Lassonde Studios
+• Received certification in Google Analytics and Google AdWords
+CUSTOMER SERVICE EXPERIENCE
+Shift Manager May 2013 – September 2015
+Chipotle, Orlando, FL
+• Managed a team of 6 to efficiently serve 80-120 customers per shift
+• Promoted to Shift Manager within first 6 months
+INVOLVEMENT
+American Marketing Association University of Utah Chapter Vice President January 2022 – present
+Business Scholars Program August 2021-May 2021
+SKILLS
+Languages: Conversational fluency in Spanish and French
+Programs: WordPress, Tableau, Microsoft Excel
+Marketing: SEO optimization, Google Analytics, Social Media Marketing
+13
+Resume: Agricultural Sciences
+Font: Trebuchet MS
+AL E. GATOR
+rlphalange@gmail.com | 352-555-0121 | linkedin.com/in/leftphalange
+EDUCATION
+Bachelor of Science in Food and Resource Economics May 2023
+Specialization: Food and Agribusiness Marketing and Management GPA: 3.07/4.0
+University of Florida | Gainesville, FL
+EXPERIENCE
+Botanic Gardens Garden Manager/Intern Supervisor September 2022 - Present
+Kanapaha Botanical Gardens | Gainesville, FL
+● Supervises up to 10 interns and volunteers performing garden planting and maintenance
+● Maintains health and aesthetics of turf planting beds, and nursery
+● Exposed to wide variety of woody and herbaceous plant cultivars
+Intern May 2022 - August 2022
+Ruppert Landscape | Orlando, FL
+● Managed a 2-3 person crew responsible for the maintenance of numerous $15,000+ commercial and
+● industrial landscape contracts
+● Communicated with clients to ensure health and aesthetics of turf and planting beds
+● Assisted in daily servicing of all power equipment used by crews
+● Attended branch, regional, and corporate wide meetings pertaining to safety, budget and company
+operations
+Horticulturist/Nursery Salesperson May 2021 – August 2021
+Rhoads Garden Center | Orlando, FL
+● Consulted homeowners and landscape contractors on selection of appropriate plant material based
+on specific site and soil conditions
+● Diagnosed and treated specific plant pathological disorders and soil fertility issues pertaining to
+landscape and vegetable plants
+● Installed numerous ($35,000+) landscapes and hardscape features including patios, walls, ponds
+Leadership Experience
+UDance Chapter Representative February 2022 - Present
+Sigma Kappa Sorority | University of Florida, Gainesville, FL
+● Promotes all UDance events, organize all Sigma Kappa sponsorships/promotional events and attend
+weekly executive board meetings
+● Raised over $60,000 to benefit UDance on behalf of the sorority chapter
+Vice President September 2019 - May 2020
+Resident Student Association | University of Florida, Gainesville, FL
+● Headed a complex -wide scavenger hunt that was awarded " Small Program of the Year" by the RSA
+● Advertised events on community Facebook page and designed posters/flyers unique to each of the
+10 events
+SKILLS
+Proficient in operation of mid-sized wheel loader and mid-size tractor
+Basic knowledge of Spanish language
+Experience in isolating/culturing bacterial, fungal, and nematode plant pathogens
+14
+Resume: First Year
+Font: Arial
+ALLIE GATOR
+annecarlson@gmail.com | 727-555-0121 | linkedin.com/in/anne.carlson
+EDUCATION
+Bachelor of Science: Exploratory June 2023
+University of Florida| Gainesville, FL
+Gainesville High School, Gainesville, FL June 2019
+LEADERSHIP EXPERIENCE
+Assistant Social Chair September 2020 – Present
+Student Government, Los Angeles, CA
+• Coordinate team-building activities for residential community of 50 students
+• Collaborate with 4-member leadership team and participate in bi-weekly meetings
+• Brainstorm creative ideas and plan weekly social events to facilitate relationship building amongst
+residents
+• Develop promotional campaigns resulting in 25% increase in fall quarter program attendance
+Assignment Editor September 2018 – June 2019
+Thomas Jefferson High School Warrior Press, Oakland, CA
+• Oversaw staff of six for award-winning student newspaper
+• Researched news stories and organized weekly meetings to discuss potential article topics for upcoming
+edition
+• Collaborated with advisor, section editors and writers to identify and prioritize stories for publication
+• Assigned topics and reviewed content and submissions
+• Worked closely with photographer and assisted with selection of images for each article
+CUSTOMER SERVICE EXPERIENCE
+Host June 2019 – Present
+Steve Fisher’s Steak and Eggs, Berkeley, CA
+• Provided quality customer service in a fast paced, high volume establishment
+• Assisted staff with serving food and beverages to 100+ customers daily
+• Resolved customer complaints and polished multi-tasking capabilities
+• Processed cash and credit card payments, and informed customers about daily specials and new menu
+items
+Volunteer January 2019 – June 2019
+Rosemary Meadows Senior Center, Richmond, CA
+• Led 25 residents in weekly creative art projects
+• Kept detailed records of attendance for Gold Star Program
+• Collaborated with staff on preparing and serving meals and provided assistance with clean-up
+INVOLVEMENT
+University of Florida: Undergraduate Business Society September 2019 – Present
+SKILLS
+Proficient in MS Office Suite; Experience with Photoshop and Dreamweaver
+Languages: Spanish (Fluent)
+*High School is acceptable on a resume during your freshman and sophomore years; once you’re a junior,
+it can be omitted*
+15
+Resume: Veteran
+Font: Calibri
+ALBERTA GATOR
+albertagator@gmail.com | (352) 222-2222 | www.linkedin.com/in/alberta-gatorPROFESSIONAL SUMMARY
+EDUCATION
+Bachelor of Arts in Criminology, Law and Society June 2023
+University of Florida—Gainesville, FL GPA: 3.4/4.0
+Associate of Arts June 2021
+Santa Fe Community College—Gainesville, FL GPA 3.8/4.0
+RELEVANT EXPERIENCE
+Student Assistant, Veteran Services Office July 2021 – Present
+University of Florida—Gainesville, FL
+• Assist students with questions on veteran educational benefits, course selection, and general acclimation to
+college environment
+• Perform office duties including answering telephones, filing, making copies, and faxing to ensure office efficiency
+• Enhance interpersonal skills through individual contact with students, staff, and administration
+Aviation Machinist’s Mate Second Class/Journeymen (Aviation Mechanic – Journeymen) May 2018 – June 2020
+United States Navy: U.S. Naval Air Station—Jacksonville FL
+• Maintain $584M fleet of 18 Sikorsky helicopters including inspection, repair, overhaul, service, and cleaning to
+ensure all equipment is fully operational
+• Acquired diverse expertise on engines and related systems—passed FAA’s rigorous commercial Airframe &
+Powerplant evaluation and obtained FAA Inspection Authorization certification
+• Lead a team of 13 employees in performing 1st/2nd/and 3rd line troubleshooting, maintenance and repair of rotor
+blades, powerplant, engine, transmission, hydraulic, electrical, flight control, landing, fuel, tracking and
+balancing systems in accordance with manufacturer specifications and manuals
+• Enter, update, and maintain scheduled and unscheduled maintenance logs and records ensuring 100% accuracy
+receiving a rating of “Superior” during annual inspection
+Aircrewman May 2016 – May 2018
+U.S. Navy
+• Coordinated with fellow crewmen to complete combat, reconnaissance, transport, and search and rescue
+missions overseas
+• Operated and maintained aircraft communications and detection equipment to ensure safety and security
+• Collaborated with others to maintain proper inventory of cargo, fuel, and emergency equipment
+• Commended by officers for courtesy and professionalism
+LEADERSHIP EXPERIENCE
+Membership Coordinator, Alpha Psi Omega September 2021 – Present
+University of Florida—Gainesville, FL
+• Manage all marketing materials and outreach efforts for the Veterans Fraternity to increase presence on campus
+• Increased club membership by 60% in 1 quarter
+• Assisted in development of Veteran’s Week, aimed at educating students about veterans
+• Participate in various meetings and discussions related to the enhancement of student veterans’ engagement on
+campus
+16
+Resume: Student Athlete
+Font: Calibri Light
+ALBERT GATOR
+rlphalange@gmail.com | 352-555-0121 | linkedin.com/in/leftphalange
+EDUCATION
+Bachelor of Arts: History May 2023
+University of Florida, Gainesville, FL GPA: 3.56/4.00
+EXPERIENCE
+Team Member, Women’s Volleyball August 2019 – Present
+University of Florid, Gainesville, FL
+• Compete at Division I level in one of the nation’s most recognized conferences
+• Practice 20-25 hours weekly and travel while maintaining full course load and related commitments
+• Work directly with coaches and team captain on strategy and team building exercises
+Volleyball Instructor, Summer Volleyball Camps June 2020 – July 2022
+University of Florida, Gainesville, FL
+• Taught volleyball skills to 25+ children ages 5-14 in a fun, non-competitive environment on daily basis
+• Developed weekly lesson plans and goals customized to various skill levels and learning styles
+• Promoted additional University-sponsored clinics resulting in increased revenue for the athletic
+department
+Leadership Experience
+Council Member, Gator Athletic Council September 2021 – Present
+University of Florida, Gainesville, FL
+• Collaborate with members on organizing events and creating a strong communication line between
+student-athletes and University of Florida athletic administrators in order to enhance the student
+experience of University of Florida athletes
+• Review and debate NCAA rules
+Recruiting Coordinator, Student Athlete Mentoring Program March 2022 – Present
+University of Florida, Gainesville, FL
+• Trained to provide basic counseling related to suicide prevention, alcohol and drug abuse, stress, sexual
+harassment and misconduct, bystander awareness, and eating disorders
+• Mentor and provide emotional/academic support to peers in the student athlete community
+• Raise awareness, recruit potential members and promote a healthy lifestyle for all college students
+VOLUNTEER EXPERIENCE
+Outreach Volunteer April 2021
+Keep Alachua County Beautiful, Gainesville, FL
+• Educated groups of 25-30 children in 4th and 5th grades about conservation and the environment
+• Collaborated with volunteers to create interactive and fun activities to promote recycling
+SKILLS
+• Computer: Microsoft Word, Excel, and Power Point; Adobe Photoshop and Illustrator
+• Languages: Spanish (Native), English (Fluent)
+17

@@ -1,0 +1,5 @@
+Resume Loaded Successfully
+Pages: 17
+Characters Extracted: 39,920
+Words Extracted: 5,390
+Output Saved: resume_01.txt

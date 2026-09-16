@@ -1,0 +1,123 @@
+# Resume Parser — Project Documentation
+
+## Overview
+This project is a Python-based resume parser that takes a PDF resume and
+converts it into structured JSON data. It was built step by step, with each
+part of the pipeline developed and tested as its own script before being
+combined into the final parser.
+
+## Parser Workflow
+The parser follows this pipeline:
+
+```
+PDF Resume
+    |
+    v
+Text Extraction   (extract_text.py)
+    |
+    v
+Content Cleaning   (clean_text.py)
+    |
+    v
+Section Identification   (section_detector.py)
+    |
+    v
+Structured JSON   (resume_parser.py)
+```
+
+1. **Text Extraction** — Opens the PDF and pulls out all the raw text using
+   pdfplumber.
+2. **Content Cleaning** — Removes extra blank lines, extra spaces, and
+   unwanted symbols from the raw text.
+3. **Section Identification** — Scans the cleaned text line by line to find
+   common resume sections (Education, Experience, Skills, etc.) based on
+   their headings.
+4. **Structured JSON** — Combines all of the above, plus pulls out the
+   candidate's name, email, and phone number using pattern matching, and
+   saves everything into a single JSON file.
+
+## Libraries Used
+- **pdfplumber** — used for PDF text extraction. This was chosen after
+  comparing it against PyMuPDF and pdfminer.six (see `Library_Comparison.pdf`
+  under the research documents); pdfplumber gave the cleanest, most
+  accurately ordered text of the three.
+- **re** (Python's built-in regular expressions module) — used for cleaning
+  text and for pattern-matching email addresses and phone numbers.
+- **json** (Python's built-in module) — used to save the final parsed data
+  in JSON format.
+
+## Project Folder Structure
+```
+resume_parser_project/
+│
+├── sample_resume.pdf          # Sample PDF resume used for testing
+├── extract_text.py            # Task 3 — text extraction module
+├── clean_text.py               # Task 4 — text cleaning module
+├── section_detector.py         # Task 5 — section identification module
+├── resume_parser.py            # Task 6 — combines everything into JSON
+│
+├── resume_01.txt               # Sample raw extracted text
+├── resume_01_cleaned.txt       # Sample cleaned text
+├── resume_01.json              # Final structured JSON output
+│
+├── Resume_Format_Research.pdf  # Task 1 — resume layout research
+├── Library_Comparison.pdf      # Task 2 — PDF library comparison
+└── README.md                   # This file
+```
+
+## Installation Steps
+1. Make sure Python is installed on your computer.
+2. Install the required library:
+   ```
+   python -m pip install pdfplumber
+   ```
+3. Place all the `.py` files and your resume PDF in the same folder.
+
+## How to Run the Parser
+1. Open Command Prompt (cmd).
+2. Navigate into the project folder, for example:
+   ```
+   cd C:\Users\mahno\Documents\resume_parser_project
+   ```
+3. Make sure your resume PDF is named `sample_resume.pdf` in the folder (or
+   edit the `pdf_path` variable at the bottom of `resume_parser.py` to match
+   your file's name).
+4. Run the parser:
+   ```
+   python resume_parser.py
+   ```
+5. This will print the extracted name, email, phone number, and which
+   sections were detected, and will save the full result into
+   `resume_01.json` in the same folder.
+
+The individual pipeline steps can also be run and tested separately:
+```
+python extract_text.py
+python clean_text.py
+python section_detector.py
+```
+
+## Known Limitations
+- **Two-column and modern/creative resume layouts** — since these place
+  text in columns or decorative positions, extraction can mix content
+  together or lose the original reading order (see `Resume_Format_Research.pdf`
+  for examples).
+- **Image-based resumes** — if a resume is a scanned document or a photo
+  rather than real selectable text, this parser cannot read it at all,
+  since there is no text to extract. This would require OCR (optical
+  character recognition), which is not part of this project.
+- **Table of contents / index pages** — if a PDF contains a table of
+  contents or index page with short lines that happen to match a section
+  name (for example, an index entry that just says "Education"), the
+  section detector can mistake that for a real heading. This was observed
+  when testing against a multi-resume sample file that included a table of
+  contents page.
+- **Section heading variations** — the section detector relies on a list of
+  known heading names. A resume using an unusual or creative heading (for
+  example, "My Journey" instead of "Experience") may not be recognized as
+  that section.
+- **Multi-resume PDFs** — the current version processes every page in a PDF
+  as one document. If a single PDF file contains multiple separate resumes
+  bundled together (as was the case with the sample file used for testing
+  in this project), the parser will combine all of them into one result
+  rather than treating them as separate resumes.

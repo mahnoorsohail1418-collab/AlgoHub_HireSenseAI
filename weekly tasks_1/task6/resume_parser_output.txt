@@ -1,0 +1,6 @@
+Resume Parsed Successfully
+Name: Allie Gator
+Email: albertagator@ufl.edu
+Phone: 352-290-5678
+Sections Found: ['summary', 'education', 'experience', 'skills', 'projects', 'certifications']
+Output Saved: resume_01.json

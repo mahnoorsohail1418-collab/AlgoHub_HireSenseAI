@@ -1,0 +1,20 @@
+=== HEADER === 
+ Resume: Digital Arts
+Font: Verdana
+Allie Gator
+Gainesville, FL 32611 | 352-290-5678 | albertagator@ufl.edu | linkedin 
+
+=== EDUCATION === 
+ Bachelor of Arts in Digital Arts June 2023
+University of Florida, Gainesville, FL 
+
+=== EXPERIENCE === 
+ Graphic Designer August 2019 Present
+Freelance Web & Graphic Design
+consult with clients to address branding and marketing needs
+desktop and mobile de 
+
+=== TECHNICAL_SKILLS === 
+ Computer Design Softwares: Adobe Creative Suite, SolidWorks, Graphic Design, Rapid Prototyping,
+Sketching and Drafting, HTML/CSS, Mac OSX, Windows, Ub 
+
