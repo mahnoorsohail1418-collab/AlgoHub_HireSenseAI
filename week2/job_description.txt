@@ -1,0 +1,28 @@
+Entry-Level Software Engineer
+
+We are looking for a motivated Entry-Level Software Engineer to join our development
+team. In this role, you will assist in the design, development, testing, and maintenance
+of software applications, working closely with senior engineers and cross-functional
+teams.
+
+Responsibilities:
+- Write, test, and debug code in languages such as Python, Java, or JavaScript
+- Participate in the full software development lifecycle, including requirements
+  analysis, design, implementation, and testing
+- Collaborate with engineers to build reliable, well-tested software features
+- Work with databases (SQL/MySQL) to store and retrieve application data
+- Participate in code reviews and follow team coding standards
+- Use version control tools such as Git to manage and track code changes
+- Assist in troubleshooting and resolving software defects
+- Contribute to team meetings and agile development processes
+
+Requirements:
+- Bachelor's degree in Computer Science, Software Engineering, or a related field
+- Strong foundation in programming and object-oriented design
+- Experience with at least one modern programming language (Python, Java, C++, or
+  JavaScript)
+- Familiarity with SQL and relational databases
+- Experience with Git or other version control systems
+- Strong problem-solving skills and ability to work independently or in a team
+- Prior internship or project experience in software development is a plus
+- Excellent communication skills and willingness to learn new technologies
