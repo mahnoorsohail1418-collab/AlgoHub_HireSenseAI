@@ -217,4 +217,4 @@ Some natural next steps for the project beyond its current MVP state:
 
 ## Author
 
-Mahnoor Sohail
+Mahnoor Sohail                                                                                                                                                                                                                              mahnoorsohail1418@gmail.com
