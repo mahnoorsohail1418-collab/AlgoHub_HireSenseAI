@@ -1,0 +1,20 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs",
+      "raw_education_text": "B.S. in Computer Science | University of Florida (Aug 2019 - May 2023)\nGPA: 3.8/4.0. Relevant Coursework: Data Structures, Algorithms, Databases\n\nMinor in Mathematics | University of Florida (2019 - 2023)\nCompleted alongside primary degree."
+    },
+    {
+      "resume_id": "resume_02_reversed_order",
+      "raw_education_text": "University of Florida - B.A. in Marketing (2018-2022)\nDean's List all semesters. GPA: 3.6"
+    },
+    {
+      "resume_id": "resume_03_single_year",
+      "raw_education_text": "M.S. in Data Science | Georgia Tech (2024)\nThesis on resume parsing with NLP. GPA: 3.9/4.0"
+    },
+    {
+      "resume_id": "resume_04_no_gpa",
+      "raw_education_text": "B.S. in Business Administration | Florida State University (2017 - 2021)\nConcentration in Finance. Member of the Investment Club."
+    }
+  ]
+}

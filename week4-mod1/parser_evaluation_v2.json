@@ -1,0 +1,4262 @@
+{
+  "Resume_25.pdf": {
+    "personal_information": {
+      "name": "A A",
+      "email": "sardarammad6@gmail.com",
+      "phone": "+923058570680",
+      "location": "MMAD MIN  (cid:239) Linkedin \u00a7 Github  SUMMARY Senior Frontend Developer with 3 years of experience building scalable, high-performance web appli- cations. Led frontend development for a 400+ page automotive platform at Intelgency IT Solutions and currently driving full-cycle feature delivery at Hexatech Solution. Experienced in workflow automation using N8N and CRM integrations with GoHighLevel (GHL). Core stack: Next.js, React.js, TypeScript, Node.js, MongoDB, Docker, and Firebase.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "COMSATS Institute of Information Technology March  \u2013 January 2023",
+        "start_date": null,
+        "end_date": "2019",
+        "gpa": null,
+        "details": "BachelorofScienceinComputerScience Abbottabad, PK"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Hexatech Solution",
+        "company": null,
+        "start_date": "Oct 2025",
+        "end_date": "Present",
+        "description": "SeniorFrontendDeveloper(React/Next.js) Lahore, Pakistan \u2022 Architected and delivered an iframe-embedded web application integrated within a third-party CRM (GoHighLevel), ensuring full isolation, consistent UX, and seamless cross-origin communication. \u2022 Led frontend development across multiple client projects independently, owning the full cycle from architecture decisions to production deployment. \u2022 Built and configured N8N automation workflows to streamline internal data pipelines, reducing manual processing time and improving operational efficiency. \u2022 Developed reusable, scalable React component libraries using Tailwind CSS and PrimeReact, improving development velocity across the team. \u2022 Integrated REST APIs with robust data handling, validation, and error management in close coordination with backend engineers. \u2022 Built internal dashboards and admin panels for managing application data, users, and configurations. \u2022 Enforced frontend best practices by configuring ESLint, Husky, and Git hooks, ensuring clean commits and consistent coding standards across the team. \u2022 Participated in UI/UX discussions, code reviews, and sprint planning to maintain design accuracy and accessibility standards",
+        "technologies": []
+      },
+      {
+        "job_title": "Intelgency IT Solutions",
+        "company": null,
+        "start_date": "Feb 2024",
+        "end_date": "Jul 2025",
+        "description": "FrontendDeveloper Islamabad, Pakistan \u2022 Led frontend development for a large-scale automotive platform with 400+ pages using Next.js, delivering responsive layouts and seamless user experiences at scale. \u2022 Built and maintained a full-featured admin panel for content and user management, significantly streamlining editorial and business workflows. \u2022 Integrated both REST and GraphQL APIs in collaboration with backend engineers, improving data flow consistency and application reliability. \u2022 Optimized frontend performance through SSR (Server-Side Rendering) and CDN integration, improving page load times and overall scalability. \u2022 Implemented reusable React components and maintained UI consistency using Tailwind CSS and PrimeReact across the entire product. \u2022 Identified API bottlenecks and contributed to backend improvements, resulting in better response times and system stability. \u2022 Configured ESLint, Husky, and Git hooks for automated checks, enforcing consistent coding standards and high-quality commits",
+        "technologies": []
+      },
+      {
+        "job_title": "GeeksHub",
+        "company": null,
+        "start_date": "March 2023",
+        "end_date": "Jan 2024",
+        "description": "FrontendDeveloper Abbottabad, Pakistan \u2022 Developed and maintained web interfaces using React.js and Next.js, implementing responsive UI components based on provided designs. \u2022 Integrated REST APIs to display dynamic data and handled loading, error, and state management scenarios. \u2022 Worked with reusable React components and maintained UI consistency using Tailwind CSS and Material UI. \u2022 Contributed to admin panel features for managing users and application data. \u2022 Participated in code reviews, daily stand-ups, and sprint planning to learn best practices and improve code quality",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Frontend Backend & DB Cloud & DevOps Automation & Integrations",
+        "Next.js",
+        "Node.js",
+        "AWS",
+        "N8N Workflows",
+        "GoHighLevel (GHL)",
+        "React.js",
+        "Express.js",
+        "Firebase",
+        "Stripe",
+        "TypeScript",
+        "GraphQL",
+        "Docker",
+        "WebRTC",
+        "Tailwind CSS",
+        "MongoDB",
+        "Git / GitHub",
+        "REST / GraphQL",
+        "PrimeReact / MUI",
+        "Supabase",
+        "ESLint / Husky APIs"
+      ]
+    },
+    "projects": [],
+    "certifications": [
+      {
+        "name": "AWS",
+        "issuer": "AWSFundamentalsSpecialization August",
+        "year": 2024,
+        "expiration": null
+      },
+      {
+        "name": "Meta",
+        "issuer": "AdvancedReact January",
+        "year": 2023,
+        "expiration": null
+      },
+      {
+        "name": "Meta",
+        "issuer": "VersionControl November",
+        "year": 2022,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Hexatech Solution",
+        "company": null,
+        "start_date": "Oct 2025",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Intelgency IT Solutions",
+        "company": null,
+        "start_date": "Feb 2024",
+        "end_date": "Jul 2025"
+      },
+      {
+        "job_title": "GeeksHub",
+        "company": null,
+        "start_date": "March 2023",
+        "end_date": "Jan 2024"
+      }
+    ]
+  },
+  "Resume_26.pdf": {
+    "personal_information": null,
+    "education": [],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": []
+  },
+  "Resume_27.pdf": {
+    "personal_information": {
+      "name": "FATIMA IMRAN",
+      "email": "fti343035@gmail.com",
+      "phone": "316 8945891",
+      "location": "Contact No. 0 Email:  Address: Garden City Society near Gulshan e Maymaar, Karachi, Pakistan. CAREER OBJECTIVE: With my eager to learn more and grow more, I am enthusiastic to pursue my career in such a dynamic organization, where I will have significant level of opportunities to progress in the Corporate World and to become more effective and efficient resource for the organization, while achieving organizational goals.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [],
+    "experience": [
+      {
+        "job_title": "\u2022 GAOTEK. INC. \u2013 HR Intern (Aug \u2013 Dec 2022) 4 Months",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "As HR intern, I performed following tasks: \u27a2 Initial screening and shortlisting of potential candidates. \u27a2 Conducted online interviews of potential candidates. \u27a2 Conducted HR training sessions for newly hired interns. \u27a2 Job postings on LinkedIn. \u27a2 Got promoted (leveled up) as Assistant Team Leader (ATL). QUALIFICATION: \u2022 BBA: Iqra University, Year: 2026 (Completed) \u2022 Associate Degree Program (ADP) \u2013 Accounting & Finance: Hamdard University, Year: 2023 \u2022 INTERMEDIATE: Private, Year: 2020 \u2022 MATRICULATION:Wood Land Secondary School, Year: 2017",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "1. Self Management.",
+        "2. Team Management.",
+        "3. Objective Oriented."
+      ]
+    },
+    "projects": [],
+    "certifications": [
+      {
+        "name": "AND WORKSHOPS",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "PREPARING FOR TOMORROW",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "The Workshop was focused on soft skills development.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "INTERACTION AWARENESS WORKSHOP",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "The workshop organized by COFW Consultants for Our Future World Private Ltd.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "\u2022 GAOTEK. INC. \u2013 HR Intern (Aug \u2013 Dec 2022) 4 Months",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "Resume_28.pdf": {
+    "personal_information": {
+      "name": "JAVERIA SOHAIL EDUCATION",
+      "email": "javeriasamana12@gmail.com",
+      "phone": "322-3526671",
+      "location": "Karachi, Pakistan, 0 Bachelor of Science in Software Engineering (Ongoing) Virtual University of Pakistan Diploma in Software Engineering PROFESSIONAL SUMMARY Aptech Computer Education Software Engineering undergraduate with 3+ years of",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [],
+    "experience": [
+      {
+        "job_title": "Management",
+        "company": null,
+        "start_date": "March 2023",
+        "end_date": "December 2025",
+        "description": "\uf0b7 Problem Solving & Conflict Resolution \uf0b7 Managed client relationships to improve \uf0b7 Team Collaboration customer satisfaction and policy renewals \uf0b7 Time Management \uf0b7 Consistently met and exceeded monthly sales and \uf0b7 Payroll Management retention targets \uf0b7 Compliance awarness \uf0b7 Resolved customer issues efficiently, improving overall client experience \uf0b7 Applied retention strategies to reduce churn and CERTIFICATIONS maintain long-term clients \uf0b7 Digital Marketing Certification \u2013 Coursera \uf0b7 Human Resource Management \u2013 Coursera Sales & Marketing Coordinator \uf0b7 Web Development Certification \u2013 Aptech \uf0b7 Advanced MS Office Certification \u2013 Aptech Global Connect Communications, Karachi, Pakistan",
+        "technologies": []
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "February 2022",
+        "end_date": "March 2023",
+        "description": "\uf0b7 Assisted in executing digital marketing campaigns, increasing lead generation by 25% \uf0b7 Handled inbound and outbound sales inquiries, converting leads into customers \uf0b7 Maintained CRM records and generated monthly performance reports \uf0b7 Collaborated with teams to streamline sales processes and improve efficiency",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Other Skills": [
+          "Digital Marketing",
+          "Social Media Management"
+        ],
+        "Other": [
+          "ability to increase lead generation by 25% and improve",
+          "customer satisfaction through effective communication and",
+          "strategic problem-solving. Skilled in digital marketing",
+          "CRM Programming: HTML",
+          "CSS",
+          "JavaScript",
+          "Python",
+          "tools",
+          "and programming fundamentals",
+          "seeking to leverage Familiar With: C++",
+          "Java",
+          "PHP",
+          "C#",
+          "both technical and business expertise in a growth-oriented Databases: MySQL",
+          "SQL Server",
+          "role. Tools: MS Office (Excel",
+          "Word",
+          "PowerPoint)",
+          "Google",
+          "Workspace"
+        ]
+      },
+      "all_skills": [
+        "Digital Marketing",
+        "Social Media Management",
+        "ability to increase lead generation by 25% and improve",
+        "customer satisfaction through effective communication and",
+        "strategic problem-solving. Skilled in digital marketing",
+        "CRM Programming: HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "tools",
+        "and programming fundamentals",
+        "seeking to leverage Familiar With: C++",
+        "Java",
+        "PHP",
+        "C#",
+        "both technical and business expertise in a growth-oriented Databases: MySQL",
+        "SQL Server",
+        "role. Tools: MS Office (Excel",
+        "Word",
+        "PowerPoint)",
+        "Google",
+        "Workspace"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Management",
+        "company": null,
+        "start_date": "March 2023",
+        "end_date": "December 2025"
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "February 2022",
+        "end_date": "March 2023"
+      }
+    ]
+  },
+  "Resume_29.pdf": {
+    "personal_information": {
+      "name": "MUSKAN ZEHRA",
+      "email": "muskanaleem14@gmail.com",
+      "phone": "+92 313 2868625",
+      "location": "Linkedin Github",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Iqra University FALL  \u2013 SPRING 2026",
+        "start_date": null,
+        "end_date": "2022",
+        "gpa": null,
+        "details": "Bachelor of Science in Software Systems Engineering Govt. Girls Comprehensive Higher Secondary School 2019 \u2013 2021 Intermediate (Pre-Engineering) PROFILE SUMMARY Motivated Software Systems Engineering student (8th Semester) with a strong CGPA of 3.64. Possesses a solid foundation in programming languages including Java, Python, and C, combined with a passion for Web Development, Cloud Computing, and Artificial Intelligence. Skilled in Object-Oriented Programming, Data Structures, and Software Development Life Cycle (SDLC)"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": ".NET FULLSTACK (.NET + REACTJS) \u2013 10PEARLS",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "Remote | APRIL 2026 \u2013 MAY 2026 (2 Months) \u2022 Developed and integrated machine learning models into a web-based task management tool. \u2022 Gained hands-on experience with ASP.NET Core, React.js, Entity Framework, SQL Server, and Serilog. \u2022 Contributed to building RESTful APIs for task management, user authentication, and role-based access control. \u2022 Implemented frontend features such as dynamic task lists, user dashboards, and real-time updates using React.js. \u2022 Wrote unit tests and performed code quality checks using xUnit and SonarQube. \u2022 Collaborated remotely with senior developers, improving my teamwork and communication skills. Full Stack Developer with AI \u2013 IQRA UNIVERSITY On-Site | APRIL 2026 \u2013 PRESENT \u2022 Developed and integrated AI features such as recommendation systems and predictive models into web applications. \u2022 Gained hands-on experience with machine learning libraries (TensorFlow, Scikit-learn) and frontend frameworks (React.js). \u2022 Contributed to building RESTful APIs for AI-driven functionalities like data prediction, sentiment analysis, and recommendation engines. \u2022 Implemented frontend features such as interactive dashboards, dynamic user experiences, and AI- powered content personalization. \u2022 Worked on deploying machine learning models using cloud platforms and integrated them into web applications. \u2022 Collaborated remotely with AI engineers, enhancing my understanding of AI model deployment and teamwork in a remote setup",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Languages": [
+          "Java",
+          "Python",
+          "C",
+          "C++",
+          "Tools: Git",
+          "GitHub",
+          "VS Code",
+          "CLI"
+        ],
+        "Web Dev": [
+          "HTML",
+          "CSS",
+          "Responsive Design",
+          "Cloud Platforms: Azure Static Web Apps"
+        ],
+        "Databases": [
+          "MySQL",
+          "DBMS (CRUD)",
+          "Core Concepts: OOP",
+          "Data Structures"
+        ]
+      },
+      "all_skills": [
+        "Java",
+        "Python",
+        "C",
+        "C++",
+        "Tools: Git",
+        "GitHub",
+        "VS Code",
+        "CLI",
+        "HTML",
+        "CSS",
+        "Responsive Design",
+        "Cloud Platforms: Azure Static Web Apps",
+        "MySQL",
+        "DBMS (CRUD)",
+        "Core Concepts: OOP",
+        "Data Structures"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Skintelli (Final Year Project - Phase I)",
+        "date": null,
+        "description": "Developing a smart application for skin analysis utilizing. Artificial Intelligence algorithms for image processing and analysis. Managed version control and team collaboration via GitHub",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Azure Disaster Response Platform",
+        "date": null,
+        "description": "Deployed a disaster response management application using. Microsoft Azure Static Web Apps. Implemented CI/CD pipelines via GitHub Actions to automate the deployment process and ensure cloud scalability",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Realtime Converter",
+        "date": null,
+        "description": "Developed a Java-based application for dynamic real-time conversions, applying. Object-Oriented Programming (OOP) principles and robust data handling logic. Source code managed via GitHub",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Python: Facial Emotion & Gender Recognition",
+        "date": null,
+        "description": "Developed a real-time Facial Emotion and Gender. Detection system using Convolutional Neural Networks (CNNs) and OpenCV. Trained the model in Google Colab with TensorFlow and PyTorch, achieving high accuracy through best-epoch selection and data preprocessing. Integrated a Streamlit-based interface for webcam and image-based predictions, demonstrating model deployment and real-time AI inference capabilities",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "WEB DEVELOPMENT",
+        "issuer": "AI & CLOUD BOOTCAMPS",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Cloud Computing from A to Z",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "JavaScript & React.JS from A to Z",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Amazon Clone Using HTML",
+        "issuer": "CSS & JavaScript",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Instagram Auth Clone Backend using Node.JS",
+        "issuer": "Express & JS",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "OYO Object Detection using OpenCV",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Forage Software Engineering job simulation",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "RELEVANT COURSEWORK",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Core CS: Data Structures & Algorithms",
+        "issuer": "Object-Oriented Programming",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Management Systems",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Advanced: Artificial Intelligence",
+        "issuer": "Computer Vision",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Management",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Engineering: Software Quality Engineering",
+        "issuer": "Software Requirement Engineering",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Web Engineering",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": ".NET FULLSTACK (.NET + REACTJS) \u2013 10PEARLS",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "Resume_30.pdf": {
+    "personal_information": {
+      "name": "About Me",
+      "email": null,
+      "phone": null,
+      "location": "Creative and skilled in video editing, Canva design, and social media. Hands-on experience with Shopify, email marketing, and content creation. Known for improving digital workflows Contact Person and online presence.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "786",
+        "start_date": "0349",
+        "end_date": "0816",
+        "gpa": null,
+        "details": "shehzadchaudry03@gmail.com MATRICULATION 2022 |LAS SCHOOL MC-1451 Block-A Azeem Pura Shah INTERMEDIATE Faisal Karachi 2024 | GDC MALIR CANTT COLLEGE Skill Bachelor\u2019s In Ai \u2013 In Progres Iqra University (Expected 2028) Video Editing: VSDC, VideoPad, Canva Pro"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Canva Pro: Video editing",
+        "company": "template",
+        "start_date": null,
+        "end_date": null,
+        "description": "design, social media posts, and portfolio creation Video Editor & Digital Marketer Social Media Management: Content creation, scheduling, and audience Eone Digital Company engagement Email Marketing: Mailchimp, Sender.net (Aug 2023 \u2013 Mar 2024) E-commerce: Shopify store Edited videos using Canva, VSDC & VideoPad management, product listing, order processing Designed social media content Communication: Strong written and verbal communication skills Managed posts & engagement Language Ran email campaigns via Mailchimp/Sender.net English (Basic) Handled Shopify: products, orders, inventory Urdu Booked orders with TCS for delivery",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Canva Pro: Video editing",
+        "company": "template",
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "Resume_31.pdf": {
+    "personal_information": {
+      "name": "Numa Rahim",
+      "email": "numarahim01@gmail.com",
+      "phone": "332-2645822",
+      "location": "+92-, SUMMARY Software Engineer with hands-on experience in AI workflow automation and system integrations. Build scalable automation workflows, designing responsive funnels and landing pages, and implementing A2P messaging solutions. Skilled in advanced API integrations (Webhooks) and experienced with tools such as GoHighLevel (GHL), Zapier, Make, Unbounce, HubSpot, and Zoho.",
+      "linkedin": "https://www.linkedin.com/in/numa-rahim-1117b72b3",
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Iqra University Main Campus",
+        "start_date": "October 2022",
+        "end_date": "May 2026",
+        "gpa": "3.61",
+        "details": "Bachelors in Software Engineering (BSSE) C Sir Syed Government Girls College. 2020-2022 Pre- Engineering"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Systemapic (Progress from trainee to Jr Developer",
+        "company": null,
+        "start_date": "May 2025",
+        "end_date": "October 2025",
+        "description": "Jr. Software Developer / Workflow Developer \u2022 Developed and maintained 20+ AI automation workflows in Go High Level (GHL), Zapier, and Make.com to automate tasks and integrate AI (closebot) for autoreplying to customers. \u2022 Design website using wordpress elementor, framer and wix. \u2022 Designed and integrated high-converting landing pages and funnels using GHL and Unbounce, aligned with marketing campaigns. \u2022 Conducted API testing with Postman for backend services, validating endpoints and response codes. \u2022 Detected and fixed workflow errors in Make.com, improving automation reliability and reducing client-reported issues by 25%. \u2022 Designed and integrated high-converting landing pages and funnels using GHL and Unbounce, aligned with marketing campaigns. \u2022 Created custom dashboards in Zoho CRM with advanced filters, charts, and KPIs for real-time analytics",
+        "technologies": []
+      },
+      {
+        "job_title": "Software Developer Trainee.",
+        "company": null,
+        "start_date": "March 2025",
+        "end_date": "June 2025",
+        "description": "Assisted in building and manual testing automation workflows (GHL, Zapier, Make.com) and reported bugs. Built multi-platform automation workflows to automate various tasks like sending emails and reminders. VOLUNTEER EXPERIENCE (Member) Hammad Foundation: Participated in social services. A vision to make Pakistan a better place",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Workflow Automation Tools": [
+          "AI Workflow Automation",
+          "GoHighLevel",
+          "Make (Integromat)",
+          "Zapier",
+          "HubSpot"
+        ],
+        "Programming & Scripting": [
+          "Python",
+          "Java",
+          "JavaScript",
+          "HTML5",
+          "CSS3",
+          "Bootstrap",
+          "Linux command-line"
+        ],
+        "Databases": [
+          "SQL (queries",
+          "optimization",
+          "relational database design)"
+        ],
+        "Version Control & Collaboration": [
+          "Git",
+          "GitHub"
+        ],
+        "Automation & Testing": [
+          "Selenium WebDriver with Python",
+          "Postman (API testing)",
+          "Test case design &"
+        ],
+        "Dashboards & Analytics": [
+          "Zoho dashboards",
+          "KPI filters",
+          "real-time tracking & reporting"
+        ],
+        "Web Development & Design": [
+          "WordPress (Elementor",
+          "optimization)",
+          "Wix",
+          "Framer"
+        ],
+        "Other": [
+          "API Integration",
+          "AI Chatbot Integration",
+          "execution"
+        ]
+      },
+      "all_skills": [
+        "AI Workflow Automation",
+        "GoHighLevel",
+        "Make (Integromat)",
+        "Zapier",
+        "HubSpot",
+        "Python",
+        "Java",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Bootstrap",
+        "Linux command-line",
+        "SQL (queries",
+        "optimization",
+        "relational database design)",
+        "Git",
+        "GitHub",
+        "Selenium WebDriver with Python",
+        "Postman (API testing)",
+        "Test case design &",
+        "Zoho dashboards",
+        "KPI filters",
+        "real-time tracking & reporting",
+        "WordPress (Elementor",
+        "optimization)",
+        "Wix",
+        "Framer",
+        "API Integration",
+        "AI Chatbot Integration",
+        "execution"
+      ]
+    },
+    "projects": [],
+    "certifications": [
+      {
+        "name": "Certifications: Git Essential Training LinkedIn Learning",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Appreciation certificate by Tech Connect 23",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Web Development BootCamp GDSC Google Developer Club",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Systemapic (Progress from trainee to Jr Developer",
+        "company": null,
+        "start_date": "May 2025",
+        "end_date": "October 2025"
+      },
+      {
+        "job_title": "Software Developer Trainee.",
+        "company": null,
+        "start_date": "March 2025",
+        "end_date": "June 2025"
+      }
+    ]
+  },
+  "Resume_32.pdf": {
+    "personal_information": {
+      "name": "Muhammad Imran Javed",
+      "email": "emran.javed1122@gmail.com",
+      "phone": "+92 305 4555240",
+      "location": "UI/UX Designer, Brand & Visual Designer, , , PROFESSIONAL SUMMARY UI/UX Designer with 2+ years of experience delivering end-to-end digital products \u2014 from user research and wireframing to high-fidelity prototypes and design systems. Skilled in Figma and Adobe Creative Suite, with a strong foundation in graphic and brand design. Passionate about crafting interfaces that are both visually compelling and user-centered, with hands-on",
+      "linkedin": "linkedin.com/in/imranjavedin",
+      "github": null,
+      "portfolio": "behance.net/imranjavedbe"
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Bachelor of Science \u2014 Information Technology \u2014 International Open University (IOU)  \u2013 Present",
+        "start_date": null,
+        "end_date": "2025",
+        "gpa": null,
+        "details": "ADP \u2014 Business Administration (BBA) \u2014 Virtual University of Pakistan Ongoing"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Social Media Post Designer",
+        "company": null,
+        "start_date": "May 2026",
+        "end_date": "Present",
+        "description": "Adnova \u2022 Design engaging social media content for multiple client brands across Instagram, Facebook, and LinkedIn. \u2022 Develop reusable post templates and brand-consistent visual systems in Canva and Figma. \u2022 Collaborate directly with the creative lead to maintain brand voice and visual identity across campaigns",
+        "technologies": []
+      },
+      {
+        "job_title": "UI/UX Designer",
+        "company": null,
+        "start_date": "March 2026",
+        "end_date": "May 2026",
+        "description": "YNC Pakistan (Pvt.) Ltd. \u2022 Designed full end-to-end UI/UX for 'Faith Before Face,' a values-based dating app \u2014 covering user flows, wireframes, and high-fidelity screens. \u2022 Contributed to branding and visual identity projects for agency clients. \u2022 Worked in a fast-paced agency environment, meeting tight creative deadlines",
+        "technologies": []
+      },
+      {
+        "job_title": "User Experience Designer (Intern",
+        "company": null,
+        "start_date": "March 2026",
+        "end_date": "May 2026",
+        "description": "Rhombix Technologies \u2022 Completed UI/UX tasks including user interface design and experience improvements for assigned projects. \u2022 Gained hands-on exposure to professional design workflows and collaborative team processes",
+        "technologies": []
+      },
+      {
+        "job_title": "UI Designer",
+        "company": null,
+        "start_date": "January 2026",
+        "end_date": "May 2026",
+        "description": "Mercury Sols \u2022 Designed user interfaces for client-facing digital products. \u2022 Developed skills in professional office workflows, design handoff, and cross-team communication",
+        "technologies": []
+      },
+      {
+        "job_title": "Freelance UI/UX & Graphic Designer",
+        "company": null,
+        "start_date": "April 2020",
+        "end_date": "Present",
+        "description": "Fiverr & Upwork \u2022 Delivered 50+ design projects for international clients across UI/UX, branding, and social media design. \u2022 Currently designing UI/UX for an Aerospace WhatsApp Chatbot \u2014 a conversational interface for aviation services. \u2022 Previously designed TravelAssist, a parametric travel insurance chatbot UI for the Nigerian market. \u2022 Maintained consistent 5-star client satisfaction through clear communication and timely delivery",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Design Tools": [
+          "Figma",
+          "Adobe Illustrator",
+          "Adobe Photoshop",
+          "Canva"
+        ],
+        "UI/UX": [
+          "Wireframing",
+          "Prototyping",
+          "User Flows",
+          "Design Systems",
+          "Responsive Web Design"
+        ],
+        "Visual Design": [
+          "Brand Identity",
+          "Social Media Design",
+          "Typography",
+          "Color Theory"
+        ],
+        "Other": [
+          "HTML/CSS (basic)",
+          "AI-assisted Design Workflows"
+        ]
+      },
+      "all_skills": [
+        "Figma",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Canva",
+        "Wireframing",
+        "Prototyping",
+        "User Flows",
+        "Design Systems",
+        "Responsive Web Design",
+        "Brand Identity",
+        "Social Media Design",
+        "Typography",
+        "Color Theory",
+        "HTML/CSS (basic)",
+        "AI-assisted Design Workflows"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Aerospace WhatsApp Chatbot UI",
+        "date": null,
+        "description": "End-to-end conversational UI design for an aviation services chatbot. (Freelance. \u2014 In Progress)",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Faith Before Face",
+        "date": "YNC Pakistan",
+        "description": "Dating App \u2014 Full UI/UX design for a values-driven matchmaking mobile app",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "PIA Website Redesign",
+        "date": null,
+        "description": "UI/UX case study reimagining Pakistan International Airlines' web experience with modern. design principles",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "TravelAssist",
+        "date": null,
+        "description": "Insurance Bot UI \u2014 Parametric travel insurance chatbot interface designed for the Nigerian market.. (Freelance)",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Luminary Design System",
+        "date": null,
+        "description": "Dark-theme component library and design system built in Figma with glassmorphism and. systematic token structure",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Khaadi E-Commerce UI",
+        "date": null,
+        "description": "Mobile-first redesign of a fashion e-commerce product listing and checkout experience",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Google UX Design Specialization \u2014 Coursera / Google",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Build Wireframes and Low-Fidelity Prototypes \u2014 Google / Coursera",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Foundations of Project Management \u2014 Google / Coursera",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "AI For Everyone \u2014 DeepLearning.AI / Coursera",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Social Media Post Designer",
+        "company": null,
+        "start_date": "May 2026",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Freelance UI/UX & Graphic Designer",
+        "company": null,
+        "start_date": "April 2020",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "UI/UX Designer",
+        "company": null,
+        "start_date": "March 2026",
+        "end_date": "May 2026"
+      },
+      {
+        "job_title": "User Experience Designer (Intern",
+        "company": null,
+        "start_date": "March 2026",
+        "end_date": "May 2026"
+      },
+      {
+        "job_title": "UI Designer",
+        "company": null,
+        "start_date": "January 2026",
+        "end_date": "May 2026"
+      }
+    ]
+  },
+  "resume_01.pdf": {
+    "personal_information": {
+      "name": "Aditya Sharma",
+      "email": "aditya119100@gmail.com",
+      "phone": "+91 7975125825",
+      "location": "AI & ML ENGINEER Phone  Email  Location Bengaluru, India LinkedIn /in/aditya-sharma-00b57830a GitHub /AdityaSharma0909 PROFILE AI & ML Engineer with hands-on experience developing NLP pipelines, machine learning models, and RESTful AI applications during industry internship training. Skilled in Python, TensorFlow, scikit-learn, spaCy, BERT, FastAPI, and AWS, with strong interests in Generative AI, LLMs, and Agentic AI systems. Passionate about building scalable, data-driven AI solutions and seeking entry-level AI/ML Engineering opportunities in Bengaluru.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "AMC Engineering College Aug  \u2013 Jun 2026",
+        "start_date": null,
+        "end_date": "2022",
+        "gpa": "7.7 / 10.0",
+        "details": "B.E. \u2013 Artificial Intelligence & Machine Learning | C | Bengaluru, India"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "AI & ML Engineering Intern",
+        "company": null,
+        "start_date": "Jan 2025",
+        "end_date": "May 2025",
+        "description": "Rooman Technologies Ltd | Bengaluru, India Built a Resume Screening & Ranking System using spaCy, TF-IDF, BERT and ML-based scoring models; deployed APIs with FastAPI and hybrid cosine + BM25 ranking. Implemented KNN, SVM and Random Forest classifiers with GridSearchCV tuning, improving model F1-score by ~17%. Developed NLP-based ticket classification and sentiment analysis workflows; gained hands-on experience with AWS SageMaker, Linux and prompt engineering",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "LANGUAGES GENAI & LLMS",
+        "Python C++ Prompt Engineering Agentic AI LangChain Claude API",
+        "MACHINE / DEEP LEARNING TOOLS",
+        "KNN SVM Random Forest XGBoost FastAPI pandas NumPy pytest Git",
+        "Gradient Boosting TensorFlow PyTorch Jupyter",
+        "NLP CLOUD & INFRA",
+        "spaCy NLTK BERT Sentence-Transformers AWS SageMaker Oracle Cloud Linux SQLite",
+        "TF-IDF Sentiment Analysis PostgreSQL"
+      ]
+    },
+    "projects": [
+      {
+        "name": "AI/ML Resume Parser & Ranking System\u00b7 Team Lead AI ProjectForge",
+        "date": null,
+        "description": "Idea Generator. Python \u00b7 spaCy \u00b7 BERT \u00b7 FastAPI \u00b7 XGBoost Python \u00b7 LLM \u00b7 Prompt Engineering NLP pipeline for resume parsing, semantic matching and ML-based candidate Prompt-driven LLM system generating structured AI/ML project ideas from user ranking. inputs. Hybrid cosine + BM25 scoring with FastAPI/CLI support and 80%+ pytest Improved consistency with few-shot prompting and iterative prompt refinement. coverage. AI-Powered Crop Yield Prediction \u00b7 Team Lead Intrusion Analytics System \u00b7 Team Lead Python \u00b7 scikit-learn \u00b7 pandas Python \u00b7 TensorFlow \u00b7 scikit-learn ML model for crop yield prediction and recommendation using agricultural Real-time intrusion detection for cyberattack classification via ML anomaly datasets. detection. Led a 4-member team to deliver a data-driven decision-support tool. Led model evaluation, system design and end-to-end project delivery",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Cloud AI Foundations Anthropic Claude with Amazon Bedrock",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "AWS ML Fundamentals NVIDIA AI for All",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "AWS SageMaker AMD AI Academy \u2013 AI Agents / LLM Serving",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Deloitte Tech Simulation Forage GeeksforGeeks \u2013 Generative AI",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Securiti \u2013 AI Security & Governance",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "AI & ML Engineering Intern",
+        "company": null,
+        "start_date": "Jan 2025",
+        "end_date": "May 2025"
+      }
+    ]
+  },
+  "resume_02.pdf": {
+    "personal_information": {
+      "name": "Cristian Garcia",
+      "email": "cgarcia.e88@gmail.com",
+      "phone": null,
+      "location": "Machine Learning Engineer  @cgarciae88 @cgarciae Currently Machine Learning Engineer at Quansight Author of Elegy and Treex Specialized in Machine Learning, Deep Learning, MLOps, Open Source Summary Machine Learning Engineer and Software Developer with a background in math and physics. Extensive",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [],
+    "experience": [
+      {
+        "job_title": "Quansight current",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "Software Developer / Machine Learning Engineer Open Source, Machine Learning, time series for trading, sklearn, jax. Snappr Inc 1 year Senior Machine Learning Engineer Machine Learning, demand forecast, photo aesthetics prediction, image clustering. Landing AI 1 year Machine Learning Engineer Deep Learning, Automatic Visual Inspection for the automotive industry, synthetic data generation, GANs Bigbang Media 6 months Lead Engineer in Computer Vision Deep Learning, video classification, Tensorflow, TPUs, and Dataflow Kiwi Campus 1 year Lead Machine Learning Engineer Deep Learning, autonomous driving delivery robots, computer vision, TensorFlow, ROS Senseta 1 year Data Scientist Machine Learning, Spark, Zeppelin, Scikit Learning, Flask",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Python (10+ years)",
+        "TensorFlow",
+        "Pytorch",
+        "Jax",
+        "Numpy",
+        "Pandas",
+        "Scikit-Learn",
+        "Spark",
+        "Flask",
+        "FastAPI",
+        "SQL",
+        "Bash",
+        "Docker",
+        "KubeFlow",
+        "GCP",
+        "AWS"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Quansight current",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_03.pdf": {
+    "personal_information": {
+      "name": "AlexA.DeOliveira",
+      "email": "Alex.Engineer@Live.com",
+      "phone": "(212)4708075",
+      "location": "\u2013\u2013NYC, Profile Senior Controls & Systems Engineer and Computer Scientist with 25+ years of multidisciplinary engineering experience, combining hands-on technical execution with initiative ownership spanning Industrial Automation, SCADA, Railway Systems (CBTC), Electronics, and systems integration. Knowledgeable in Artificial Intelligence and Machine Learning through postgraduate coursework, with limited applied experience in supporting AI-driven automation in R&D environments. Committed to integrity-centered collaboration, accountability, and operational ownership, delivering secure, high-availability, real-time industrial automation systems that advance modernization and long-term operational excellence. Fluent in English, Portuguese, and Spanish Technical Expertise, SCADA & Infrastructure: Real-time systems (RedHat Linux, Windows Server), network configuration (routers, switches, firewalls), cybersecurity awareness, 24/7 system reliability, Industrial Automation: PLC programming, HMI, SCADA (iFIX), OPC, Profibus, TCP/IP, industrial Ethernet, controls integration, variable frequency drives, soft-starters, inverters, COBOL programming, algorithm & programming logic, Hands-On Engineering: Control panels, VFDs, vision systems, soft starters, motors, pumps, conveyors, encoders, relays, sensors, instrumentation, electrical-mechanical troubleshooting & assembly, Documentation & Compliance: AutoCAD schematics, UL/CE support, FAT/SAT, technical manuals, signal analysis, AI & Applied Machine Learning (Postgraduate Studies \u2013 California Institute of Technology, University of Michigan): AI engineering, RAG workflows, vector embeddings, neural network fundamentals, LLM, applied ML for automation optimization, etc",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "PRO EDU Applied Gen AI Specialization (in progress",
+        "degree": "MICHIGAN STATE \u2013 USA/ONLINE",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "CALTECH \u2013 California/USA \u2013 PosGrad \u2013 Artificial Intelligence & Machine Learning (2024/2025) FUNDA\u00c7\u00c3O GET\u00daLIO VARGAS \u2013 Brazil \u2013 MBA - Project Management (2017/2019) SOUTHERN POLYTECHNIC STATE UNIVERSITY, Marietta, GA \u2013 B.S. Electrical Engineering (2004/2009) BROOKDALE COMMUNITY COLLEGE, Lincroft, NJ \u2013 A.A.S. in Computer Sciences (1999/2002)"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "ATS/SP SCIENTIFIC/AB&C Engineering \u2013 Warminster PA",
+        "company": null,
+        "start_date": "Jan 2022",
+        "end_date": "Present",
+        "description": "Controls Systems Engineer, R&D \u2022Engineered specialized Software & Controls projects, including PLC code development, iFIX/SCADA commissioning, and electrical troubleshooting for lyophilization systems. Delivered 24/7 remote/field support and authored comprehensive technical documentation, schematics, and operational manuals",
+        "technologies": []
+      },
+      {
+        "job_title": "WABTEC BRAZIL \u2013 Brazil \u2013 Various",
+        "company": null,
+        "start_date": "Cities 2013",
+        "end_date": "2019",
+        "description": "\u2022 Systems & Application Engineer, Team Coordinator Leadership role in executing Brazil\u2019s first pilot CBTC project implementation on Locomotives & Railway Auxiliary Vehicles. Field surveys, hands-on installation, quality assurance, software & hardware troubleshoot. Created 300 plus docs such as electrical schematics, surveys, installation manuals, signal analyses, checklists",
+        "technologies": []
+      },
+      {
+        "job_title": "ULTRASONIC MOLECULAR WELDING \u2013 Shelton",
+        "company": null,
+        "start_date": "CT 2010",
+        "end_date": "2013",
+        "description": "\u2022 Controls Engineer/Assistant R&D PLC/HMI programming and design of control panels for Ultrasonic Welding Automation. AutoCAD Schematics, PCB Designing, Research/Creation of Support Documentation for UL and CE certification",
+        "technologies": []
+      },
+      {
+        "job_title": "ELECTRONIC MACHINES ASSOCIATES \u2013 Norcross",
+        "company": null,
+        "start_date": "GA 2008",
+        "end_date": "2010",
+        "description": "\u2022 Field/Lab Engineer Installation, repair and maintenance of Variable Frequency Drives. Troubleshooting of board level components, power electronics, control systems and electrical motor wiring",
+        "technologies": []
+      },
+      {
+        "job_title": "OPTELIAN ACCESS NETWORKS \u2013 Marietta",
+        "company": null,
+        "start_date": "GA 2006",
+        "end_date": "2008",
+        "description": "\u2022 Network Design Specialist Overall technical support + CAD drawings for network designs of CWDM & DWDM applications. McNEAL WIRELESS SERVICES \u2013 Kennesaw, GA 2006 \u2022 Associate RF Engineer Conducted CW and PMV testing as well as signal data processing & propagation in antenna cell towers. HEWLETT-PACKARD/CINGULAR - End of Lease Roll-Off Project, Cedartown, GA 2006 Network & Technical Support (A Team Effort Project w/ HP, Cingular and TCM technicians) Performed hardware installation and network protocol mapping",
+        "technologies": []
+      },
+      {
+        "job_title": "NOR-RAL AEROSPACE COMPOSITES INC. \u2013 Canton",
+        "company": null,
+        "start_date": "GA 2006",
+        "end_date": "2007",
+        "description": "\u2022 IT/Database Administration Assisted with the overall day-to-day network and database operations of a mid-size company",
+        "technologies": []
+      },
+      {
+        "job_title": "REYNOLDS AND REYNOLDS \u2013 Duluth",
+        "company": null,
+        "start_date": "GA 2005",
+        "end_date": "2006",
+        "description": "\u2022 Specialist ODS Programmer Programmed & maintained Pick Basic programs for the finance and insurance of automobile dealerships",
+        "technologies": []
+      },
+      {
+        "job_title": "BRAYSON\u2019S HOME \u2013 Acworth & Lawrenceville",
+        "company": null,
+        "start_date": "GA 2001",
+        "end_date": "2005",
+        "description": "Assistant Superintendent Conducted daily inspections of various levels of home building",
+        "technologies": []
+      },
+      {
+        "job_title": "STAR TECHNICAL INSTITUTE \u2013 Ocean Township",
+        "company": null,
+        "start_date": "NJ 2000",
+        "end_date": "2001",
+        "description": "\u2022 Computer Instructor Prepared students for A+ Hardware/Software Certification by utilizing theoretical and hands-on approaches BROOKDALE COMMUNITY COLLEGE \u2013 Lincroft, NJ Spring 2000 \u2022 Math Tutor Assisted faculty staff by providing individual instruction to college students in Advanced Algebra, Trigonometry, Calculus I, II, and III",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "ATS/SP SCIENTIFIC/AB&C Engineering \u2013 Warminster PA",
+        "company": null,
+        "start_date": "Jan 2022",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "WABTEC BRAZIL \u2013 Brazil \u2013 Various",
+        "company": null,
+        "start_date": "Cities 2013",
+        "end_date": "2019"
+      },
+      {
+        "job_title": "ULTRASONIC MOLECULAR WELDING \u2013 Shelton",
+        "company": null,
+        "start_date": "CT 2010",
+        "end_date": "2013"
+      },
+      {
+        "job_title": "ELECTRONIC MACHINES ASSOCIATES \u2013 Norcross",
+        "company": null,
+        "start_date": "GA 2008",
+        "end_date": "2010"
+      },
+      {
+        "job_title": "OPTELIAN ACCESS NETWORKS \u2013 Marietta",
+        "company": null,
+        "start_date": "GA 2006",
+        "end_date": "2008"
+      },
+      {
+        "job_title": "NOR-RAL AEROSPACE COMPOSITES INC. \u2013 Canton",
+        "company": null,
+        "start_date": "GA 2006",
+        "end_date": "2007"
+      },
+      {
+        "job_title": "REYNOLDS AND REYNOLDS \u2013 Duluth",
+        "company": null,
+        "start_date": "GA 2005",
+        "end_date": "2006"
+      },
+      {
+        "job_title": "BRAYSON\u2019S HOME \u2013 Acworth & Lawrenceville",
+        "company": null,
+        "start_date": "GA 2001",
+        "end_date": "2005"
+      },
+      {
+        "job_title": "STAR TECHNICAL INSTITUTE \u2013 Ocean Township",
+        "company": null,
+        "start_date": "NJ 2000",
+        "end_date": "2001"
+      }
+    ]
+  },
+  "resume_04.pdf": {
+    "personal_information": {
+      "name": "AMIRA KHALFAN ABDULLAH AL-",
+      "email": "amiramarzo12311@gmail.com",
+      "phone": null,
+      "location": "MARZUQI, , 90135320  Muscat Oman ABOUT ME Aspiring software engineer with a solid foundation in computer science principles, software development, and programming languages. Proficient in various programming languages including Python, Java, C++, PHP and Dart. Have many courses in AI. Strong problem-solving skills and ability to work collaboratively in team environments. Eager to leverage academic knowledge and internship experiences to contribute to innovative software solutions.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Jan  Software Engineering",
+        "start_date": null,
+        "end_date": "2025",
+        "gpa": null,
+        "details": "Muscat, Oman University of Technology And Applied Science LANGUAGE Arabic: English: Native or Bilingual Full Professional CONTACT \u2022 PHONE: 90135320 \u2022 EMAIL: amiramarzo1231@gmail.com REFERENCES Mohammed, ALGahdhami, supervisor, 95227716, General Federation of Oman Worker"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Analyst",
+        "company": null,
+        "start_date": "Nov 2025",
+        "end_date": "Current",
+        "description": "Muscat, Oman UTTS \u2013 Oman",
+        "technologies": []
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "November 2025",
+        "end_date": "Present",
+        "description": "\u2022 Analyze business data using Python (Pandas, NumPy) to extract insights and generate performance reports. \u2022 Write and optimize SQL queries to retrieve and manipulate data from relational databases. \u2022 Perform data cleaning and preprocessing to improve data accuracy and consistency. \u2022 Develop analytical reports to support decision-making and improve operational efficiency. \u2022 Collaborate with different departments to understand data requirements and translate them into analytical solutions. \u2022 Assist in building a predictive model (Machine Learning project in progress) to improve forecasting accuracy",
+        "technologies": []
+      },
+      {
+        "job_title": "Three-month complete training / General Federation of Oman",
+        "company": null,
+        "start_date": "Nov 2024",
+        "end_date": "Feb 2025",
+        "description": "Workers \u2022 Developed a full KPI system (analyze the information in excel file and understand it carefully, then start to work and create a database then design a page using php, html and tailwind. Then connect all pages with others to make a complete system, then, work with multiplication using MSQL triggers. Test the website with supervisor and HR. Finally upload the system for testing, display and verification). \u2022 Work with Certificates system (create multiple pages using PHP and MYSQL to allow GFOW employees to see their available",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [],
+    "certifications": [
+      {
+        "name": "and download it as PDF files.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Fix some issue in company website.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "PERSONAL PROGRAMMING LANGUAGE",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "PHP / HTML / CSS",
+        "issuer": "Dart / Flutter",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Python",
+        "issuer": "Linux",
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Data Analyst",
+        "company": null,
+        "start_date": "Nov 2025",
+        "end_date": "Current"
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "November 2025",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Three-month complete training / General Federation of Oman",
+        "company": null,
+        "start_date": "Nov 2024",
+        "end_date": "Feb 2025"
+      }
+    ]
+  },
+  "resume_05.pdf": {
+    "personal_information": {
+      "name": "Arjun Garasiya",
+      "email": "garasiyaarjun17@gmail.com",
+      "phone": "7067789907",
+      "location": "AI Engineer, Ph: +91-, LinkedIn, Github SUMMARY Driven AI Engineer with hands-on experience in Machine Learning, NLP, and deploying real-world AI applications. Skilled in buildingintelligenttext-analysissystemsusingtransformermodels, Python, Flask/FastAPI, andLangChain. Strongatturning data into practical solutions, optimizing models, and delivering clean, scalable AI products. Passionate about creating smart tools that improve user experience and solve real problems. INTERNSHIP Machine Learning Intern Mar 2025 \u2013 Apr 2025 Cognifyz Technologies ATS-Friendly Smart Resume Analyzer Python, NLP, Scikit-learn, Streamlit, Builtanintelligentresumeanalysistoolthatextractsskills, parsestext, andmatchescandidateprofileswithjobdescrip- tions., UsedNLPtechniquesincludingSpaCy, Regex, andTF-IDFtoidentifyrole-specifickeywordsandcomputecompatibility scores., Designed a clean Streamlit dashboard to provide instant resume evaluation with actionable suggestions.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "Artificial Intelligence & Data Science  \u2013 2026",
+        "degree": "B.Tech.",
+        "start_date": null,
+        "end_date": "2022",
+        "gpa": null,
+        "details": "Prestige Institute of Engineering Management & Research, Indore 12th (MP Board) 2022 B.H.S. School, Manasa 10th (MP Board) 2020 B.H.S. School, Manasa"
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [
+      {
+        "name": "Developed an AI-powered text analysis system capable of detecting AI-generated text, summarizing long content, cor-",
+        "date": null,
+        "description": "recting grammar, and translating text across languages",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Implementedtransformer-basedmodelssuchasRoBERTa,BART,andT5forAIdetection,summarization,andgrammar",
+        "date": null,
+        "description": "correction, significantly improving accuracy and usability",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Designedafull-stacksolutionusingFlask(backend),React(frontend),andMongoDB(database),enablingseamlessuser",
+        "date": null,
+        "description": "interaction and real-time text processing. Malware Analysis using Machine Learning",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Implementedamachinelearning-basedmalwaredetectionsystemachievingimprovedaccuracyovertraditionalsignature-",
+        "date": null,
+        "description": "based methods",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Extracted numerical features from executable files, processed datasets, and trained ML models such as Random Forest",
+        "date": null,
+        "description": "and SVM for safe/malware classification",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Deployed the model using Flask API to analyze files and generate real-time predictions through a web interface.",
+        "date": null,
+        "description": "KEY SKILLS Programming: Python,Machine Learning,Deep Learning,LangChain,FastAPI,LangGraph Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn Data Visualization: Power BI, Excel Soft Skills: Problem Solving, Teamwork, Communication, Critical Thinking",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Artificial Intelligence Google Cloud \u2013 Simplilearn",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Power BI Fundamentals",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Business Analytics for Beginners",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "ACTIVITIES & INTERESTS",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Participated in charity marathon and college tech projects.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Volunteered in sports events.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "HOBBIES",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Reading Books",
+        "issuer": "Playing Cricket",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "1",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": []
+  },
+  "resume_06.pdf": {
+    "personal_information": {
+      "name": "ASWIN",
+      "email": "aswin@aswincloud.com",
+      "phone": "+91 6380157944",
+      "location": "SENIOR SOFTWARE ENGINEER PROFILE Senior software engineer working close to the metal on next-generation AI accelerator hardware. I build and optimize low-level compute kernels, profile and benchmark tensor operations, and hunt bottlenecks across the stack to drive device CONTACT throughput \u2014 and own end-to-end model tracing and validation plus the tooling and  infrastructure around it.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "CLI tool that profiles AI-accelerator compute tests and extracts device kernel",
+        "start_date": null,
+        "end_date": null,
+        "gpa": "8.5 / 10",
+        "details": "B.Tech, Electronics & Communication performance metrics. Wraps the device profiler with pytest, parses result CSVs, and Engineering reports total kernel duration. Published on PyPI. Python \u00b7 pytest \u00b7 PyPI \u2014 ttperf.aswincloud.com Sri Manakula Vinayagar Engineering College, Puducherry Eltwise Performance Tracker 2019 \u2013 2023 \u2022 C Day-by-day performance monitoring for element-wise operations on AI-accelerator hardware \u2014 tracks kernel-timing trends across dates, correlates regressions to git"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "www.aswincloud.com",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "Senior Software Engineer Jun 2023 \u2013 Present Pondicherry, India MulticoreWare Pvt Ltd \u00b7 Chennai, India github.com/Aswincloud Software engineering for a leading AI silicon company\u2019s accelerator stack \u2014 developing and optimizing the software that runs on next-generation AI chips. linkedin.com/in/aswin4122001 Work as part of an element-wise operations team \u2014 contributing kernel",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "development",
+        "code review",
+        "and CI health for unary/binary element-wise ops.",
+        "Author and optimize low-level compute kernels with broad data-type coverage",
+        "PERFORMANCE",
+        "(fp32",
+        "bf16",
+        "int32",
+        "uint8/16/32) and hardware-specific instruction-level work",
+        "Profiling",
+        "benchmarking",
+        "kernel optimization",
+        "verified against ISA documentation.",
+        "bottleneck analysis",
+        "low-level compute",
+        "Own end-to-end model tracing and validation with sweeps \u2014 reconstructing real",
+        "kernels",
+        "model operation traces from a database and validating them against generated",
+        "LANGUAGES sweep tests for exact-match coverage.",
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "SQL Profile and benchmark kernels with the device profiler",
+        "tracking kernel execution",
+        "time and diagnosing per-core load imbalance to guide optimization.",
+        "AI HARDWARE",
+        "AI-accelerator software stacks",
+        "compute- Maintain performance-tracking automation and daily/weekly reporting pipelines",
+        "kernel development that flag regressions against historical baselines and correlate them to commits.",
+        "TOOLING Industrial Project Engineer Jun 2022 \u2013 May 2023",
+        "Git & GitHub",
+        "CI/CD (GitHub Actions)",
+        "Lenovo Pvt Ltd \u00b7 Pondicherry",
+        "India",
+        "pytest",
+        "PyPI",
+        "device/kernel profilers Developed and maintained a smart attendance system using face-recognition",
+        "technology with database integration.",
+        "CLOUD / INFRA",
+        "Built an ESD tester with database-backed logging for real-time test workflows.",
+        "Cloudflare \u2014 site hosting",
+        "Tunnels",
+        "Zero",
+        "Trust / Access auth; self-hosted services Worked on computer-vision algorithms",
+        "biometric authentication",
+        "and real-time",
+        "data processing.",
+        "OTHER",
+        "PCB design",
+        "Linux & shell scripting"
+      ]
+    },
+    "projects": [
+      {
+        "name": "ttperf",
+        "date": null,
+        "description": "AI-Accelerator Performance Profiler",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "commits",
+        "issuer": "and sends automated alerts on >20% changes.",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "SkillRack \u2014 300+ problem-solving ttnn-eltwise-performance.aswincloud.com",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "medals in C & Java Academic Projects \u2014 B.Tech ECE",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Python for Data Science \u2014 NPTEL Embedded & hardware builds: DDS-based portable function generator up to 12 MHz",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Arduino-based portable oscilloscope",
+        "issuer": "0\u201330 V / 0\u20132 A regulated power supply",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Great Learning \u2014 C",
+        "issuer": "Java",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "contact AC/DC line tester.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Memory Management",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "TCS iON \u2014 Career Edge",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "www.aswincloud.com",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_07.pdf": {
+    "personal_information": {
+      "name": "NGUYEN HUYNH MINH TIEN",
+      "email": "tiennhm.it@gmail.com",
+      "phone": null,
+      "location": "Thu Duc City, Ho Chi Minh City, Vietnam Phone: +84 388 963 345, Email:, , https://www.youtube.com/@TienNguyen09 Date of Birth: 09/09/2000 OBJECTIVE Build scalable, reliable, and business-aligned software products that deliver measurable value to users and operations. In the near term, focus on leading end-to-end delivery of CRM/Loyalty initiatives across architecture, implementation, integration, and production excellence. In the long term, grow into a senior full-stack engineering leader who combines strong technical depth with product thinking, team enablement, and continuous innovation in AI-enabled enterprise systems. PROFESSIONAL SUMMARY Full-stack Software Developer with 4+ years of experience delivering enterprise solutions, with strong focus on C#/.NET, ABP Framework, and Angular ecosystems. Hands-on experience across CRM, Loyalty, Healthcare, and GenAI use cases, including architecture design, feature ownership, third-party integrations (Haravan, Pancake, OneSignal, webhooks), and deployment-ready implementation for both web and mobile channels. Proven ability to lead technical execution in cross-functional teams (including Tech Lead responsibilities for teams up to 10 developers), manage backlog/features/tasks, and drive delivery quality from requirement clarification to release. Solid engineering foundation in microservices, clean architecture, caching and queue-based processing, performance optimization, load testing, and security hardening, with practical application of RAG/LLM pipelines and AI-agent-enabled workflows.",
+      "linkedin": null,
+      "github": "https://github.com/tiennhm",
+      "portfolio": "https://tiennhm.github.io"
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Bachelor Engineer in Software Engineering",
+        "start_date": null,
+        "end_date": null,
+        "gpa": "8.74/10",
+        "details": "Ho Chi Minh City University of Technology and Education (HCMUTE) | 08/2018 - 08/2022"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Technical Specialist / Developer",
+        "company": "FPT IS",
+        "start_date": null,
+        "end_date": null,
+        "description": "Ho Chi Minh City, Vietnam | 01/2023 - Present Page 1 / 4 Executed technical tasks based on project plans and detailed solution design. Developed custom features, integrations, and reports for enterprise customers. Investigated and resolved production incidents to keep systems stable. Configured system parameters to meet project and client requirements. Supported multi-project delivery across CRM, Loyalty, and GenAI domains. Managed and assigned development tasks for team members to improve execution efficiency. Collaborated with product owners and business stakeholders to clarify requirements and convert them into technical tasks. Participated in technical estimations, sprint planning, and release readiness activities. Software Developer | FPT Software Ho Chi Minh City, Vietnam | 02/2022 - 12/2022 Implemented features for the Loyalty Network System for FPT Group. Delivered coding tasks and module updates according to sprint timelines. Worked with team members to maintain release stability and quality. Freelancer Developer | AEMI Beauty Ho Chi Minh City, Vietnam | 12/2021 - 01/2022 Built an e-commerce website for beauty products. Developed responsive UI pages and core shopping workflows",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Programming Languages": [
+          "C#",
+          "JavaScript",
+          "TypeScript",
+          "Node.js",
+          "Java",
+          "Python",
+          "Go"
+        ],
+        "Frameworks/Libraries": [
+          "ABP Framework",
+          "ASP.NET",
+          "Entity Framework",
+          "Angular",
+          "Tailwind CSS",
+          "PrimeNG"
+        ],
+        "Platforms & Tech Stacks": [
+          "CRM systems",
+          "Loyalty systems",
+          "GenAI modules",
+          "REST API integration",
+          "SignalR"
+        ],
+        "Architecture & Patterns": [
+          "Clean Architecture",
+          "Microservices",
+          "Integration Patterns",
+          "MVC",
+          "Three-tier Architecture"
+        ],
+        "Engineering Practices": [
+          "Caching strategies",
+          "queue processing",
+          "performance optimization",
+          "load testing",
+          "security"
+        ],
+        "AI Capabilities": [
+          "LLM applications",
+          "RAG pipelines",
+          "Embedded AI Agent integration"
+        ],
+        "Cloud & DevOps": [
+          "Kubernetes (K8s)",
+          "kubectl",
+          "Lens",
+          "k6",
+          "Azure",
+          "AWS",
+          "MinIO"
+        ],
+        "Databases": [
+          "MSSQL",
+          "MySQL",
+          "SQLite",
+          "MongoDB",
+          "Redis"
+        ],
+        "Tools": [
+          "Cursor",
+          "Claude",
+          "Git",
+          "GitLab",
+          "GitHub",
+          "Postman",
+          "VS Code",
+          "Visual Studio"
+        ],
+        "Other": [
+          ".NET Stack: .NET Core 2.1",
+          ".NET Framework 4.6",
+          ".NET 6",
+          ".NET 9",
+          ".NET 10",
+          "Bootstrap",
+          "OneSignal",
+          "Webhooks",
+          "RabbitMQ",
+          "Redis",
+          "Elasticsearch",
+          "Dependency Injection",
+          "hardening",
+          "SOFT SKILLS",
+          "Self-learning and adaptation",
+          "Teamwork and communication",
+          "Planning and problem-solving",
+          "Ownership and responsibility in delivery"
+        ]
+      },
+      "all_skills": [
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Java",
+        "Python",
+        "Go",
+        "ABP Framework",
+        "ASP.NET",
+        "Entity Framework",
+        "Angular",
+        "Tailwind CSS",
+        "PrimeNG",
+        "CRM systems",
+        "Loyalty systems",
+        "GenAI modules",
+        "REST API integration",
+        "SignalR",
+        "Clean Architecture",
+        "Microservices",
+        "Integration Patterns",
+        "MVC",
+        "Three-tier Architecture",
+        "Caching strategies",
+        "queue processing",
+        "performance optimization",
+        "load testing",
+        "security",
+        "LLM applications",
+        "RAG pipelines",
+        "Embedded AI Agent integration",
+        "Kubernetes (K8s)",
+        "kubectl",
+        "Lens",
+        "k6",
+        "Azure",
+        "AWS",
+        "MinIO",
+        "MSSQL",
+        "MySQL",
+        "SQLite",
+        "MongoDB",
+        "Redis",
+        "Cursor",
+        "Claude",
+        "Git",
+        "GitLab",
+        "GitHub",
+        "Postman",
+        "VS Code",
+        "Visual Studio",
+        ".NET Stack: .NET Core 2.1",
+        ".NET Framework 4.6",
+        ".NET 6",
+        ".NET 9",
+        ".NET 10",
+        "Bootstrap",
+        "OneSignal",
+        "Webhooks",
+        "RabbitMQ",
+        "Elasticsearch",
+        "Dependency Injection",
+        "hardening",
+        "SOFT SKILLS",
+        "Self-learning and adaptation",
+        "Teamwork and communication",
+        "Planning and problem-solving",
+        "Ownership and responsibility in delivery"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Loyalty System (ACFC)",
+        "date": null,
+        "description": "FPT IS. 04/2026 - Present | Role: Developer Developed loyalty and e-commerce workflows for customer engagement scenarios. Implemented reward redemption and gifting integrations for promotional programs. Integrated delivery and notification flows to complete end-to-end loyalty journeys. Designed and maintained workflows for earning points through purchases and converting points into rewards. Implemented integration flows for order delivery status and customer-facing notifications. Supported operational monitoring and issue fixes for key loyalty business flows. CRM Healthcare (Mat Sai Gon) | FPT IS 09/2025 - 03/2026 | Role: Developer Developed CRM modules for lead, account, and booking business workflows. Integrated Pancake and built social-media chat interfaces for Facebook, Zalo, and Instagram channels. Coordinated development execution by assigning tasks and tracking progress across the dev team. Worked closely with operations teams to align CRM workflows with healthcare customer service processes. Improved task tracking and team execution by structuring feature ownership and sprint priorities. CRM for GEIC (GEIC Industrial Equipment JSC) | FPT IS 06/2025 - 09/2025 | Role: Developer Implemented and maintained CRM features supporting key business workflows. Delivered enhancements and fixes to improve system usability. Developed and refined business modules for customer management, activity tracking, and reporting. Supported rollout phases by resolving defects and stabilizing newly released features. CRM Next Product (FPT CX Suite) | FPT IS 03/2025 - 09/2025 | Role: Tech Lead Led a development team of up to 10 engineers for CRM Next product delivery. Managed tasks, feature planning, and backlog prioritization across sprints. Conducted technical research and defined implementation direction for new capabilities. Page 2 / 4 Owned feature delivery from requirement refinement to deployment readiness. Reviewed implementation quality and coordinated with developers to keep architecture consistency. Worked with product and QA teams to ensure release quality and predictable sprint outcomes. AI Content Generator System (Maison Online) | FPT IS 07/2024 - 03/2025 | Role: Developer Built RAG and LLM pipelines for fashion-product content generation use cases. Developed product image recognition features for fashion-item understanding. Implemented internet data crawling to enrich context and auto-generate product descriptions. Integrated generation workflows with headless CMS for publishing and content management. Implemented prompt and retrieval strategies to improve description quality and consistency. Built processing flows to map generated outputs to product schemas used by business teams. Loyalty System (Maison Online) | FPT IS 06/2023 - 06/2024 | Role: Developer Developed and integrated the Loyalty platform with e-commerce and mobile applications. Built loyalty functions including campaigns, point accumulation/redemption, gift redemption, and point conversion rules. Integrated notification flows using OneSignal and implemented membership tier re-evaluation logic. Improved performance for key loyalty features and transaction-heavy business flows. Delivered reusable service APIs for loyalty operations consumed by multiple channels. Improved runtime performance by optimizing hot paths in points and rewards calculations. Loyalty Network System (FPT Group) | FPT Software 02/2022 - 12/2022 | Role: Developer Delivered coding tasks and features for an enterprise loyalty platform. Coordinated with stakeholders to complete milestones on schedule. Implemented business features under tight timelines for production rollouts. Contributed to issue triage and maintenance tasks after feature releases. ACADEMIC AND PERSONAL PROJECTS X2MINT | MERN, VNPay, Google OAuth2, Cloudinary 09/2021 - Present | Team size: 2 Built a web platform for online multiple-choice contest management. Integrated VNPay for premium features and enabled social sharing. Owned analysis, design, coding, testing, and deployment (Heroku, Vercel). VIETSHOP | Java, Android, SQLite, Firebase 05/2021 - 06/2021 Developed an Android app for ordering food and household items. Performed system analysis, implementation, and testing. Artist Style Transfer | Python, PyTorch, CycleGAN 05/2021 - 06/2021 | Team size: 7 Applied CycleGAN to generate artistic photo styles and restore old photos. Supported model customization, training, and testing workflows. X4FIT | Java Servlet, MongoDB, Bootstrap, Heroku 11/2020 - 06/2021 | Team size: 4 Built a web app for technology content sharing and social interaction. Page 3 / 4 Implemented post management functions and deployment tasks. Dormitory Management | C#, WinForms, SQL Server 10/2020 - 12/2020 | Team size: 4 Built desktop software for student accommodation and service management. Implemented key functional forms and database modules",
+        "technologies": [],
+        "links": [
+          "https://directus.io/",
+          "https://haravan.com/",
+          "https://x2mint.vercel.app/"
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "English CEFR B2 09/",
+        "issuer": null,
+        "year": 2022,
+        "expiration": null
+      },
+      {
+        "name": "Audio Classification with TensorFlow",
+        "issuer": "Coursera 06/",
+        "year": 2021,
+        "expiration": null
+      },
+      {
+        "name": "Machine Learning Onramp",
+        "issuer": "MathWorks 02/",
+        "year": 2021,
+        "expiration": null
+      },
+      {
+        "name": "TOEIC 625 11/",
+        "issuer": null,
+        "year": 2020,
+        "expiration": null
+      },
+      {
+        "name": "Retrieving",
+        "issuer": "Processing",
+        "year": 2020,
+        "expiration": null
+      },
+      {
+        "name": "AWARDS",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Third Prize - FIS AI Hackathon  FPT IS",
+        "issuer": "team UTOPX UTOP",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Student with 5 Merits University Level:",
+        "issuer": null,
+        "year": 2019,
+        "expiration": 2020
+      },
+      {
+        "name": "Excellent Student:",
+        "issuer": null,
+        "year": 2019,
+        "expiration": 2020
+      },
+      {
+        "name": "ASEAN Student Contest on Information Security:",
+        "issuer": null,
+        "year": 2020,
+        "expiration": 2021
+      },
+      {
+        "name": "Mastering IT : 2nd Prize Specialized Grade",
+        "issuer": null,
+        "year": 2019,
+        "expiration": null
+      },
+      {
+        "name": "ACTIVITIES",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Vice Leader",
+        "issuer": "Google Developer Student Clubs - HCMUTE 08/ - Present",
+        "year": 2021,
+        "expiration": null
+      },
+      {
+        "name": "Executive Committee Member",
+        "issuer": "Student Association - Faculty of IT 06/ - 11/",
+        "year": 2020,
+        "expiration": 2021
+      },
+      {
+        "name": "Volunteer",
+        "issuer": "Entrance Exam Support Program - HCMUTE 08/ - 09/",
+        "year": 2020,
+        "expiration": 2020
+      },
+      {
+        "name": "LANGUAGES",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Vietnamese: Native",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "English: Professional Working",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "INTERESTS",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Writing technical blog posts to document solutions",
+        "issuer": "architecture decisions",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "experiences.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Producing academic and technical learning videos to explain engineering concepts in an easy-to-follow format.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Building personal technical branding through https://tiennhm.github.io and",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "https://www.youtube.com/@TienNguyen09.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Page 4 / 4",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Technical Specialist / Developer",
+        "company": "FPT IS",
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_08.pdf": {
+    "personal_information": {
+      "name": "Adnan Bashir",
+      "email": "adnaan.bashir@gmail.com",
+      "phone": "505 219 6446",
+      "location": "+ Secaucus, NJ 07094, (cid:132), #, (cid:18) 2, (cid:240) 2, \u00a7 2",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "Albuquerque",
+        "degree": "Aug  Ph.D. Computer Science \u2013 University of New Mexico",
+        "start_date": null,
+        "end_date": "2025",
+        "gpa": null,
+        "details": "Focus: Machine Learning | Advisor: Dr. Trilce Estrada 2 Thesis: Unsupervised Learning and Applied LLMs for data stream modeling. Dec 2015 M.S. Computer Science \u2013 University of New Mexico, Albuquerque, NM USA Focus: Machine Learning and Data Science Aug 2012 B.E. Electronics Engineering \u2013 National University of Science & Technology, Pakistan Final Project: Spectrum-aware dynamic channel assignment in cognitive radio networks Selective Work Experience & Projects Aug 2018 Machine Learning Engineer & Graduate Researcher Present Data Science Lab \u2013 University of New Mexico, Albuquerque, NM USA DSX 2 Designed and led development of an LLM-based state detection framework, integrating foundation models, representation learning, and explainable AI to identify latent states and generate insights in multivariate streaming data. Enabled new research in time-series explainability and tool adoption. DRUM 2 Architected and operationalized DRUM, a robust unsupervised learning platform for change point detection and real-time inference in streaming data. Improved regime shift detection, reduced anomaly response by 30%, and published results at DAWAK 2023, with ongoing references by peer researchers. TSX 2 Designed a production-ready SmartGrid analytics solution, leveraging deep learning and predictive analytics for automated fault detection, event forecasting, and real-time data visualization. Enhanced data- driven decision making and increased grid reliability for infrastructure stakeholders. Apr 2025 Lead Data Steward Present Department of Workforce Solutions \u2013 State of New Mexico, Albuquerque, NM USA DRIFT 2 Designed and launched DRIFT, a secure, enterprise-scale data access and orchestration platform, embedding real-time anomaly detection, data governance, and automated compliance enforcement to support high- volume, high-sensitivity data streams for state operations. Led the cross team implementation, standardizing access and monitoring across 10+ business units, streamlining analytics for mission critical workflows, and reducing end-to-end data request turnaround by 40%. Recognized internally as a catalyst for modernizing statewide data management practices. Dec 2016 OTF Fellow 2 Dec 2017 Radio Free Asia \u2013 (Open Technology Fund) & University of New Mexico, Albuquerque, NM USA Bot-D 2 Conducted and managed large-scale, real-time social media analytics for election data integrity, deploy- ing cutting-edge bot detection, anomaly analytics, and automated monitoring on multi-million tweet datasets. DrovecollaborationwithelectionintegrityNGOs,producingactionablereportsandopendatasetsthat informed policy recommendations and were cited in international academic publications. AV 2 Designedandimplementedadvancedinformation securityandmalware detection modelsusing machine learning, statistical modeling, and risk modeling techniques. Led research on novel web-based attack vectors and collaborated with global cybersecurity partners to deploy countermeasures, ultimately improving detection rates and supporting the development of policy recommendations for transnational security. Publications Aug 2023 Real Time Detection of Regime Shifts in Multivariate Data Streams 2 \u2013 + DAWAK 2 Apr 2021 Girasol, a Sky Imaging and Global Solar Irradiance Dataset 2 \u2013 + Data In Brief 2 Dec 2020 LADPU Smart Meter Data 2 \u2013 + NSF Public Access Repository 2 Apr 2019 Presidential Elections in Ecuador: Bot Presence in Twitter 2 \u2013 + ICEDEG 2 May 2016 Infect-me-not: A user-centric and site-centric study of web-based malware 2 \u2013 + IFIP 2 Oct 2012 Spectrum-aware dynamic channel assignment in cognitive radio networks 2 \u2013 + ICET 2"
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Coding Python( TensorFlow",
+        "PyTorch",
+        "CoreFlow",
+        "Sklearn)",
+        "Bash",
+        "Scala",
+        "LATEX",
+        "Cloud AWS",
+        "Databricks",
+        "Snowpark",
+        "ML-Ops CI/CD",
+        "Model Monitoring",
+        "Automation",
+        "Domain LLMs",
+        "Deep Learning",
+        "Unsupervised Models",
+        "Streaming Data Analytics"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": []
+  },
+  "resume_09.pdf": {
+    "personal_information": {
+      "name": "HOSSEIN",
+      "email": "hosse.inmrd.87@gmail.com",
+      "phone": "918-409-3133",
+      "location": "MORADI TURNING IDEAS INTO CODE, DESIGN & EDITS EXECUTIVE SUMMARY Freelance software developer with additional WORK HISTORY expertise in graphic design and editing. Able to build efficient solutions while also delivering engaging visuals. Bringing both analytical thinking and creativity to every project. Freelance Software Developer & Designer Self-employed, 2022 \u2013 Present Developed web applications and software solutions Designed creative logos and branding CONTACT DETAILS: Edited promotional videos and social media content  Managed all projects independently, ensuring on-time Phone:+98- delivery Location: Hamedan, Iran GitHub:  Telegram:@Hosse_inmrdTm Systems Analyst Instagram:hosse_inmrdtm 2022 \u2013 Present Analyzed client requirements and designed software solutions CAREER HIGHLIGHTS Identified system inefficiencies and proposed improvements Develop multiple web applications and scripts Collaborated with developers and designers to implement Edit promotional videos solutions Develop multiple web applications and Documented workflows and processes for future reference software solutions Design creative logos and brand identities Ensured projects met client expectations and deadlines Edit promotional videos, tutorials, and social media content Continuously learn and apply the latest tools ACADEMIC TRAINING and technologies in software development, video design, and editing. Stanford University MASTER OF COMPUTER SCIENCE DEGREE Graduated with honors, completing a thesis on machine",
+      "linkedin": null,
+      "github": "https://github.com/hosseinmoradii87",
+      "portfolio": null
+    },
+    "education": [],
+    "experience": [],
+    "skills": {
+      "categories": {
+        "Programming Languages": [
+          "Python predictive analytics."
+        ],
+        "Web Development": [
+          "HTML",
+          "CSS",
+          "JavaScript Education / Training:"
+        ],
+        "Graphic Design": [
+          "Adobe Illustrator"
+        ],
+        "Video Editing": [
+          "Adobe Premiere Pro",
+          "After"
+        ],
+        "Project Management": [
+          "Time Management",
+          "Completed online courses in [programming / web"
+        ],
+        "Problem Solving & Creativity": [
+          "Analytical"
+        ],
+        "Other": [
+          "learning applications in real-time data processing and",
+          "JavaScript",
+          "C#",
+          "PHP",
+          "Photoshop",
+          "Logo Design SELF-TAUGHT AND COMPLETED ONLINE COURSES IN PROGRAMMING",
+          "WEB DEVELOPMENT",
+          "GRAPHIC DESIGN",
+          "AND VIDEO EDITING.",
+          "Effects",
+          "Task Planning",
+          "Team Collaboration",
+          "Problem",
+          "development / design] Form 2022",
+          "Solving",
+          "Deadline Management",
+          "Client",
+          "Self-paced learning in [specific skills",
+          "e.g.",
+          "Python",
+          "Adobe",
+          "Communication",
+          "Illustrator",
+          "Video Editing",
+          "photoshop]",
+          "Participated in workshops and tutorials on []",
+          "thinking with creative solutions"
+        ]
+      },
+      "all_skills": [
+        "Python predictive analytics.",
+        "HTML",
+        "CSS",
+        "JavaScript Education / Training:",
+        "Adobe Illustrator",
+        "Adobe Premiere Pro",
+        "After",
+        "Time Management",
+        "Completed online courses in [programming / web",
+        "Analytical",
+        "learning applications in real-time data processing and",
+        "JavaScript",
+        "C#",
+        "PHP",
+        "Photoshop",
+        "Logo Design SELF-TAUGHT AND COMPLETED ONLINE COURSES IN PROGRAMMING",
+        "WEB DEVELOPMENT",
+        "GRAPHIC DESIGN",
+        "AND VIDEO EDITING.",
+        "Effects",
+        "Task Planning",
+        "Team Collaboration",
+        "Problem",
+        "development / design] Form 2022",
+        "Solving",
+        "Deadline Management",
+        "Client",
+        "Self-paced learning in [specific skills",
+        "e.g.",
+        "Python",
+        "Adobe",
+        "Communication",
+        "Illustrator",
+        "Video Editing",
+        "photoshop]",
+        "Participated in workshops and tutorials on []",
+        "thinking with creative solutions"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": []
+  },
+  "resume_10.pdf": {
+    "personal_information": {
+      "name": "\ud83d\udc69\u200d\ud83d\udcbb RESUME",
+      "email": "tarunsain2654@gmail.com",
+      "phone": null,
+      "location": "POOJA \ud83d\udce7  \ud83d\udd17 GitHub:  \ud83d\udd17 Portfolio:  \ud83c\udfaf CAREER OBJECTIVE Seeking an internship opportunity as a Frontend Developer where I can apply my skills in HTML, CSS, and JavaScript, improve my practical knowledge, and contribute to real-world web development projects.",
+      "linkedin": null,
+      "github": "https://github.com/pooja-web-1",
+      "portfolio": "https://pooja-web-1.github.io/portfolio"
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Bachelor of Arts (B.A.) \u2013 2nd Year (Pursuing",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "(College Name) Senior Secondary (12th Pass) (Year of Passing)"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "\u2022 Beginner-level web development projects",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "\u2022 Continuous learning through practice and online resources \ud83c\udfc6 STRENGTHS \u2022 Quick learner \u2022 Creative thinking \u2022 Problem-solving attitude \u2022 Consistent practice habits \ud83c\udf10 LANGUAGES \u2022 Hindi (Fluent) \u2022 English (Basic) \ud83d\udcdc DECLARATION I hereby declare that all the information provided above is true to the best of my knowledge and belief. 2",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "HTML5",
+        "CSS3",
+        "JavaScript (Basic)",
+        "Responsive Web Design",
+        "Git & GitHub (Basic)",
+        "Canva / UI Design Basics"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Developed a responsive portfolio website using HTML, CSS, and JavaScript",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Showcases skills, projects, and contact information",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Hosted on GitHub Pages",
+        "date": null,
+        "description": "1 2. Mini Projects",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Weather App",
+        "date": "using API basics",
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Rock Paper Scissors Game",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Simple UI design practice projects",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "\u2022 Beginner-level web development projects",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_11.pdf": {
+    "personal_information": {
+      "name": "LUCIANO ARGEO MALAGOLA ANGOLA",
+      "email": "lmalagola04@gmail.com",
+      "phone": null,
+      "location": "+506 8948-6777 \u00b7  \u00b7 La Gu\u00e1cima, Alajuela, Costa Rica LinkedIn:  GitHub:  PROFILE Bachelor\u2019s Degree in Electronic Engineering with a strong background in data analysis, report automation, data visualization, and Business Intelligence solutions. Hands-on experience with advanced Excel (PivotTables, Power Query, VBA, complex formulas) and Power BI (data modeling, DAX, dashboard design), complemented with knowledge of Python and SQL. Currently pursuing a Micro-credential degree in Artificial Intelligence and Business Data Analytics, along with the IBM Data Analyst Professional Certificate. Passionate about analytics, machine learning, innovation, and continuous learning.",
+      "linkedin": "www.linkedin.com/in/luciano-argeo-malagola-angola-ba0221220",
+      "github": "https://github.com/LucianoMalagola/Project-Portfolio",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Universidad Latinoamericana de Ciencia y Tecnolog\u00eda (ULACIT",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "May 2025 - Present Micro-credential Degree in Artificial Intelligence and Business Data Analytics Universidad Latina de Costa Rica (ULATINA) Jan 2020 - Aug 2025 Bachelor\u2019s in Electronics Engineering"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Ultrapark II",
+        "company": "Heredia",
+        "start_date": "Jun 2025",
+        "end_date": "Present",
+        "description": "Manage interactive Power BI dashboards to monitor KPIs, workloads, and team performance. Apply data modeling, create DAX measures, and consolidate information from multiple sources to deliver clear and actionable insights. Develop dynamic operational reports in Excel using PivotTables and dynamic charts. Integrate VBA automation and ActiveX controls to streamline performance analysis and enhance reporting efficiency. Utilize VLOOKUP/XLOOKUP functions to quickly locate work orders and improve the user experience. Swissol \u2013 Photovoltaic Systems Engineer \u2013 Internship",
+        "technologies": []
+      },
+      {
+        "job_title": "San Rafael",
+        "company": "Alajuela",
+        "start_date": "Dec 2024",
+        "end_date": "Mar 2025",
+        "description": "Performed data import, cleaning, validation, and performance analysis from client photovoltaic systems in Excel, generating weekly reports with visualizations and PivotTables to evaluate performance by system type. Managed and updated the technical inventory in Excel, ensuring accurate control of equipment and materials. Installed and maintained photovoltaic systems, including panels, inverters, and batteries. Assisted with inspections, system design, and technical documentation",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Microsoft Power BI": [
+          "Data modeling (Star Schema",
+          "relationships",
+          "normalization)",
+          "DAX measures and columns",
+          "UI/UX"
+        ],
+        "Tools": [
+          "Tableau",
+          "Microsoft Power BI",
+          "Microsoft Excel",
+          "Microsoft Power Query",
+          "IBM Cognos Analytics",
+          "GitHub",
+          "Visual"
+        ],
+        "Personal traits": [
+          "Adaptable",
+          "collaborative",
+          "accountable",
+          "committed to continuous learning",
+          "effective decision-making."
+        ],
+        "Other": [
+          "Microsoft Excel (Advanced): PivotTables",
+          "dynamic charts",
+          "Power Query",
+          "macros and automation",
+          "VBA",
+          "advanced",
+          "formulas (VLOOKUP/XLOOKUP",
+          "INDEX-MATCH",
+          "logical functions)",
+          "structured tables",
+          "data validation.",
+          "design",
+          "visual storytelling.",
+          "Programming Languages:",
+          "Python (Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Seaborn",
+          "BeautifulSoup",
+          "Scikit-learn",
+          "TensorFlow)",
+          "SQL (MySQL",
+          "PostgreSQL",
+          "SQLite",
+          "IBM Db2)",
+          "R (statistical modeling and visualization using ggplot2",
+          "readr and tidyverse)",
+          "Studio Code",
+          "Jupyter Notebooks",
+          "RStudio",
+          "Databricks",
+          "Salesforce."
+        ]
+      },
+      "all_skills": [
+        "Data modeling (Star Schema",
+        "relationships",
+        "normalization)",
+        "DAX measures and columns",
+        "UI/UX",
+        "Tableau",
+        "Microsoft Power BI",
+        "Microsoft Excel",
+        "Microsoft Power Query",
+        "IBM Cognos Analytics",
+        "GitHub",
+        "Visual",
+        "Adaptable",
+        "collaborative",
+        "accountable",
+        "committed to continuous learning",
+        "effective decision-making.",
+        "Microsoft Excel (Advanced): PivotTables",
+        "dynamic charts",
+        "Power Query",
+        "macros and automation",
+        "VBA",
+        "advanced",
+        "formulas (VLOOKUP/XLOOKUP",
+        "INDEX-MATCH",
+        "logical functions)",
+        "structured tables",
+        "data validation.",
+        "design",
+        "visual storytelling.",
+        "Programming Languages:",
+        "Python (Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "BeautifulSoup",
+        "Scikit-learn",
+        "TensorFlow)",
+        "SQL (MySQL",
+        "PostgreSQL",
+        "SQLite",
+        "IBM Db2)",
+        "R (statistical modeling and visualization using ggplot2",
+        "readr and tidyverse)",
+        "Studio Code",
+        "Jupyter Notebooks",
+        "RStudio",
+        "Databricks",
+        "Salesforce."
+      ]
+    },
+    "projects": [
+      {
+        "name": "Diabetes Classification Model",
+        "date": null,
+        "description": "Ongoing. Developing a Python classification model to detect diabetes in patients using a 45-variable medical dataset. Performing data cleaning, validation, and EDA with pandas, NumPy, seaborn, and matplotlib. Evaluating ML algorithms \u2013 including Logistic Regression, Random Forest, KNN, and XGBoost using scikit-learn. Financial Data Modeling and Forecasting Developed a Monte Carlo simulation in Python to forecast 7-day stock price trends using yfinance, Pandas, and NumPy. Designed visualizations in Matplotlib to interpret confidence intervals and volatility scenarios. Generated risk-based insights to support financial decision-making. LANGUAGES Spanish (Native) English (Proficient - C2) Italian (Intermediate - B2) (IB Bilingual Diploma)",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "IBM Skills Network Professional Certificates:",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "IBM Data Analyst Expected Completion",
+        "issuer": "Jan",
+        "year": 2026,
+        "expiration": null
+      },
+      {
+        "name": "Courses:",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Data Visualization and Dashboards with Excel and Cognos Completed",
+        "issuer": "May",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Python for Data Science",
+        "issuer": "AI & Development Completed - Jun",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Databases and SQL for Data Science with Python Completed",
+        "issuer": "Sep",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Data Analysis with Python Completed",
+        "issuer": "Nov",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Specializations:",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Data Analysis and Visualization Foundations Completed",
+        "issuer": "May",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Universidad Courses:",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Latinoamericana de Advanced Data Analysis for Business Completed",
+        "issuer": "Aug",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Ciencia y Tecnolog\u00eda Deep Learning and Neural Networks Completed",
+        "issuer": "Aug",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Big Data and Processing Technologies Completed",
+        "issuer": "Aug",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "Foundations of Artificial Intelligence and Machine Learning Completed",
+        "issuer": "Aug",
+        "year": 2025,
+        "expiration": null
+      },
+      {
+        "name": "RICE University Bootcamps:",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Clinical Needs Finding Bootcamp  Completed",
+        "issuer": "May",
+        "year": 2024,
+        "expiration": 2024
+      },
+      {
+        "name": "Medical Innovation Bootcamp  Completed",
+        "issuer": "Jun",
+        "year": 2024,
+        "expiration": 2024
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Ultrapark II",
+        "company": "Heredia",
+        "start_date": "Jun 2025",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "San Rafael",
+        "company": "Alajuela",
+        "start_date": "Dec 2024",
+        "end_date": "Mar 2025"
+      }
+    ]
+  },
+  "resume_12.pdf": {
+    "personal_information": {
+      "name": "Menlik Melesse",
+      "email": "menelikmgetachew@gmail.com",
+      "phone": "+1 571-316-0411",
+      "location": "LinkedIn, Github Summary: Data Scientist and Machine Learning Engineer with 6+ years of experience delivering advanced AI/ML and data-driven solutions across healthcare and enterprise domains. Expertise in predictive modeling, NLP pipelines, and end-to-end ML workflows, leveraging Python, R, SQL, Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, PyTorch, XGBoost, LightGBM, MLflow, FastAPI, and Docker. Skilled in handling large-scale structured and unstructured datasets, implementing retrieval-augmented AI, and ensuring robust model performance and compliance. Adept at transforming complex data into actionable insights, improving patient outcomes, operational efficiency, and business impact.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Bachelor of Science in Computer Science",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "Jackson State University, Jackson, MS, USA Aug 2015 \u2013 May 2019"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Machine Learning Engineer, Cigna",
+        "company": "USA",
+        "start_date": "Jul 2023",
+        "end_date": "Present",
+        "description": "\u2022 Designed and deployed transformer-based NLP models using PyTorch, performing regression, classification, and feature engineering on 50,000+ structured and semi-structured healthcare records, improving annotation workflow throughput and model prediction reliability. \u2022 Built end-to-end ML pipelines with FastAPI and containerized using Docker, deployed via AWS SageMaker, reducing model retraining cycles by 2\u20133 days and enabling reproducible production workflows. \u2022 Developed RAG pipelines using LangChain and Hugging Face transformers, leveraging vector embeddings, FAISS, and Pinecone, accelerating unstructured clinical data retrieval and reducing manual annotation time by around 16 hours per week. \u2022 Processed semi-structured datasets from AWS S3 and MongoDB using PySpark and orchestrated via Airflow, performing ETL and feature engineering on 200+ features, improving data readiness for downstream ML tasks. \u2022 Applied XGBoost and LightGBM for predictive modeling, along with SHAP and LIME for interpretable AI, delivering actionable insights that reduced manual review overhead. \u2022 Integrated real-time Kafka streaming pipelines, performing Python-based analysis with Seaborn/Matplotlib and creating stakeholder dashboards in Tableau, enabling live monitoring of annotation KPIs, model outputs, and workflow efficiency for cross-functional teams. \u2022 Monitored deployed models using MLflow, ensuring ML workflow efficiency, deployment reliability, and SLA compliance for clinical NLP pipelines. \u2022 Collaborated cross-functionally with data engineers, data scientists, product managers, and clinical domain experts using GitHub, JIRA, and Confluence, applying Agile (Scrum/Kanban) to deliver high-impact ML solutions on schedule",
+        "technologies": []
+      },
+      {
+        "job_title": "Data Scientist, UST",
+        "company": "USA",
+        "start_date": "Nov 2019",
+        "end_date": "Jun 2023",
+        "description": "\u2022 Developed regression and classification models using Scikit-learn and Statsmodels, segmenting over 2 million client records, improving predictive accuracy by 15% and informing business decisions. \u2022 Automated ETL/ELT pipelines with Apache Spark and Airflow, transforming structured datasets stored in Snowflake and processing 500,000+ records daily, reducing ETL batch processing from 10 hours to 6\u20137 hours. \u2022 Designed dashboards using Power BI, enabling stakeholders to track KPIs and model outputs for 10+ business units, improving reporting efficiency. \u2022 Managed PostgreSQL and MySQL databases and deployed models via Azure ML, reducing model deployment time from days to under 24 hours and delivering 50+ production models. \u2022 Conducted feature engineering and exploratory analysis using Pandas and NumPy, extracting predictive patterns and validating 200+ features for model development. \u2022 Monitored deployed models using Python scripts, tracking metrics and pipeline efficiency, improving operational uptime by 18% across 50+ models weekly. \u2022 Applied Model Performance Monitoring workflows for deployed predictive models in Azure ML, ensuring compliance with SLA metrics and operational reliability",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Programming & Query Languages": [
+          "Python",
+          "R",
+          "SQL"
+        ],
+        "NLP & Generative AI": [
+          "NLP Pipelines",
+          "Transformer Models",
+          "Hugging Face",
+          "LangChain",
+          "Retrieval-Augmented Generation"
+        ],
+        "MLOps & Model Deployment": [
+          "MLflow",
+          "Model Deployment (REST APIs)",
+          "FastAPI",
+          "Docker",
+          "CI/CD for ML Pipelines",
+          "Model"
+        ],
+        "Data Engineering & Big Data": [
+          "PySpark",
+          "Apache Spark",
+          "Databricks",
+          "Airflow",
+          "Kafka",
+          "ETL/ELT Pipeline Development"
+        ],
+        "Cloud Platforms": [
+          "AWS (S3",
+          "Glue",
+          "Redshift",
+          "SageMaker)",
+          "Azure (Azure ML",
+          "Azure Data Factory)"
+        ],
+        "Databases & Warehousing": [
+          "Snowflake",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB"
+        ],
+        "Healthcare Data & Compliance": [
+          "FHIR",
+          "HIPAA Compliance",
+          "Real-World Data (RWD)",
+          "Data Governance"
+        ],
+        "Data Visualization & Reporting": [
+          "Tableau",
+          "Power BI",
+          "Plotly",
+          "Seaborn",
+          "Matplotlib",
+          "Advanced Excel"
+        ],
+        "Core Competencies": [
+          "Problem Solving",
+          "Decision Making",
+          "Stakeholder Communication",
+          "Time Management",
+          "Cross-"
+        ],
+        "Other": [
+          "Machine Learning & Statistical Modeling: Regression",
+          "Classification",
+          "Clustering",
+          "Feature Engineering",
+          "Model Evaluation &",
+          "Validation",
+          "A/B Testing",
+          "Scikit-learn",
+          "XGBoost",
+          "LightGBM",
+          "TensorFlow",
+          "PyTorch",
+          "SHAP",
+          "LIME",
+          "Statsmodels",
+          "Pandas",
+          "NumPy",
+          "(RAG)",
+          "Vector Embeddings",
+          "FAISsS",
+          "Pinecone",
+          "OpenAI APIs",
+          "Prompt Engineering",
+          "Performance Monitoring",
+          "Collaboration & Project Management: Git",
+          "GitHub",
+          "JIRA",
+          "Confluence",
+          "Agile (Scrum",
+          "Kanban)",
+          "Waterfall",
+          "Functional Collaboration",
+          "Attention to Detail"
+        ]
+      },
+      "all_skills": [
+        "Python",
+        "R",
+        "SQL",
+        "NLP Pipelines",
+        "Transformer Models",
+        "Hugging Face",
+        "LangChain",
+        "Retrieval-Augmented Generation",
+        "MLflow",
+        "Model Deployment (REST APIs)",
+        "FastAPI",
+        "Docker",
+        "CI/CD for ML Pipelines",
+        "Model",
+        "PySpark",
+        "Apache Spark",
+        "Databricks",
+        "Airflow",
+        "Kafka",
+        "ETL/ELT Pipeline Development",
+        "AWS (S3",
+        "Glue",
+        "Redshift",
+        "SageMaker)",
+        "Azure (Azure ML",
+        "Azure Data Factory)",
+        "Snowflake",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "FHIR",
+        "HIPAA Compliance",
+        "Real-World Data (RWD)",
+        "Data Governance",
+        "Tableau",
+        "Power BI",
+        "Plotly",
+        "Seaborn",
+        "Matplotlib",
+        "Advanced Excel",
+        "Problem Solving",
+        "Decision Making",
+        "Stakeholder Communication",
+        "Time Management",
+        "Cross-",
+        "Machine Learning & Statistical Modeling: Regression",
+        "Classification",
+        "Clustering",
+        "Feature Engineering",
+        "Model Evaluation &",
+        "Validation",
+        "A/B Testing",
+        "Scikit-learn",
+        "XGBoost",
+        "LightGBM",
+        "TensorFlow",
+        "PyTorch",
+        "SHAP",
+        "LIME",
+        "Statsmodels",
+        "Pandas",
+        "NumPy",
+        "(RAG)",
+        "Vector Embeddings",
+        "FAISsS",
+        "Pinecone",
+        "OpenAI APIs",
+        "Prompt Engineering",
+        "Performance Monitoring",
+        "Collaboration & Project Management: Git",
+        "GitHub",
+        "JIRA",
+        "Confluence",
+        "Agile (Scrum",
+        "Kanban)",
+        "Waterfall",
+        "Functional Collaboration",
+        "Attention to Detail"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Machine Learning Engineer, Cigna",
+        "company": "USA",
+        "start_date": "Jul 2023",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Data Scientist, UST",
+        "company": "USA",
+        "start_date": "Nov 2019",
+        "end_date": "Jun 2023"
+      }
+    ]
+  },
+  "resume_13.pdf": {
+    "personal_information": {
+      "name": "Lakshay Mohata",
+      "email": "lakshay.mohata@gmail.com",
+      "phone": "+91 9873459375",
+      "location": "\u00a7 Lakshay-M07, (cid:239) Lakshay Mohata, #, H",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "\u2013 Present B.Tech in Data Science & Artificial Intelligence CGPA: 8.05",
+        "start_date": null,
+        "end_date": "2025",
+        "gpa": null,
+        "details": "Thapar Institute of Engineering & Technology, Patiala 2025 CBSE Class 12 85.4% Sri Lal Convent School, Delhi 2023 CBSE Class 10 90% Hillwoods Academy, Delhi"
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Languages Python",
+        "C++",
+        "HTML",
+        "CSS",
+        "Libraries Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Frameworks React",
+        "Node.js",
+        "Databases MySQL",
+        "SQLite",
+        "Backend Firebase",
+        "Supabase",
+        "CAD Tools AutoCAD",
+        "SolidWorks"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Edge Vox",
+        "date": null,
+        "description": "AI Voice Support Agent. Developed a voice-based technical support agent by fine-tuning the Qwen 7B model with Oumi on custom technical datasets. Integrated speech recognition, LLM inference, and text-to-speech to deliver real-time, context-aware troubleshooting optimized for edge devices. Smartphone Usage & Addiction Analytics Performedend-to-endanalysisofa7,500-recordsmartphoneusagedatasetusingPython, Pandas, NumPy, Matplotlib, and SciPy. Applied data cleaning, statistical hypothesis testing (ANOVA, Chi-Square, Pear- son/Spearman), correlation analysis, outlier detection, and interactive visualizations to identify factors influencing smartphone addiction and user wellbeing",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": []
+  },
+  "resume_14.pdf": {
+    "personal_information": {
+      "name": "Naresh Singh",
+      "email": "nareshsinghk05@gmail.com",
+      "phone": "+91 9691855700",
+      "location": "Ashta, Madhya Pradesh, India (cid:131)  #  (cid:239) LinkedIn \u00a7 GitHub",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Vellore Institute of Technology Bhopal Expected May",
+        "start_date": null,
+        "end_date": "2026",
+        "gpa": "7.73",
+        "details": "Integrated M.Tech in Computer Science & Engineering (Computational and Data Science) C Bhopal, India Govt. Excellence School, Ashta 2021 Higher Secondary Certificate Percentage: 71.2% Ashta, India Govt. Excellence School, Ashta 2019 Secondary School Leaving Certificate Percentage: 73.8% Ashta, India"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Jindal Stainless",
+        "company": null,
+        "start_date": "Oct 2024",
+        "end_date": "Dec 2024",
+        "description": "Data Analyst Intern India \u2013 Analyzed large-scale datasets to derive actionable business insights. \u2013 Designed interactive Power BI dashboards showcasing key performance indicators. \u2013 Automated data preprocessing workflows, improving data accuracy and reporting speed",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Languages": [
+          "Python",
+          "SQL",
+          "Java",
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "Frameworks/Libraries": [
+          "Pandas",
+          "NumPy",
+          "Scikit-learn",
+          "Matplotlib"
+        ],
+        "Tools": [
+          "Power BI",
+          "MySQL",
+          "PowerPoint"
+        ],
+        "Core Skills": [
+          "Data Analysis",
+          "Machine Learning"
+        ]
+      },
+      "all_skills": [
+        "Python",
+        "SQL",
+        "Java",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "Matplotlib",
+        "Power BI",
+        "MySQL",
+        "PowerPoint",
+        "Data Analysis",
+        "Machine Learning"
+      ]
+    },
+    "projects": [
+      {
+        "name": "AgroKisan",
+        "date": null,
+        "description": "Flask, Machine Learning Oct 2025 \u2013 Dec 2025. \u2013 Developed a smart agriculture platform delivering real-time data and actionable insights to farmers. \u2013 Built a crop recommendation system using scikit-learn and pandas achieving 91% accuracy. \u2013 Implemented a CNN-based apple leaf disease detection model using PyTorch with 89% accuracy. \u2013 Automated real-time and historical commodity price tracking using BeautifulSoup and Selenium. Book Recommendation System | Python, Machine Learning June 2025 \u2013 Aug 2025 \u2013 Processed and transformed a dataset of 200,000+ books using advanced data wrangling techniques. \u2013 Developed a recommendation engine to suggest books based on user preferences and reading patterns. \u2013 Provided insights into popular genres and personalized discovery trends. Fin-Don | Python, Data Analysis Mar 2025 \u2013 Apr 2025 \u2013 Built a classification model to predict income levels with 87% accuracy for donation optimization. \u2013 Analyzed donor datasets using pandas and matplotlib to identify key patterns. \u2013 Enabled targeted outreach strategies to improve donation campaign effectiveness",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Cloud Infrastructure OCI \u2013 July",
+        "issuer": null,
+        "year": 2024,
+        "expiration": null
+      },
+      {
+        "name": "Applied Machine Learning in Python \u2013 Coursera",
+        "issuer": "Jan",
+        "year": 2023,
+        "expiration": null
+      },
+      {
+        "name": "Front-End Development Certificate \u2013 Great Learning",
+        "issuer": "Nov",
+        "year": 2022,
+        "expiration": null
+      },
+      {
+        "name": "Achievements",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Secured top 10% rank in AWS DeepRacer Student League and won a $50 prize.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Achieved 18th rank in CodeChef Code Invicta at VIT Bhopal.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Ranked in the top 5% among 500 teams at a Hackathon held at Hacker House",
+        "issuer": "Goa.",
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Jindal Stainless",
+        "company": null,
+        "start_date": "Oct 2024",
+        "end_date": "Dec 2024"
+      }
+    ]
+  },
+  "resume_15.pdf": {
+    "personal_information": {
+      "name": "Nathaniel Watkins LinkedIn.com/in/theNathanielWatkins",
+      "email": "theNathanielWatkins@gmail.com",
+      "phone": "206.294.2249",
+      "location": "Data Scientist, Machine Learning Seattle, WA I\u2019m a dedicated manager turned Machine Learning Engineer, enthusiastic about the innovative ways technology can positively impact people. I developed excellent communication, leadership and problem solving skills on my previous path, but yearned for a fulfilling challenge better aligned with my technical/engineering background, so I upskilled into Artificial Intelligence/Data Science!",
+      "linkedin": null,
+      "github": "GitHub.com/theNathanielWatkins",
+      "portfolio": "TowardsDataScience.com/@theNathanielW"
+    },
+    "education": [],
+    "experience": [
+      {
+        "job_title": "Udacity 11/",
+        "company": null,
+        "start_date": "2017",
+        "end_date": "Present",
+        "description": "\uf0b7 Won 3rd place with a GRU/LSTM model for Natural Consistently 5-star rated | Provide code reviews & Language text generation (NLP/NLG) constructive feedback | Advise & motivate students \uf0b7 Tied into a front-end for users to create song lyrics Help troubleshoot through challenges & bugs in the style of Weird Al in real time Software Development Student Seattle Recycle Bits",
+        "technologies": []
+      },
+      {
+        "job_title": "Self 07/",
+        "company": null,
+        "start_date": "2016",
+        "end_date": "Present",
+        "description": "Hackathon 02/2018 Computer Science | Statistics | Linear Algebra \uf0b7 Earned 2nd place using Computer Vision and Calculus | Algorithms | Machine Learning Microsoft Azure APIs to classify trash into distinct categories of Recyclable, Compostable or Refuse Property Management Seattle & CA \uf0b7 First implemented as a responsive web app for Essex & W.N.G. 05/2009 \u2014 07/2016 consumers, with a leaderboard system Managed 7 people | Grew business 7% | Awarded for \uf0b7 Also envisioned a business plan to create smart customer service | Reduced turnover 42% trash cans and automated industrial trash sorting Developed reputation for training & teamwork",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Education",
+        "Python",
+        "Data Analytics Machine Learning Engineer Nanodegree",
+        "Udacity 01/2018 \u2014 09/2018",
+        "Machine Learning",
+        "TensorFlow",
+        "SQL",
+        "Model Training",
+        "Testing & Evaluation",
+        "Classification",
+        "Research Implementation",
+        "SciPy",
+        "PyTorch Prediction",
+        "Clustering",
+        "Supervised Learning",
+        "Google Cloud Platform (GCP)",
+        "Report Writing Unsupervised Learning",
+        "Deep Learning",
+        "Data Visualization",
+        "Collaboration",
+        "Neural Networks Reinforcement Learning"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Machine Learning with TensorFlow on GCP",
+        "date": null,
+        "description": "Coursera 07/2018 \u2014 08/2018 NYC Taxi Fare Prediction Capstone Google\u2019s ML ideology | ETL on big data | Deploying Udacity & Kaggle Competition 09/2018 large-scale models to production cloud environments \uf0b7 Successfully deployed a state-of-the-art Wide and Introduction to Programming Nanodegree Deep TensorFlow regressor framework Udacity 09/2016 \u2014 01/2017 \uf0b7 Production-ready and scalable in Cloud ML Engine HTML | CSS | Software Design | Debugging | Python \uf0b7 EDA and trained with 55 million row dataset Pandas | NumPy | Matplotlib | Data Analysis \uf0b7 Placed within top third on the leaderboard with 3.26 RMSE (within 2 points of the top score)",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Udacity 11/",
+        "company": null,
+        "start_date": "2017",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Self 07/",
+        "company": null,
+        "start_date": "2016",
+        "end_date": "Present"
+      }
+    ]
+  },
+  "resume_16.pdf": {
+    "personal_information": {
+      "name": "Carlos Andr\u00e9s \u00c1lvarez",
+      "email": "candres.alv@gmail.com",
+      "phone": "510 704 3598",
+      "location": "Data Scientist & Electronics Engineer Contact Info, email:, cel: (+1)  - (+57) 350 521 3741 - (+57) 300 269 9682, linkedin:  Summary Trilingual Data Scientist and Electronics Engineer with emphasis on Telecom- munications and Process automation. Very interested in development of new technologies, hardware, internet of things, image processing and artificial in- telligence. Passionate for technology, science, and acquiring constantly new knowledge. Good at mathematics and physics, good programmer, disciplined, with skills to work under pressure and within a team.",
+      "linkedin": "https://www.linkedin.com/in/calvarez92/",
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "\u2022 Pontificia Universidad Javeriana Cali",
+        "degree": "Electronics Engineer diploma",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "(2010-2016): HonorablementionwithThesisOnOrthogonalFunctionsfor the Detection and Characterization of Defects in Infrared Nondestructive Testing of Composite Materials \u2022 KarlsruheInstituteofTechnology(2015): ExchangesemesterinKITGer- many \u2022 DeutscheSchuleCaliColombia(1997-2010)-Colombianandinternational baccalaureate (IBO): State exam (ICFES) 6/1000 (1 is the best)"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "\u2022 KiwiCampus-LeadofIntegration&MLEngineer(current): DeepLearn",
+        "company": null,
+        "start_date": null,
+        "end_date": null,
+        "description": "ing researcher for autonomous driving vehicles, in charge of integrating and implementing different pieces of software at device level. Design of software architecture and hardware. \u2022 BD Guidance - IoT Development Engineer (2017): Investigated technolo- giessuchasTensorFlowandOpenCVtorunMLalgorithmsinembedded devices. ProgrammeddeviceslikeRaspberryPiandNodeMCUforclosed environments and rooms applications. Designed the curriculum of vari- ous IoT courses and recorded one course. Evaluated various IoT/Cloud platforms. EvaluatedIoTandMachineLearningservicesofvariousCloud 1 platforms. PresentedwebinarsandtalksaboutIoTandMLseveraltimes. Designed the curriculum of various IoT courses and recorded one course. \u2022 Tesat Spacecom - Research intern (2015): Participated in a development project which was the design of Ka band (20GHz) filters that were ad- justable in their center frequency on the satellite in-orbit. Research \u2022 Characterizationofdefectsofpulsedthermographyinspectionsbyorthog- onal polynomial decomposition in Elsevier NDT & E International Open Source \u2022 easy_memmap: Pythonmemmapwrappertosharearrayseasilybetween processes. \u2022 extended_rospylogs: Extension of logs for rospy based on roscpp. \u2022 node-red-contrib-sensor-ds18b20: Node-RED contrib node to get temper- ature in centigrades from DS18B20 sensors. \u2022 Contributor to dataget: download, extract and process popular machine learning datasets with a single line of bash or python. Areas of Interest Electronics Engineering Embedded Systems, Internet of Things, Signal Processing, Hardware Develop- ment ##### Data Science Deep Learning/Neural Networks, Artificial Intel- ligence, Machine Learning Languages \u2022 Spanish: native \u2022 English: C1 \u2022 German: C1 Programming Languages Python: 5+ years, Matlab+Simulink: 5+ years, C: 2+ years, C++: 2+ years, Mathematica: 1+ years, JavaScript: 1+ years, Java: 1+ years Hardware and Systems: VHDL, SDL MSC, UML Mini-projects: C, Java, Coq 2 Tools/Frameworks Simulation \u2022 Circuits: Multisim, PSpice. \u2022 Electromagnetics: ADS, HFSS, CST, MMana-Gal, QuickField. \u2022 Hardware: Quartus suite, Xilinx suite Hardware: XilinxandAlteraFPGAs, Arduino(Mini, Nano, Uno), Raspberry Pi (2,3), ESP8266 (NodeMCU, Wemos), RF Modules (nRF24L01) Data Science: Tensorflow (python), Scikit Learn (python), Pandas, Numpy Development: Flask (python), Git DevOps: Docker, Ngrok Community Organizations/Groups \u2022 Co-founder of SmartCities & IoT Meetup Medellin \u2022 Co-founder of Machine Learning Meetup Medellin \u2022 Administrator in Machine Learning Colombia \u2022 Contributor to colomb-ia Talks/Conferences and Webinars \u2022 Using TensorFlow for Deep Learning on Autonomous Vehicles at Kiwi Campus at Advanced-Spark-and-TensorFlow-Meetup \u2022 IoT con NodeRed & Watson at SmartCities & IoT Meetup Medellin \u2022 Introduction to Machine Learning at BDG Institute Colombia Tour \u2022 Introducci\u00f3n al Internet de las cosas (IoT) con Raspberry Pi, Node-Red y Watson with BD Guidance on Youtube",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [
+      {
+        "name": "Running Convnets on RaspberryPi",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "IoT Demo with Raspberry, Node-Red and Watson",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Sentiment Analysis using Images with Google",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Snapchat filters in Python with OpenCv and Dlib",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Docker image for python openCV with contrib modules",
+        "date": null,
+        "description": "3 e-Learning",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Object Oriented Programming in Java by University of California on",
+        "date": null,
+        "description": "Coursera",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "QuantumMechanicsforScientistsandEngineersbyDavidMilleronStan-",
+        "date": null,
+        "description": "ford Online",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Machine Learning by Andrew Ng on Coursera",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Audio Signal Processing for Music Applications by Xavier Serra (Univer-",
+        "date": null,
+        "description": "sitat Pompeu Fabra of Barcelona) on Coursera Other Information Scholarships",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "\u201cBecaSaberPro\u201d(2016),2.500.000pesosforpostgraduatestudiesinPUJ",
+        "date": null,
+        "description": "Cali. Second best result of state exams in the university\u2019s engineering faculty",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "\u201cDAAD J\u00f3venes Ingenieros Colombia\u201d (2014/15) All inclusive exchange",
+        "date": null,
+        "description": "program in Germany",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "\u201cBeca Magis\u201d (2010/16) 75% tuition fees all semesters for graduate stud-",
+        "date": null,
+        "description": "ies",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "PADallinclusivescholarship(2009)studentexchangeinGermanyforone",
+        "date": null,
+        "description": "month. Awards",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Highest GPA of electrical department. Winter semester 2013",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Three times highest GPA. Winter semester 2010, summer and winter",
+        "date": null,
+        "description": "semester 2011. Hobbies",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Music: trombone and drums",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Traveling",
+        "date": null,
+        "description": "Personal references",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "CristianGarc\u00eda-LeadDataScientistatKiwiCampus. Cel: 3148627978,",
+        "date": null,
+        "description": "email: cgarcia.e88@",
+        "technologies": [],
+        "links": [
+          "gmail.com"
+        ]
+      },
+      {
+        "name": "Orlando Briceno",
+        "date": null,
+        "description": "CEO at BD Guidance. Cel: 321 477 2967, email:. orlando.briceno@",
+        "technologies": [],
+        "links": [
+          "bdguidance.com"
+        ]
+      },
+      {
+        "name": "Dr. Luis Eduardo Tob\u00f3n",
+        "date": null,
+        "description": "Director of Postgraduates programs at Javeri-. ana University. Cel: 311 335 7844, email: letobon@javerianacali.edu.co 4",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Dr. Tobias Kaesser",
+        "date": null,
+        "description": "Passive Products at Tesat-Spacecom. Email: To-. bias.Kaesser@tesat.de 5",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "\u2022 KiwiCampus-LeadofIntegration&MLEngineer(current): DeepLearn",
+        "company": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_17.pdf": {
+    "personal_information": {
+      "name": "Sean Zheng",
+      "email": "Envelopeblackhorseya@gmail.com",
+      "phone": "886)9124324",
+      "location": "DEVOPSENGINEER \u00b7 TECHNICALLEAD MOBILE(+15, , HOMEblog.seancheng.space, Github-squareblackhorseya, LINKEDINchengchincheng, MEDIUMblackhorseya Summary AnexperiencedDevOpsEngineerwithover5yearsofsoftwareengineeringexpertiseinfintechandblockchain, skilledinsoftwarearchitecture design, infrastructureoperations, andbackenddevelopment.Ledmultipleprojects, establishinghigh-availabilitymicroservicesarchitectures.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "Taiwan",
+        "degree": "NationalTaichungUniversityofScienceandTechnology Taichung",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "BACHELORINCOMPUTERSCIENCE Sep.2010-Jun.2014 OCTOBER26,2024 SEANZHENG \u00b7 R\u00c9SUM\u00c9 1"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "HashgreenInc. Taipei",
+        "company": "Taiwan",
+        "start_date": null,
+        "end_date": null,
+        "description": "TECHNICALLEAD Sep.2021-Nov.2024 \u2022 Leda5-memberteamimplementingagileandDevOpspracticesfromscratch,usingJIRAfortasktracking,GitHubActionsforCI/CD,andDocker forcontainerization,improvingworkflowefficiencyby20%. \u2022 Developedanddeployedadecentralizedexchange(DEX)andSwapDeFisolutionusingChiablockchain.CreatedbackendserviceswithGolang, gRPCforservicecommunication,Ginaswebframework,andutilizedAWSEKSforKubernetesdeployment,enhancingservicestabilityand scalability. \u2022 DesignedBlockchainExplorerandNodeasaServiceusingmicroservicesarchitecture,employingDocker,Helm,andKafkaforreal-timedata streamingandcontainerorchestration.Thissetupenableduserstoqueryblockchaindataandreceivereal-timetransactionupdatesefficiently, significantlyenhancingsystemtransparencyanddataaccessibility. NewtypeGamesLimited Taipei,Taiwan SITERELIABILITYENGINEER Jun.2020-Feb.2021 \u2022 ImplementedamonitoringandlogsystemusingELKStack(Elasticsearch,Logstash,Kibana),integratedwithGrafanaandPrometheus,enabling engineerstoanalyzelogsdirectlyinKibana,reducingrelianceonserveraccessandimprovingdiagnosticefficiency. \u2022 DevelopedaconfigurationmanagementprototypesimilartoHashiCorpVault,focusedonsecureapplicationconfigurationandencryption. Thisprototypeenhancedconfigurationsecuritymanagementbeforeacompany-widelayoffhaltedfurtherdevelopment. TrendMicroInc. Taipei,Taiwan SOFTWAREENGINEERINPRODUCTLICENSINGSERVICE(CONTRACTOR) Oct.2019-Mar.2020 \u2022 Createdaself-servicewebsitewithRBACforuserpermissionsandactivitytrackingusingReactforfrontendand.NETCoreforbackend,deployed onAWSEKS,utilizingHelmforKubernetesorchestration,whichimprovedsystemresponsivenessandsecurity. \u2022 BuiltanSSOsecurityenhancementserviceusingKafkaforpublish-subscribedecoupling,integratedwithdevicedetectionandalerts,which significantlystrengthenedauthenticationsecurity. PresidentFuturesCo.Ltd Taipei,Taiwan SYSTEMENGINEER Sep.2016-Apr.2019 \u2022 Developedabulletinsystemusing.NETCoreRESTfulAPIandAngular2forthemanagementinterface,integratedwithRabbitMQforreal-time messaging,improvinguserengagementby30%. \u2022 ImplementedaGitLab-basedCIpipelinewithDockerforcontainerization,automatingbuild,test,anddeploymentprocesses,whichreduced developmentcycletimeby20%andimprovedversioncontrolefficiency",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Workingon Blockchain",
+        "Kubernetes",
+        "AWS",
+        "PrometheusStack",
+        "CI/CD",
+        "Database",
+        "Programming Go",
+        "Python",
+        "Terraform",
+        "Makefile",
+        "Shellscript",
+        "Languages Mandarin",
+        "English"
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "HashgreenInc. Taipei",
+        "company": "Taiwan",
+        "start_date": null,
+        "end_date": null
+      }
+    ]
+  },
+  "resume_18.pdf": {
+    "personal_information": {
+      "name": "Ruslan Laptev",
+      "email": "ruslanlaptev98@gmail.com",
+      "phone": null,
+      "location": "Frontend Developer Portfolio: GitHub: Location: Moscow Mobile: +7 966 349 45 45 Email:",
+      "linkedin": null,
+      "github": "github.com/RuslanLaptev98",
+      "portfolio": "ruslanlaptev-portfolio.netlify.app/"
+    },
+    "education": [
+      {
+        "institution": "Moscow",
+        "degree": "National Research University \u201cHigher School of Economics\u201d",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "- Bachelor\u2019s Degree, Management 2016 - 2020 LANGUAGES English - fluent Russian - native"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "SEPTEMBER 2021",
+        "end_date": "OCTOBER 2021",
+        "description": "\u25cf Creating a full-stack team project from scratch \u25cf Being a captain of the interns\u2019 team: setting goals, deadlines, reporting the team\u2019s progress to mentors \u25cf js, Express, PostgreSQL, Sequelize, GraphQL, Apollo, SCSS, Ant Design, and more. \u25cf Integration of Keycloak & Grafana POPROSHU.ru - Intern Frontend Developer",
+        "technologies": [
+          "TypeScript",
+          "React",
+          "MobX",
+          "Node"
+        ]
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "JULY 2021",
+        "end_date": "AUGUST 2021",
+        "description": "\u25cf React JS components markup \u25cf Adherence to atomic design pattern \u25cf Using React libraries (PrimeReact, React Icons, etc)",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "JavaScript ES6+",
+        "TypeScript",
+        "React",
+        "Redux / MobX",
+        "Node.js",
+        "PostgreSQL",
+        "mongoDB",
+        "Git",
+        "CSS3",
+        "SCSS",
+        "HTML5",
+        "BEM",
+        "Figma",
+        "and more."
+      ]
+    },
+    "projects": [],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "SEPTEMBER 2021",
+        "end_date": "OCTOBER 2021"
+      },
+      {
+        "job_title": null,
+        "company": null,
+        "start_date": "JULY 2021",
+        "end_date": "AUGUST 2021"
+      }
+    ]
+  },
+  "resume_19.pdf": {
+    "personal_information": {
+      "name": "Naren Mudivarthy",
+      "email": "naren.mudivarthy@gmail.com",
+      "phone": "408-805-6875",
+      "location": "Technical Leader with 10+ years of experience in network automation, secure device provisioning, and scalable service design. Proven track record at Cisco driving high-impact initiatives using Go, Python, gRPC, and Kubernetes. Inventor on a U.S. patent, with a strong focus on security, reliability, and mentoring.",
+      "linkedin": "https://www.linkedin.com/in/naren-mudivarthy",
+      "github": "https://github.com/naren-m/",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "Northern Illinois University (GPA \u2013 4.0/4.0) May",
+        "degree": "\u2022 M.S in Computer Science",
+        "start_date": null,
+        "end_date": "2013",
+        "gpa": null,
+        "details": "\u2022 Bachelor of Engineering - JNTU Kakinada, India (GPA \u2013 3.6/4.0) April 2011"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Technical Leader I",
+        "company": "Cisco Systems",
+        "start_date": "Oct 2021",
+        "end_date": "Present",
+        "description": "Manageability service Technologies \u2013 Go, gRPC, Python, C \u2022 Played a pivotal role in redesigning and implementing the XR Manageability services architecture, significantly enhancing both scalability and reliability while achieving high availability across multiple critical services \u2022 Leveraged GitHub Copilot to accelerate development velocity, achieving 15% faster project delivery while maintaining quality standards with 95% test coverage across all pull requests \u2022 Architected and implemented secure device management features using industry-standard gRPC technologies (gNMI, gNOI, gNSI), enhancing operational efficiency and security. \u2022 Led design and development of critical Cisco Manageability services, including: o Access Control Layer (ACL) implementation utilizing AuthZ and gNSI Authz services for comprehensive policy management o SPIFFE-based authentication and authorization framework, elevating security posture o Key architect and primary point of contact for multiple gNSI services including CertZ, CredentialZ, and BootZ o Successfully implemented BootConfig gNOI service to streamline device initialization \u2022 Developed scalable services enabling seamless device management throughout the entire lifecycle (Day 0 to Day N), facilitating efficient transitions between multiple operational teams \u2022 Optimized MGBL services for horizontal scalability and reliability, resulting in increased service availability of 99% uptime \u2022 Mentored junior engineers through comprehensive technical guidance and detailed code reviews, enabling them to deliver significant contributions to critical gNOI and gNSI services while successfully implementing complex infrastructure changes",
+        "technologies": []
+      },
+      {
+        "job_title": "Senior Software Engineer",
+        "company": "Cisco Systems",
+        "start_date": "Sep 2019",
+        "end_date": "Oct 2021",
+        "description": "\u2022 Designed and implemented support Secure ZTP (RFC 8572) and a compliant server. \u2022 Defined workflows for Ownership Voucher (OV) (RFC 8366) Generation and Distribution. \u2022 Major contributor in Design of Manufacturer Authorized Signing Authority to generate OVs",
+        "technologies": []
+      },
+      {
+        "job_title": "Software Engineer III",
+        "company": "Cisco Systems",
+        "start_date": "Jun 2015",
+        "end_date": "Sep 2019",
+        "description": "Zero Touch Provisioning Technologies \u2013 Python, bash, Docker \u2022 Re-engineered the existing infrastructure, which increase the provisioning speed by 30%. \u2022 Helped increase the feature velocity for that component with code and state coverage of ~80%, reducing the operational costs by 10-fold for the customers. \u2022 Lead and mentored team of 3 Junior engineers, providing technical guidance and code reviews that enabled them to make significant contributions. SPNAC Technologies \u2013 Go, InfluxDB, Kapacitor, Kubernetes, Docker, Kafka, NATS \u2022 Closed-loop Network automation using telemetry data from switches/routers. \u2022 A network health monitoring app with auto remediation deployed as docker into a Kubernetes cluster. \u2022 Implemented cross-platform communication architecture leveraging both Kafka and NATS message buses to enable seamless data flow between applications and Cisco Confidential Naren Mudivarthy naren.mudivarthy@gmail.com 408-805-6875 https://www.linkedin.com/in/naren-mudivarthy https://github.com/naren-m/ infrastructure components based on their specific protocol requirements. Telemetry Technologies \u2013 C, Python, Splunk, Grafana. \u2022 Designed and implemented infra and backend for event/data collection on Nexus devices",
+        "technologies": []
+      },
+      {
+        "job_title": "Java Developer",
+        "company": "Kavi Associates",
+        "start_date": "Jun 2013",
+        "end_date": "Jun 2015",
+        "description": "Locomotive Road Failure Prediction Technologies \u2013 Cloudera, SpringMVC, Hibernate, Spark, SAS \u2022 Implemented streaming service to gather real-time data from various locomotive sensors and streamed them to HDFS. Pretium Technologies - Java, Python, Scala, Spring MVC, Ajax, Hibernate., HighCharts. \u2022 Implemented a code generator for data collection, cleaning, integration, ETL and data viz",
+        "technologies": []
+      },
+      {
+        "job_title": "Full-Stack Developer, XL Academics Technologies",
+        "company": "php, mysql, amcharts",
+        "start_date": "Feb 2012",
+        "end_date": "May 2013",
+        "description": "\u2022 Implemented chat, financial manager and spend analyzer like Mint.com for FMHS users. Patents \u2022 U.S. Patent No. 11978063 - \"Establishing Ownership of Dual Route Processors (RPs) using Secure Zero-Touch Provisioning (ZTP)\" - Issued May 7, 2024 o Innovative solution for secure device ownership validation in dual route processor environments o Role: Primary Inventor (with co-inventor Reda Haddad)",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Languages": [
+          "C",
+          "Go",
+          "python",
+          "Objective-C",
+          "SQL",
+          "Java"
+        ],
+        "Databases": [
+          "MySQL",
+          "PostgreSQL",
+          "InfluxDB",
+          "Prometheus"
+        ],
+        "Other": [
+          "Utilize AI-powered tools (GitHub Copilot",
+          "Claude) to automate routine development tasks",
+          "including commit message generation",
+          "test creation",
+          "and code generation from documentation",
+          "significantly improving productivity and code quality"
+        ]
+      },
+      "all_skills": [
+        "C",
+        "Go",
+        "python",
+        "Objective-C",
+        "SQL",
+        "Java",
+        "MySQL",
+        "PostgreSQL",
+        "InfluxDB",
+        "Prometheus",
+        "Utilize AI-powered tools (GitHub Copilot",
+        "Claude) to automate routine development tasks",
+        "including commit message generation",
+        "test creation",
+        "and code generation from documentation",
+        "significantly improving productivity and code quality"
+      ]
+    },
+    "projects": [
+      {
+        "name": "OpenCV: Face recognition, Emotion recognition, Object tracking, Motion detector.",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Digital augmentation(image overlay) of image/videos on a paper, placed in front of a camera.",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Deep learning: Image Classification, Face Generator, Language Translation, TV Script",
+        "date": null,
+        "description": "Generation, Image styling",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Tekken-py: Python playing Tekken 7.",
+        "date": null,
+        "description": "Cisco Confidential",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Deep Learning Nano Degree Foundation Program",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Cloudera Certified Administrator for Apache Hadoop CCAH",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Technical Leader I",
+        "company": "Cisco Systems",
+        "start_date": "Oct 2021",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Senior Software Engineer",
+        "company": "Cisco Systems",
+        "start_date": "Sep 2019",
+        "end_date": "Oct 2021"
+      },
+      {
+        "job_title": "Software Engineer III",
+        "company": "Cisco Systems",
+        "start_date": "Jun 2015",
+        "end_date": "Sep 2019"
+      },
+      {
+        "job_title": "Java Developer",
+        "company": "Kavi Associates",
+        "start_date": "Jun 2013",
+        "end_date": "Jun 2015"
+      },
+      {
+        "job_title": "Full-Stack Developer, XL Academics Technologies",
+        "company": "php, mysql, amcharts",
+        "start_date": "Feb 2012",
+        "end_date": "May 2013"
+      }
+    ]
+  },
+  "resume_20.pdf": {
+    "personal_information": {
+      "name": "Gaurav Gupta",
+      "email": null,
+      "phone": null,
+      "location": "Aspiring Machine Learning Engineer About Me Hello! I'm Gaurav, a passionate coder with a deep interest in AI, Machine Learning, and software development. My journey in technology is driven by a curiosity to solve complex problems and create meaningful solutions. I'm particularly interested in building healthcare-focused tech solutions that can make a real difference in people's lives. The intersection of technology and healthcare presents unique challenges and opportunities that I find intellectually stimulating. With a strong combination of technical expertise and creative problem-solving, I aspire to explore AI applications for real-world problems. I also believe in the power of data to transform industries and improve human well-being.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [],
+    "experience": [],
+    "skills": {
+      "categories": {
+        "Programming Languages": [
+          "Python",
+          "C++",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "SQL",
+          "MySQL"
+        ],
+        "Frameworks & Libraries": [
+          "React.js",
+          "Node.js",
+          "Django",
+          "Pandas",
+          "TensorFlow",
+          "TailwindCSS"
+        ],
+        "Tools": [
+          "Git",
+          "GitHub",
+          "Power BI"
+        ],
+        "Specialization": [
+          "Machine Learning",
+          "Deep Learning",
+          "Data Analysis",
+          "Automata Theory"
+        ]
+      },
+      "all_skills": [
+        "Python",
+        "C++",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQL",
+        "MySQL",
+        "React.js",
+        "Node.js",
+        "Django",
+        "Pandas",
+        "TensorFlow",
+        "TailwindCSS",
+        "Git",
+        "GitHub",
+        "Power BI",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Analysis",
+        "Automata Theory"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Personalized Health Recommendation System: A project using ML for chronic conditions",
+        "date": null,
+        "description": "(Diabetes, Hypertension, CKD)",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Web-based Real-Time Voting System: Built with React, Node.js, and MongoDB.",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Academic Research Work: Machine Learning, Healthcare, Automata Theory.",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Online Course Recommendation: Academic research work for personalized online",
+        "date": null,
+        "description": "course suggestions using ML algorithms",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Excel Certification",
+        "issuer": "Great Learning",
+        "year": 2023,
+        "expiration": null
+      },
+      {
+        "name": "Power BI Certification",
+        "issuer": "Great Learning",
+        "year": 2023,
+        "expiration": null
+      }
+    ],
+    "career_history": []
+  },
+  "resume_21.pdf": {
+    "personal_information": {
+      "name": "Appala Kalyan",
+      "email": "kalyanappala04@gmail.com",
+      "phone": "8348802666",
+      "location": "Vijayawada, AndhraPradesh  (+91) kalyan-appala apkalyan",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "conversion and identifies the",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "suitability of the motor-generator Amrita School ofEngineering........................................... setupforvariousapplications. B.Tech Oct - 2022 - Present, Tamil"
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": []
+    },
+    "projects": [
+      {
+        "name": "Identifies components such as LCDs, capacitors, breadboards, LEDs,",
+        "date": null,
+        "description": "Python(Intermediate), wires,ICs,batteries,andswitches.Inthisproject,thereisaGUIwhich SQL(Basic),MATLAB hasfouroptions,ESP32,MobileCamera,LaptopCamera (Intermediate) CustomerInformation System usingLPC2148....................... MicrocontrollerPIC16F877A,LPC2148, ArduinoUNO CLanguage,KeiluVision4 Aug-Nov2024,BTech Office Excel,PowerPoint,",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Developed a customer information system prototype using LPC2148",
+        "date": null,
+        "description": "Word microcontroller with Bluetooth interfacing. The system features an Tools Jupyter,VisualStudio LCD display capable of multilingual support in English, Hindi, and Code,KeiluVision4, Tamil MPLABIDE,Arduino Controlling Angular Velocity of a DC Motor Using PID IDE Controller and Observer in Ultrasonic SoftSkills Adaptivity,Creativity, sensor...................................... QuickLearning Case Study Oct2024, LANGUAGES BTech",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "This project focuses on controlling the angular velocity of a DC motor -English",
+        "date": "FullProfessionalProficiency",
+        "description": "using a PID controller and an observer, incorporating feedback from an -Hindi(BilingualProficiency) ultrasonicsensor. -Telugu(NativeorBilingualProficiency) SmartVision SurveillanceSystem...................................... -Tamil(LimitedWorkingProficiency) Python,Arduino Aug 2024, INTERESTS BTech",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Designed and implemented a surveillance system using the ESP32-",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "EmbeddedSystems",
+        "date": "ARMandPIC",
+        "description": "CAMmoduleandMobileusingArduinoandPython",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "AdvancedControlSystems",
+        "date": null,
+        "description": "Analysisof DCGeneratorandMotorusing OOPS................. Python July2023,BTech",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Developed a system to evaluate the efficiency and torque of a DC",
+        "date": null,
+        "description": "generator powered by a DC motor. The project analyzes energy HOBBIES",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Swimming and playing cricket, demonstrating a passion for teamwork.",
+        "date": null,
+        "description": "Alsointerestinthestockmarket REFERENCES",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "AvailableonRequest",
+        "date": null,
+        "description": "",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Nadu",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "ElectricalandComputerEngineering\u2013CGPA:8.76/10.00",
+        "issuer": "CProgrammingforBeginners",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "AcademicExcellenceAward2022\u201324- RankedTopintheElectrical and",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "SQLFoundations",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "ComputerEngineeringBranch",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "OBJECTIVE",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "SR EducationalAcademy................................................",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Pre-final year Electrical and Computer",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Intermediate June  - July",
+        "issuer": "Andhra",
+        "year": 2020,
+        "expiration": 2022
+      },
+      {
+        "name": "Engineering student at Amrita Vishwa",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Pradesh",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Vidyapeetham with a passion for",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "MPC\u2013Grade:9.75/10.00",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "technology and problem-solving. Skilled",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "RavindraBharathi E.MHighSchool...................................",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "inARM architecture",
+        "issuer": "Assembly language",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "SSC April2020",
+        "issuer": "Andhra",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "andcoding",
+        "issuer": "andenjoyworkinginteamsto",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Pradesh",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "create practical and innovative solutions.",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Grade:9.85/10.00",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Looking for opportunities to learn",
+        "issuer": "grow",
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "and make a positive impact through my",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": []
+  },
+  "resume_22.pdf": {
+    "personal_information": {
+      "name": "SHRENIK PAL",
+      "email": "palshreniksp@gmail.com",
+      "phone": "8668697234",
+      "location": "B.Tech Computer Science Engineering Student +91-  LinkedIn GitHub Bhubaneswar, India PROFESSIONAL SUMMARY B.Tech in Computer Science Engineering with a robust foundation in Machine Learning, Python, Flask, and web technologies. Developed AI- powered applications and deployed machine learning models through interactive web interfaces. Passionate about leveraging AI to address real- world challenges while continuously expanding technical expertise.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": "Bhubaneswar Aug",
+        "degree": "Kalinga Institute of Industrial Technology",
+        "start_date": null,
+        "end_date": "2024",
+        "gpa": "9.3",
+        "details": "B.Tech Computer Science Engineering (AI & ML) C (till 4th Semester) Delhi Public School Kashi | Varanasi 2022 - 2024 Higher Secondary (Class XII) Percentage : 80% Sacred Heart Convent School | Sonbhadra 2021 - 2022 Secondary (Class X) Percentage : 86% AWARDS & ACHIEVEMENTS Reliance Foundation Undergraduate Scholarship 2024 Reliance Foundation Reliance Foundation Undergraduate Scholar (2024\u2013Present), awarded for academic excellence and leadership potential"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Machine Learning Summer Internship",
+        "company": "Internship",
+        "start_date": "May 2026",
+        "end_date": "Jul 2026",
+        "description": "KIIT School of Computer Application Remote \u2022 Bhubaneswar Completed an 8-week Machine Learning internship, acquiring hands-on experience in data preprocessing, feature engineering, model training, evaluation, and optimization. Implemented over 6 supervised and unsupervised ML algorithms, including Linear Regression, Logistic Regression, Decision Trees, Random Forest, KNN, and K-Means. Analyzed datasets and developed ML models using Python libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn, while assessing model performance. Technologies / Skills Used : Numpy, Pandas, Scikit Learn, Matplotlib, Supervisied Learning, Unsupervised Learning, Data Visualization",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Programming Languages": [
+          "Python",
+          "C",
+          "C++",
+          "Java"
+        ],
+        "Frameworks & Libraries": [
+          "Flask",
+          "Scikit-learn",
+          "Numpy",
+          "Pandas",
+          "Matplotlib"
+        ],
+        "Tools & Platforms": [
+          "Git",
+          "Github",
+          "Jupyter Notebook",
+          "Visual Studio Code",
+          "Google Colab",
+          "Render"
+        ],
+        "Soft Skills": [
+          "Data Structures & Algorithms",
+          "Problem Solving",
+          "Object Oriented Programming",
+          "Teamwork"
+        ],
+        "Languages": [
+          "Bengali",
+          "Hindi",
+          "English"
+        ],
+        "Other": [
+          "Communication",
+          "Machine Learning"
+        ]
+      },
+      "all_skills": [
+        "Python",
+        "C",
+        "C++",
+        "Java",
+        "Flask",
+        "Scikit-learn",
+        "Numpy",
+        "Pandas",
+        "Matplotlib",
+        "Git",
+        "Github",
+        "Jupyter Notebook",
+        "Visual Studio Code",
+        "Google Colab",
+        "Render",
+        "Data Structures & Algorithms",
+        "Problem Solving",
+        "Object Oriented Programming",
+        "Teamwork",
+        "Bengali",
+        "Hindi",
+        "English",
+        "Communication",
+        "Machine Learning"
+      ]
+    },
+    "projects": [
+      {
+        "name": "CardioShield - CardioVascular Diseases Risk Predictor",
+        "date": null,
+        "description": "Github Website Jun 2026. Individual Project Developed a Random Forest model using over 70,000 patient records to predict cardiovascular disease risk based on 12 clinical and lifestyle features. Created and deployed a Flask-based web application featuring 5+ dashboard sections, providing real-time cardiovascular risk predictions through a responsive UI. Engineered an end-to-end ML pipeline utilizing 6 Technologies / Tools Used : Python, Scikit-learn, Flask, HTML, CSS, Pandas, Random Forest CarValue - AI | Github Website Individual Project Developed an AI-powered car valuation platform using Python, Flask, and XGBoost, trained on 15,000+ vehicle records to provide real- time price predictions. Engineered a machine learning pipeline that processes 10+ vehicle attributes and generates instant PDF valuation reports through a responsive Flask web application. Technologies / Tools Used : Python, Flask, XGBoost, HTML, CSS, JavaScript, Pandas, Scikit-learn",
+        "technologies": [
+          "Python",
+          "Scikit-learn",
+          "Flask",
+          "HTML",
+          "CSS",
+          "Pickle",
+          "covering all stages from preprocessing to deployment"
+        ],
+        "links": []
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AI Tools Workshop Jun",
+        "issuer": null,
+        "year": 2026,
+        "expiration": null
+      },
+      {
+        "name": "Be10x",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      },
+      {
+        "name": "Tata",
+        "issuer": "GenAI Powered Data Analytics Job Simulation Jun",
+        "year": 2026,
+        "expiration": null
+      },
+      {
+        "name": "Forage",
+        "issuer": null,
+        "year": null,
+        "expiration": null
+      }
+    ],
+    "career_history": [
+      {
+        "job_title": "Machine Learning Summer Internship",
+        "company": "Internship",
+        "start_date": "May 2026",
+        "end_date": "Jul 2026"
+      }
+    ]
+  },
+  "resume_23.pdf": {
+    "personal_information": {
+      "name": "OJO SAMUEL ADEDAMOLA",
+      "email": "ojo.samuel.adedamola@gmail.com",
+      "phone": "813 527 8967",
+      "location": "Data Analyst, Data Engineer, Machine Learning Engineer Lagos, Nigeria, +234, , LinkedIn, GitHub, Medium PROFESSIONAL SUMMARY Results-driven Data Analyst and Engineer with 3+ years of experience in banking and financial data systems. Proficient in Python, SQL, SQL Server, and Oracle databases, with a track record of building end-to-end ETL pipelines, automated reconciliation systems, and regulatory reporting workflows. Designed and deployed a production machine learning system that classified 128 million financial transactions with 99.91% accuracy. Adept at transforming high-volume, complex financial data into actionable intelligence through automation, BI dashboards, and scalable data pipelines.",
+      "linkedin": null,
+      "github": null,
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "Federal University of Technology Akure (FUTA)  \u2013 2019",
+        "start_date": null,
+        "end_date": "2014",
+        "gpa": null,
+        "details": "B.Tech, Computer Science Research Project: Malicious and Phishing URL Detection \u2014 applied supervised machine learning techniques to classify malicious URLs using lexical and host-based features"
+      }
+    ],
+    "experience": [
+      {
+        "job_title": "Data Analyst",
+        "company": "Zenith Bank PLC",
+        "start_date": "Jul 2022",
+        "end_date": "Present",
+        "description": "Data Engineering & Automation \u2022 Engineered automated ETL pipelines using Python and SQL to extract, transform, and load transactional data across core banking systems, eliminating manual processing for over 40 recurring reports. \u2022 Built a bulk bank statement generator integrating Oracle PL/SQL queries with REST APIs, enabling on-demand generation of statements at scale for thousands of accounts. \u2022 Developed scheduled Python scripts to extract and spool financial reports at defined intervals from SQL Server and Oracle databases, reducing report turnaround time by 70%. \u2022 Designed and deployed data reconciliation automation pipelines that cross-validate transactional records across multiple financial data systems, cutting reconciliation errors and manual effort by over 60%. \u2022 Automated regulatory reporting workflows by enriching data extracts with multiple internal sources, ensuring timely and accurate submission of CBN and internal compliance reports Machine Learning System \u2014 ZIMS-ML-STREAMING \u2022 Architected and deployed ZIMS-ML-STREAMING, a production ML pipeline that classifies financial transactions into charge categories, processing 128 million transactions from live Oracle data sources. \u2022 Implemented HashingVectorizer for scalable, memory-efficient text feature extraction, enabling batch classification of high-volume transaction descriptions without loading full vocabularies into memory. \u2022 Engineered a class-imbalance handling strategy for an extreme label skew of ~80,000:1, achieving 99.91% accuracy and a Macro-F1 score of 0.93 on the held-out evaluation set. \u2022 Integrated the ML model into the bank's internal data workflow using Python and scikit-learn, replacing manual charge classification and reducing analyst review time significantly. Business Intelligence & Reporting \u2022 Developed BI dashboards using Power BI and Grafana to consolidate transaction and operational data from multiple internal banking systems. \u2022 Collaborated with business stakeholders to translate reporting requirements into automated data pipelines, reducing ad hoc SQL query requests by 40%",
+        "technologies": []
+      },
+      {
+        "job_title": "Cash & Teller Officer",
+        "company": "Zenith Bank PLC",
+        "start_date": "Nov 2021",
+        "end_date": "Jul 2022",
+        "description": "\u2022 Processed high-volume cash transactions with strict accuracy and regulatory compliance, developing foundational knowledge of banking transaction workflows and financial operations. \u2022 Identified recurring data entry discrepancies and proposed process improvements, demonstrating early analytical aptitude that supported transition into a data analyst role",
+        "technologies": []
+      },
+      {
+        "job_title": "NYSC (National Youth Service Corps)",
+        "company": "ICT & Mathematics Teacher",
+        "start_date": "Mar 2020",
+        "end_date": "Mar 2021",
+        "description": "\u2022 Delivered ICT and Mathematics instruction to secondary school students, designing practical computing exercises that improved student engagement with data concepts",
+        "technologies": []
+      },
+      {
+        "job_title": "Front-End Developer / Data Analyst Intern",
+        "company": "Adels Corporate Solutions",
+        "start_date": "Jun 2018",
+        "end_date": "Jan 2019",
+        "description": "\u2022 Built interactive front-end interfaces using HTML, CSS, and JavaScript, and supported data analysis tasks including data cleaning and report generation using Excel and SQL. \u2022 Assisted in automating routine data workflows, gaining foundational experience in data pipeline design and business intelligence reporting. SELECTED SYSTEMS BUILT \u2022 ZIMS-ML-STREAMING \u2014 ML classification pipeline for transaction charge categorization (128M transactions processed) \u2022 Bulk Bank Statement Generator \u2014 automated system integrating Oracle queries and APIs for on-demand account statement generation at scale \u2022 Automated Regulatory Reporting Pipeline \u2014 Python + SQL workflows integrating multiple banking data sources for compliance and CBN reporting \u2022 Transaction Reconciliation Automation \u2014 cross-system validation pipeline for financial records across core banking systems",
+        "technologies": []
+      }
+    ],
+    "skills": {
+      "categories": {
+        "Languages & Databases": [
+          "Python",
+          "SQL",
+          "PL/SQL",
+          "SQL Server",
+          "Oracle Database",
+          "T-SQL"
+        ],
+        "Data Engineering": [
+          "ETL Pipeline Development",
+          "Data Automation",
+          "Reconciliation Systems",
+          "Regulatory Reporting"
+        ],
+        "Machine Learning": [
+          "scikit-learn",
+          "HashingVectorizer",
+          "Imbalanced Classification",
+          "Transaction Analysis",
+          "Fraud Detection"
+        ],
+        "BI & Reporting": [
+          "BI Dashboard Development",
+          "Automated Report Generation",
+          "Data Visualization"
+        ],
+        "Tools & Platforms": [
+          "Git",
+          "GitHub",
+          "REST APIs",
+          "Microsoft Office Suite",
+          "Linux/Bash"
+        ],
+        "Other": [
+          "Financial Data Systems",
+          "Scheduled Job Scripting",
+          "API Integration"
+        ]
+      },
+      "all_skills": [
+        "Python",
+        "SQL",
+        "PL/SQL",
+        "SQL Server",
+        "Oracle Database",
+        "T-SQL",
+        "ETL Pipeline Development",
+        "Data Automation",
+        "Reconciliation Systems",
+        "Regulatory Reporting",
+        "scikit-learn",
+        "HashingVectorizer",
+        "Imbalanced Classification",
+        "Transaction Analysis",
+        "Fraud Detection",
+        "BI Dashboard Development",
+        "Automated Report Generation",
+        "Data Visualization",
+        "Git",
+        "GitHub",
+        "REST APIs",
+        "Microsoft Office Suite",
+        "Linux/Bash",
+        "Financial Data Systems",
+        "Scheduled Job Scripting",
+        "API Integration"
+      ]
+    },
+    "projects": [
+      {
+        "name": "Designed and trained a machine learning model for financial fraud detection, addressing the critical challenge of",
+        "date": null,
+        "description": "extreme class imbalance inherent in real-world transaction datasets",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Implemented feature engineering, resampling strategies, and model evaluation using Python and scikit-learn,",
+        "date": null,
+        "description": "producing documented findings published on Medium",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Open-sourced the project on GitHub with reproducible notebooks, demonstrating end-to-end ML workflow",
+        "date": null,
+        "description": "including data preprocessing, model training, and performance evaluation on imbalanced financial data. PUBLICATIONS",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Why Your Fraud Detection System Probably Catches Almost Nothing",
+        "date": null,
+        "description": "Read on Medium. Explores why standard fraud detection models fail in practice due to class imbalance and proposes mitigation strategies",
+        "technologies": [],
+        "links": []
+      },
+      {
+        "name": "Classifying 128 Million Financial Transactions",
+        "date": null,
+        "description": "Read on Medium. Documents the architecture and engineering decisions behind ZIMS-ML-STREAMING: a production ML pipeline for large- scale transaction classification in a banking environment",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": [
+      {
+        "job_title": "Data Analyst",
+        "company": "Zenith Bank PLC",
+        "start_date": "Jul 2022",
+        "end_date": "Present"
+      },
+      {
+        "job_title": "Cash & Teller Officer",
+        "company": "Zenith Bank PLC",
+        "start_date": "Nov 2021",
+        "end_date": "Jul 2022"
+      },
+      {
+        "job_title": "NYSC (National Youth Service Corps)",
+        "company": "ICT & Mathematics Teacher",
+        "start_date": "Mar 2020",
+        "end_date": "Mar 2021"
+      },
+      {
+        "job_title": "Front-End Developer / Data Analyst Intern",
+        "company": "Adels Corporate Solutions",
+        "start_date": "Jun 2018",
+        "end_date": "Jan 2019"
+      }
+    ]
+  },
+  "resume_24.pdf": {
+    "personal_information": {
+      "name": "SULTAN FATTAH",
+      "email": null,
+      "phone": null,
+      "location": "SUMMARY Highly motivated and results-driven professional with a proven track record at Hillcrest High School, enhancing student learning in STEM subjects and leading a successful Python programming workshop. Excelled in fostering collaboration and creative problem-solving, demonstrating exceptional patience, empathy, and programming skills. Committed to impactful outcomes, significantly boosting students' confidence and abilities. WEBSITE PROFESSIONAL EXPERIENCE  Python Tutor, Hillcrest Highscool Sultanfattah01 New York, NY, October 2020 - January 2023",
+      "linkedin": null,
+      "github": "https://github.com/Sultanfattah01https://github.com/",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "institution": null,
+        "degree": "and friendly research assistance.",
+        "start_date": null,
+        "end_date": null,
+        "gpa": null,
+        "details": "Increased resource accessibility by cataloging and organizing library materials effectively. Expected in May,2027 Raised public awareness of available resources through social Bachelor of Science in Computer And Information media posts highlighting valuable collections or upcoming Sciences at City College of New York (CCNY) events. Collaborated with colleagues to design engaging displays that showcased new arrivals and promoted reading interests. Assisted in budget management by tracking expenditures on books, materials, and supplies within established guidelines"
+      }
+    ],
+    "experience": [],
+    "skills": {
+      "categories": {},
+      "all_skills": [
+        "Mentored students in Python programming",
+        "guiding them through",
+        "coding concepts and project development to test and enhance their",
+        "Proficient in Python",
+        "C++",
+        "HTML",
+        "skills.",
+        "Javascript",
+        "CSS",
+        "and Flask Organized and led engaging coding events",
+        "fostering a collaborative",
+        "Programming and innovative learning environment.",
+        "Digital Marketing Techniques Played a key role in making programming more accessible and",
+        "Patience and Empathy enjoyable through interactive lessons and workshops.",
+        "Problem-solving skills Empowered peers to build real-world applications by providing",
+        "Creative Thinking hands-on instruction and support.",
+        "Collaboration and Teamwork Led a Python programming workshops where I created and delivered",
+        "lessons on basic Python programming to a group of 20 students",
+        "enhancing their coding skills and problem-solving abilities."
+      ]
+    },
+    "projects": [
+      {
+        "name": "Teach Assistant , Hillcrest Highschool",
+        "date": null,
+        "description": "Developed \"Wing Run\": A C++ game New York, NY | May 2021 - March 2023 demonstrating expertise in game development and animation. Provided homework assistance using specific curriculum and Created a Weather Prediction Program: materials. Utilized Python to forecast weather patterns. Supported students with helpful study habits and exam Conducted Research at Vaughn College: strategies. Engaged in AI and 3D modeling research, Collaborated with students to complete homework assignments, collaborated with experts, and presented identify lagging skills, and correct weaknesses. findings on AI's potential impacts. Motivated students towards learning and studying to build self- Published Projects on GitHub: Shared confidence and reduce fear of failure. various applications and projects with the Taught STEM subjects including Chemistry, Computer Science, Math, and U.S. History, fostering a deep understanding of developer community. complex topics among students. Web Development: Designed and developed dynamic, responsive websites using HTML, Assistant Librarian, Hillcrest Highschool CSS, and JavaScript, ensuring a seamless user experience and visually appealing October 2022 - June 2023 layouts. voice recognition program: Built a voice Created positive relationships with students from diverse recognition system using Jupyter Notebook backgrounds ensuring equal access to all resources. and Librosa to analyze audio recordings and Supported community engagement through the facilitation of determine gender with precision. various library programs and events. Enhanced patron satisfaction by providing efficient, accurate,",
+        "technologies": [],
+        "links": []
+      }
+    ],
+    "certifications": [],
+    "career_history": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs",
+      "raw_experience_text": "Software Engineering Intern | Google | June 2021 - August 2021\nLaunched Google+ Stories and contributed to story generation algorithm. Developed spam comment detection program using Google Prediction API. Technologies: Python, TensorFlow, SQL\n\nProduct/Tech Intern | Next Tech | May 2020 - August 2020\nDeveloped metrics dashboards for AdWords and Outbrain marketing campaigns using Linux/Python/SQL. Created test cases for financial models. Technologies: Python, SQL, Linux"
+    },
+    {
+      "resume_id": "resume_02_marketing",
+      "raw_experience_text": "Marketing Assistant, Office of Admissions - University of Florida (September 2020 - Present)\nWorks with admission marketing team to create recruiting materials. Initiated the use of Google Analytics to track website traffic. Tools: Google Analytics, WordPress\n\nAdvertising Intern, Company Name (May 2022 - August 2022)\nResearched over 200 customers to determine customer experience. Created graphical dashboards. Tools: Tableau, Excel"
+    },
+    {
+      "resume_id": "resume_03_no_tech_listed",
+      "raw_experience_text": "Event Intern - La Belle Fete Weddings & Events (Aug 2021 - Present)\nCommunicates and presents unique ideas to clients with a budget of up to 3 million pesos. Assists event coordinators day-of and carried out delegated tasks at 6 events."
+    },
+    {
+      "resume_id": "resume_04_reversed_order",
+      "raw_experience_text": "University of Florida - Marketing Assistant (2020-2023)\nCreated 4 new web pages for the admissions office. Stack: HTML, CSS, WordPress"
+    }
+  ]
+}

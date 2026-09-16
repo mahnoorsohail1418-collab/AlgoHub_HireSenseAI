@@ -1,0 +1,24 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs",
+      "raw_certifications_text": "AWS Certified Solutions Architect - Associate, Amazon Web Services, 2023\nCertified Kubernetes Administrator (CKA), The Linux Foundation, Issued: March 2022\nGoogle Data Analytics Professional Certificate - Coursera (2021)"
+    },
+    {
+      "resume_id": "resume_02_marketing",
+      "raw_certifications_text": "- Google Analytics Individual Qualification (GAIQ), 2022\n- HubSpot Content Marketing Certification\n- Meta Blueprint Certified Digital Marketing Associate, 2021"
+    },
+    {
+      "resume_id": "resume_03_finance",
+      "raw_certifications_text": "CFA Level I Candidate (2023)\nBloomberg Market Concepts Certification - Bloomberg, 2022\nFINRA Series 7 (2021 - 2024)"
+    },
+    {
+      "resume_id": "resume_04_no_issuer",
+      "raw_certifications_text": "Certified ScrumMaster (CSM)\nPMP\nSix Sigma Green Belt"
+    },
+    {
+      "resume_id": "resume_05_messy_format",
+      "raw_certifications_text": "CompTIA Security+ SY0-601, issued 2021, expires 2024\nMicrosoft Certified: Azure Fundamentals (AZ-900) | Microsoft | 2023\nCertified Ethical Hacker v11 (CEH), EC-Council"
+    }
+  ]
+}

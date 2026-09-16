@@ -1,0 +1,20 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs",
+      "raw_projects_text": "Productivity Tool | Software Engineering and Design Class Project (Jan 2020 - Present)\nCollaborates in team of 3 to design tool in OCaml and C++ to facilitate efficient calendar management. Technologies: OCaml, C++. Link: github.com/agator/productivity-tool\n\nAccess Database Development Project | Information Technology (Dec 2020)\nCollaborated as team to plan, design and develop a donor tracking system to streamline the donation process. Tools: Microsoft Access, SQL"
+    },
+    {
+      "resume_id": "resume_02_no_link",
+      "raw_projects_text": "Personal Portfolio Website (2022)\nBuilt a responsive personal portfolio site to showcase design work. Stack: HTML, CSS, JavaScript"
+    },
+    {
+      "resume_id": "resume_03_multiple_links",
+      "raw_projects_text": "AI Resume Parser - Hiresense AI (2026)\nBuilt a Python pipeline to extract structured data from resumes. Technologies: Python, spaCy, PyMuPDF. GitHub: github.com/mahnoor/hiresense-ai. Demo: hiresense-demo.vercel.app"
+    },
+    {
+      "resume_id": "resume_04_url_style_link",
+      "raw_projects_text": "E-Commerce Recommendation Engine (Spring 2023)\nDesigned a collaborative filtering recommendation system for an e-commerce platform. Built with Python and scikit-learn. https://github.com/student/rec-engine"
+    }
+  ]
+}

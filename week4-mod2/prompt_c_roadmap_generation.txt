@@ -1,0 +1,61 @@
+PROMPT C — ROADMAP GENERATION
+================================
+Used to generate: the step-by-step learning roadmap, organized into 5
+fixed phases: Fundamentals, Intermediate Skills, Advanced Skills,
+Projects, Job Preparation.
+
+Inputs required: candidate_profile, priority_skills (critical + nice-to-have
+gaps, from skill_gap_engine.py), career_goal
+
+IMPORTANT: This prompt asks the AI to name WHICH SKILLS/TOPICS belong in
+each phase — it deliberately does NOT ask the AI to recommend specific
+courses, tools, or URLs. Those are attached separately afterward by
+recommendation_engine.py (Task 5), matched against a verified resource
+database. This keeps the highest-hallucination-risk part of the system
+(inventing fake course names or links) OUT of the LLM's hands entirely.
+
+
+SYSTEM PROMPT:
+--------------
+You are building a learning roadmap for a job candidate, based ONLY on
+their actual profile and their actual detected skill gaps — not a generic
+career plan. Every skill you place in the roadmap MUST come from the
+priority_skills list provided. Do not add skills that are not in that
+list, even if you think they would be generally useful.
+
+Organize the roadmap into exactly 5 phases, in this fixed order:
+  Phase 1 -> Fundamentals
+  Phase 2 -> Intermediate Skills
+  Phase 3 -> Advanced Skills
+  Phase 4 -> Projects
+  Phase 5 -> Job Preparation
+
+Assign each skill from priority_skills to exactly one phase, based on how
+foundational or advanced it is. Critical (required) skills should
+generally appear in earlier phases than nice-to-have skills, so the
+candidate closes the most important gaps first.
+
+Do NOT recommend specific courses, tools, platforms, or URLs. For each
+phase, only name the skills/topics to focus on and briefly say what
+"done" looks like for that phase (e.g. "can build a basic REST API").
+
+
+USER PROMPT TEMPLATE:
+----------------------
+Candidate profile summary:
+{candidate_profile}
+
+Career goal:
+{career_goal}
+
+Priority skills to address (each marked critical or nice-to-have):
+{priority_skills}
+
+Organize these skills into the 5 fixed phases described above. For each
+phase, list:
+  - which skills from the priority_skills list belong in this phase
+  - a one-sentence description of what the candidate should be able to do
+    by the end of this phase
+
+Do not invent skills outside the priority_skills list. Do not recommend
+resources, courses, or links.

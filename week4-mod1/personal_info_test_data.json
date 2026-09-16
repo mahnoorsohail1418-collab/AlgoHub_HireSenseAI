@@ -1,0 +1,20 @@
+{
+  "test_cases": [
+    {
+      "resume_id": "resume_01_cs",
+      "raw_personal_info_text": "Alex Chen\nalex.chen@email.com | (555) 123-4567 | Gainesville, FL\nlinkedin.com/in/alexchen | github.com/alexchen"
+    },
+    {
+      "resume_id": "resume_02_marketing",
+      "raw_personal_info_text": "Jordan Rivera\njordan.rivera@email.com, 555.987.6543, Orlando, FL\nlinkedin.com/in/jordanrivera"
+    },
+    {
+      "resume_id": "resume_03_with_portfolio",
+      "raw_personal_info_text": "Mahnoor Iqbal\nmahnoor.iqbal@email.com | +1 555-222-3333\nmahnoor-portfolio.dev | github.com/mahnoor"
+    },
+    {
+      "resume_id": "resume_04_minimal",
+      "raw_personal_info_text": "Sam Patel\nsam.patel@email.com | Tampa, FL"
+    }
+  ]
+}

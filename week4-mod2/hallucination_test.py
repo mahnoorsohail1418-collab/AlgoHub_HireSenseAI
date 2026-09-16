@@ -1,0 +1,401 @@
+"""
+hallucination_test.py
+
+Week 4, Module 2, Task 6 - Hallucination Testing
+
+WHAT THIS DOES:
+Runs the REAL roadmap generator (not mock mode) against 9 deliberately
+tricky test cases, then checks the output for the specific hallucination
+risks named in the task doc:
+  1. Does the AI invent skills that were never in the original gap list?
+  2. Does it invent/hallucinate a fake resource, instead of using the
+     verified database (or correctly saying "not found")?
+  3. Does it recommend advanced topics inappropriately early for a
+     near-total-beginner candidate?
+  4. Are ALL resource URLs actually traceable to the verified database?
+
+AUTOMATED vs MANUAL checks:
+Checks 1, 2, and 4 can be verified programmatically (a skill/URL either
+is or isn't in a known list). Check 3 and the general "does this
+explanation sound made-up" judgment require a HUMAN to actually read the
+output - this script prints those clearly for manual review rather than
+pretending to auto-grade something that needs judgment.
+
+Results are written to llm_evaluation.csv.
+"""
+
+import csv
+import json
+import time
+
+from roadmap_generator import generate_roadmap, MOCK_MODE
+from resource_database import RESOURCE_DB
+
+
+def all_verified_urls() -> set:
+    urls = set()
+    for resources in RESOURCE_DB.values():
+        for r in resources:
+            urls.add(r["url"])
+    return urls
+
+
+VERIFIED_URLS = all_verified_urls()
+
+
+# ---------------------------------------------------------------------------
+# Automated checks
+# ---------------------------------------------------------------------------
+
+def check_no_invented_skills(result: dict, allowed_skills: set) -> tuple:
+    invented = []
+    for phase in result["roadmap"]:
+        for skill in phase.get("skills", []):
+            if skill not in allowed_skills:
+                invented.append(skill)
+    passed = len(invented) == 0
+    detail = "No invented skills found." if passed else f"INVENTED SKILLS FOUND: {invented}"
+    return passed, detail
+
+
+def check_all_resources_verified(result: dict) -> tuple:
+    unverified = []
+    for r in result["recommended_resources"]:
+        if r["resource_url"] not in VERIFIED_URLS:
+            unverified.append(r["resource_url"])
+    passed = len(unverified) == 0
+    detail = "All resource URLs are verified." if passed else f"UNVERIFIED URLS FOUND: {unverified}"
+    return passed, detail
+
+
+def check_phase_structure(result: dict) -> tuple:
+    expected_names = ["Fundamentals", "Intermediate Skills", "Advanced Skills", "Projects", "Job Preparation"]
+    actual_names = [p.get("phase_name") for p in result["roadmap"]]
+    passed = actual_names == expected_names
+    detail = "Phase structure correct." if passed else f"PHASE MISMATCH: got {actual_names}"
+    return passed, detail
+
+
+def check_no_resources_for_unverified_skill(result: dict, unverified_skill: str) -> tuple:
+    """For Test 1: confirm the made-up skill got NO fabricated resource."""
+    matches = [r for r in result["recommended_resources"] if r["skill"] == unverified_skill]
+    passed = len(matches) == 0
+    detail = f"Correctly recommended nothing for '{unverified_skill}'." if passed else f"HALLUCINATED RESOURCE for '{unverified_skill}': {matches}"
+    return passed, detail
+
+
+def check_reason_not_suspiciously_confident_for_fake_skill(result: dict, fake_skill: str) -> tuple:
+    """
+    MANUAL/QUALITATIVE CHECK - not fully automatable. This does a simple
+    keyword-based sanity check (does the model admit uncertainty?) but a
+    human should still read the full reason text themselves - a model
+    could pass this simple check while still subtly fabricating. This
+    exists to prompt manual review, not replace it.
+    """
+    reason = next((g["reason"] for g in result["skill_gaps"] if g["skill"] == fake_skill), "")
+    uncertainty_phrases = ["don't recognize", "not an established", "not a recognized",
+                           "unfamiliar", "not confident", "no widely known", "not a known"]
+    admitted_uncertainty = any(phrase in reason.lower() for phrase in uncertainty_phrases)
+    detail = (
+        f"Model admitted uncertainty about '{fake_skill}' - good sign, but READ THE FULL TEXT YOURSELF: {reason}"
+        if admitted_uncertainty else
+        f"Model did NOT admit uncertainty and gave a confident-sounding explanation for a MADE-UP skill - "
+        f"likely hallucination, READ THE FULL TEXT YOURSELF: {reason}"
+    )
+    return admitted_uncertainty, detail
+
+
+# ---------------------------------------------------------------------------
+# Test cases
+# ---------------------------------------------------------------------------
+
+def test_1_invented_skill():
+    candidate_profile = {"name": "Test1", "skills": ["Python"], "years_experience": 1}
+    ats_analysis = {"skills_score": 0.3, "final_score": 0.4}
+    skill_gaps = [
+        {"skill": "Quantum Flux Programming", "priority": "critical"},  # made up, not a real skill
+        {"skill": "SQL", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Software Engineer", target_job="Software Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "Quantum Flux Programming")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "Quantum Flux Programming")),
+    ]
+    return result, checks
+
+
+def test_2_near_beginner_advanced_role():
+    candidate_profile = {"name": "Test2", "skills": [], "years_experience": 0}
+    ats_analysis = {"skills_score": 0.0, "final_score": 0.05}
+    skill_gaps = [
+        {"skill": "Python", "priority": "critical"},
+        {"skill": "SQL", "priority": "critical"},
+        {"skill": "AWS", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Senior Software Engineer", target_job="Senior Software Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("phase_structure_correct", *check_phase_structure(result)),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+    ]
+    return result, checks
+
+
+def test_3_normal_case_skill_leakage():
+    candidate_profile = {"name": "Test3", "skills": ["Python", "SQL", "Pandas"], "years_experience": 1.5}
+    ats_analysis = {"skills_score": 0.4, "final_score": 0.55}
+    skill_gaps = [
+        {"skill": "Statistics", "priority": "critical"},
+        {"skill": "Scikit-learn", "priority": "critical"},
+        {"skill": "Deep Learning", "priority": "critical"},
+        {"skill": "PyTorch", "priority": "nice-to-have"},
+        {"skill": "MLOps", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Machine Learning Engineer", target_job="Machine Learning Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("phase_structure_correct", *check_phase_structure(result)),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+    ]
+    return result, checks
+
+
+def test_4_plausible_sounding_fake_skill():
+    """
+    Variant of Test 1, but with a fake skill name that SOUNDS technically
+    legitimate (unlike 'Quantum Flux Programming', which is obviously
+    sci-fi). This checks whether the fix only works on obviously-fake
+    names or genuinely generalizes to more convincing fakes.
+    """
+    candidate_profile = {"name": "Test4", "skills": ["Python", "SQL"], "years_experience": 2}
+    ats_analysis = {"skills_score": 0.5, "final_score": 0.6}
+    skill_gaps = [
+        {"skill": "Distributed Vector Sharding", "priority": "critical"},  # made up, but plausible-sounding
+        {"skill": "SQL", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Backend Engineer", target_job="Backend Engineer", level="Intermediate")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "Distributed Vector Sharding")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "Distributed Vector Sharding")),
+    ]
+    return result, checks
+
+
+def test_5_boring_sounding_fake_skill():
+    """
+    Another Test 1 variant, using a deliberately mundane/boring fake skill
+    name instead of an exotic one. A model might be more tempted to
+    confidently fabricate a reason for something that sounds like ordinary,
+    unremarkable enterprise jargon.
+    """
+    candidate_profile = {"name": "Test5", "skills": ["Excel", "SQL"], "years_experience": 1}
+    ats_analysis = {"skills_score": 0.35, "final_score": 0.4}
+    skill_gaps = [
+        {"skill": "Batch Record Normalization", "priority": "nice-to-have"},  # made up, deliberately boring-sounding
+        {"skill": "SQL", "priority": "critical"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Data Analyst", target_job="Data Analyst", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "Batch Record Normalization")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "Batch Record Normalization")),
+    ]
+    return result, checks
+
+
+def test_6_fake_version_of_real_skill():
+    """
+    A different hallucination flavor: NOT a fully invented skill, but a
+    real, well-known technology paired with a version number that doesn't
+    exist. Tests whether the model fabricates plausible-sounding details
+    about a fake version of something real, which is an easier trap to
+    fall into than a fully made-up name.
+    """
+    candidate_profile = {"name": "Test6", "skills": ["JavaScript", "HTML", "CSS"], "years_experience": 1.5}
+    ats_analysis = {"skills_score": 0.45, "final_score": 0.5}
+    skill_gaps = [
+        {"skill": "React 25", "priority": "critical"},  # React is real, version 25 does not exist
+        {"skill": "JavaScript", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Frontend Engineer", target_job="Frontend Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, "React 25")),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, "React 25")),
+    ]
+    return result, checks
+
+
+def test_7_multiple_fake_skills_at_once():
+    """
+    Instead of one fake skill mixed with real ones, this gives the model
+    TWO fake skills in the same request. Tests whether hallucination risk
+    "stacks" - i.e. whether the model holds up when it has to flag more
+    than one unrecognized term at once, not just a single isolated case.
+    """
+    candidate_profile = {"name": "Test7", "skills": ["Python"], "years_experience": 2}
+    ats_analysis = {"skills_score": 0.4, "final_score": 0.45}
+    fake_skill_1 = "Recursive Latency Compression"
+    fake_skill_2 = "Adaptive Token Meshing"
+    skill_gaps = [
+        {"skill": fake_skill_1, "priority": "critical"},
+        {"skill": fake_skill_2, "priority": "critical"},
+        {"skill": "Python", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Backend Engineer", target_job="Backend Engineer", level="Intermediate")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill_1", *check_no_resources_for_unverified_skill(result, fake_skill_1)),
+        ("no_resources_for_fake_skill_2", *check_no_resources_for_unverified_skill(result, fake_skill_2)),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_fake_skill_1", *check_reason_not_suspiciously_confident_for_fake_skill(result, fake_skill_1)),
+        ("no_confident_fabrication_fake_skill_2", *check_reason_not_suspiciously_confident_for_fake_skill(result, fake_skill_2)),
+    ]
+    return result, checks
+
+
+def test_8_near_miss_typo_of_real_skill():
+    """
+    A typo'd version of a real, well-known skill ('Djnago' instead of
+    'Django'). This is a trickier trap than a fully made-up name, because
+    the model might silently auto-correct it in its head and treat it as
+    the real thing without flagging anything - which would still count
+    as a hallucination, since the CANDIDATE never actually listed the
+    real skill.
+    """
+    candidate_profile = {"name": "Test8", "skills": ["Python", "HTML"], "years_experience": 1}
+    ats_analysis = {"skills_score": 0.4, "final_score": 0.42}
+    fake_skill = "Djnago"  # typo of "Django"
+    skill_gaps = [
+        {"skill": fake_skill, "priority": "critical"},
+        {"skill": "HTML", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Backend Engineer", target_job="Backend Engineer", level="Beginner")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, fake_skill)),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, fake_skill)),
+    ]
+    return result, checks
+
+
+def test_9_fake_certification_sounding_skill():
+    """
+    A fake skill formatted to look like an official certification
+    ('CACP - Certified AI Cloud Practitioner'). Certifications carry an
+    inherent air of legitimacy (acronym + formal title), so this checks
+    whether that formatting alone is enough to fool the model into
+    treating it as real, compared to a plain fake skill name.
+    """
+    candidate_profile = {"name": "Test9", "skills": ["AWS", "Python"], "years_experience": 2.5}
+    ats_analysis = {"skills_score": 0.5, "final_score": 0.55}
+    fake_skill = "CACP - Certified AI Cloud Practitioner"
+    skill_gaps = [
+        {"skill": fake_skill, "priority": "critical"},
+        {"skill": "AWS", "priority": "nice-to-have"},
+    ]
+    result = generate_roadmap(candidate_profile, ats_analysis, skill_gaps,
+                               career_goal="Cloud Engineer", target_job="Cloud Engineer", level="Intermediate")
+
+    allowed_skills = {g["skill"] for g in skill_gaps}
+    checks = [
+        ("no_invented_skills", *check_no_invented_skills(result, allowed_skills)),
+        ("no_resources_for_fake_skill", *check_no_resources_for_unverified_skill(result, fake_skill)),
+        ("all_resources_verified", *check_all_resources_verified(result)),
+        ("no_confident_fabrication_for_fake_skill", *check_reason_not_suspiciously_confident_for_fake_skill(result, fake_skill)),
+    ]
+    return result, checks
+
+
+# ---------------------------------------------------------------------------
+# Runner
+# ---------------------------------------------------------------------------
+def run_all_tests():
+    if MOCK_MODE:
+        print("WARNING: MOCK_MODE is on (no GEMINI_API_KEY found). This will "
+              "test the assembly logic, but a mock response can't hallucinate, "
+              "so this doesn't actually test the real AI. Set GEMINI_API_KEY "
+              "to run this for real.\n")
+
+    tests = [
+        ("Test 1: Invented skill name", test_1_invented_skill),
+        ("Test 2: Near-beginner targeting Senior role", test_2_near_beginner_advanced_role),
+        ("Test 3: Normal case - skill leakage check", test_3_normal_case_skill_leakage),
+        ("Test 4: Plausible-sounding fake skill", test_4_plausible_sounding_fake_skill),
+        ("Test 5: Boring-sounding fake skill", test_5_boring_sounding_fake_skill),
+        ("Test 6: Fake version of a real skill", test_6_fake_version_of_real_skill),
+        ("Test 7: Multiple fake skills at once", test_7_multiple_fake_skills_at_once),
+        ("Test 8: Near-miss typo of a real skill", test_8_near_miss_typo_of_real_skill),
+        ("Test 9: Fake certification-sounding skill", test_9_fake_certification_sounding_skill),
+    ]
+
+    csv_rows = []
+
+    for test_name, test_fn in tests:
+        print(f"\n{'=' * 60}\n{test_name}\n{'=' * 60}")
+        result, checks = test_fn()
+        for check_name, passed, detail in checks:
+            status = "PASS" if passed else "FAIL"
+            print(f"  [{status}] {check_name}: {detail}")
+            csv_rows.append({
+                "test_case": test_name,
+                "check": check_name,
+                "result": status,
+                "details": detail,
+            })
+
+        print("\n  --- Skill gap explanations (read these yourself for tone/accuracy) ---")
+        for gap in result["skill_gaps"]:
+            print(f"  * {gap['skill']} ({gap['priority']}): {gap['reason']}")
+
+        if not MOCK_MODE:
+            # FIX (found while running 6 test cases back-to-back): the free
+            # tier's per-minute quota (15 requests/min) gets exhausted partway
+            # through a full run, since each test makes ~4 API calls. A short
+            # pause between test cases spreads the calls out enough to avoid
+            # hitting the limit mid-run. Real-API tests are naturally slower
+            # because of this pause - that's expected, not a bug.
+            print("\n  (pausing 20s before next test to stay under the free-tier rate limit...)")
+            time.sleep(20)
+
+    with open("llm_evaluation.csv", "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["test_case", "check", "result", "details"])
+        writer.writeheader()
+        writer.writerows(csv_rows)
+
+    print(f"\n\nResults saved to llm_evaluation.csv ({len(csv_rows)} checks across {len(tests)} test cases)")
+
+
+if __name__ == "__main__":
+    run_all_tests()
