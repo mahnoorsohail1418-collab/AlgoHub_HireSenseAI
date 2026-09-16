@@ -23,45 +23,48 @@ Most "AI resume screeners" either (a) do simple keyword matching dressed up as A
 ## Project Structure
 
 AlgoHub_HireSenseAI/
-├── weekly tasks_1/ # Week 1 — PDF resume parser foundations
-│ ├── task1.docx … task6/ # incremental tasks building the pipeline
-│ └── resume_parser_project_task7/ # final combined Week 1 deliverable
-├── week2/ # Week 2 — ATS scoring research
-│ ├── similarity_engine.py
-│ ├── resume.txt / job_description.txt
-│ └── similarity_output.txt
-├── week3/ # Week 3 — ATS evaluation engine
-│ ├── ats_engine_v2.py
-│ ├── skill_matcher.py / skill_gap_engine.py
-│ ├── experience_matcher.py / education_matcher.py
-│ ├── semantic_matcher_v2.py
-│ ├── ats_evaluation.ipynb
-│ └── deleiverable/ # packaged Week 3 deliverable
-├── week4-mod1/ # Week 4, Module 1 — full resume parser
-│ ├── resume_parser_v3.py
-│ ├── candidate_profile.py
-│ ├── personal_info_extractor.py, education_extractor.py,
-│ │ experience_extractor.py, certification_extractor.py,
-│ │ projects_extractor.py, skills_extractor.py
-│ ├── section_splitter.py
-│ ├── run_evaluation.py / parser_evaluation_v2.{csv,json}
-│ └── MODULE_1_DOCUMENTATION.docx
-├── week4-mod2/ # Week 4, Module 2 — AI roadmap generator
-│ ├── roadmap_generator.py / roadmap_schema.json
-│ ├── recommendation_engine.py / resource_database.py
-│ ├── hallucination_test.py / llm_evaluation.csv
-│ ├── prompt_a_career_analysis.txt
-│ ├── prompt_b_skill_gap_explanation.txt
-│ ├── prompt_c_roadmap_generation.txt
-│ ├── module2_task1_design.md
-│ └── ai_testing_report.pdf
-├── frontend/ # Working web app (Flask)
-│ ├── app.py
-│ ├── backend_modules/ # shared parsing/scoring/roadmap logic
-│ ├── templates/index.html
-│ └── static/{script.js, style.css}
-├── pictures_mvp/ # Demo screenshots (1.png – 7.png)
-└── testing resumes/ # Sample resumes used for testing (resume_01–05.pdf)
+├── weekly tasks_1/                  # Week 1 — PDF resume parser foundations
+│   ├── task1.docx ... task6/        #   incremental tasks building the pipeline
+│   └── resume_parser_project_task7/ #   final combined Week 1 deliverable
+├── week2/                           # Week 2 — ATS scoring research
+│   ├── similarity_engine.py
+│   ├── resume.txt / job_description.txt
+│   └── similarity_output.txt
+├── week3/                           # Week 3 — ATS evaluation engine
+│   ├── ats_engine_v2.py
+│   ├── skill_matcher.py / skill_gap_engine.py
+│   ├── experience_matcher.py / education_matcher.py
+│   ├── semantic_matcher_v2.py
+│   ├── ats_evaluation.ipynb
+│   └── deleiverable/                #   packaged Week 3 deliverable
+├── week4-mod1/                      # Week 4, Module 1 — full resume parser
+│   ├── resume_parser_v3.py
+│   ├── candidate_profile.py
+│   ├── personal_info_extractor.py
+│   ├── education_extractor.py
+│   ├── experience_extractor.py
+│   ├── certification_extractor.py
+│   ├── projects_extractor.py
+│   ├── skills_extractor.py
+│   ├── section_splitter.py
+│   ├── run_evaluation.py / parser_evaluation_v2.{csv,json}
+│   └── MODULE_1_DOCUMENTATION.docx
+├── week4-mod2/                      # Week 4, Module 2 — AI roadmap generator
+│   ├── roadmap_generator.py / roadmap_schema.json
+│   ├── recommendation_engine.py / resource_database.py
+│   ├── hallucination_test.py / llm_evaluation.csv
+│   ├── prompt_a_career_analysis.txt
+│   ├── prompt_b_skill_gap_explanation.txt
+│   ├── prompt_c_roadmap_generation.txt
+│   ├── module2_task1_design.md
+│   └── ai_testing_report.pdf
+├── frontend/                        # Working web app (Flask)
+│   ├── app.py
+│   ├── backend_modules/             #   shared parsing/scoring/roadmap logic
+│   ├── templates/index.html
+│   └── static/  (script.js, style.css)
+├── pictures_mvp/                    # Demo screenshots (1.png – 7.png)
+└── testing resumes/                 # Sample resumes used for testing (resume_01–05.pdf)
 
 
 ## Weekly Progress
